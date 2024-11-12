@@ -1,0 +1,59 @@
+concordance:: [[Strongs/H6213]] 
+language:: [[Hebrew]] 
+translations:: to [[Create]], Do, [[Make]]
+
+- 'Asah means "to create, do, make."
+- I. CREATION:
+	- (1) This verb, which occurs over 2600 times in the Old Testament, is used as a synonym for "create" only about 60 times.
+		- (1a) There is nothing inherent in the word to indicate the nature of the creation involved;
+		- (1b) it is only when ‘asah is parallel to bara' that we can be sure that it implies creation.
+		- (1c) Because asah describes the most common of human (and divine) activities, it is ill-suited to communicate theological meaning-except where it is used with bara' or other terms whose technical meanings are clearly established.
+		- (1d) The most instructive occurrences of 'asah are in the early chapters of Genesis.
+			- (1d1) ((668690af-301e-4392-934d-981994f267f7)) uses the verb bara' to introduce the Creation account, and ((670fa5d9-e602-4af9-881c-9fd54e778bbf)) speaks of its detailed exécution: "And God made [asah] the firmament…"
+			- (1d2) Whether or not the firmament was made of existing material cannot be determined, since the passage uses only ‘asah.
+			- (1d3) But it is clear that the verb expresses creation, since it is used in that context and follows the technical word bara'. The same can be said of other verses ((670fa734-3c0b-421b-8c10-f3a5903ea058)) (the lights of heaven); ((6710fb48-dc77-469d-a050-ae1c996ddb52)), ((670e5763-7704-4a98-9559-3cd1c3d3ed14)) (the animals); ((66d718cf-b0b8-4c5f-a4e3-fc7f0bc7887a)); ((66d5ac99-81d6-4003-babb-d39aa39f4b00)) (all his work); and 6:6 (man).
+			- (1d4) In ((66d5abac-59bb-47af-bdf3-474e3c613dee)) - ((66d718cf-096c-4c3c-b8ec-887e0127fbd5)), however, 'asah must mean creation from nothing, since it is used as a synonym for bara'. The text reads, "Let us make ['asah] man in our image, after our likeness. So God created [bara'] man in his own image.:.."
+			- (1d5) Similarly, ((6710fd63-5e36-4f69-ae28-57b37038c5a1)) states: "These are the generations of the heavens and of the earth when they were created [bara'], in the day that the Lord God made ['asah] the earth and the heavens."
+			- (1d6) Finally, Gen 5:1 equates the two as follows: "In the day that God created [bara'] man, in the likeness of God made ['asah] he him."
+			- (1d7) The unusual juxtaposition of bara' and 'asah in ((66d5acb3-4506-4792-a657-21f7794eb9f2)) refers to the totality of creation, which God had "created" by "making."
+	- (2) It is unwarranted to overly refine the meaning of asah to suggest that it means creation from something, as opposed to creation from nothing.
+	- (3) Only context can determine its special nuance. It can mean either, depending upon the situation.
+- II. GENERAL: ‘Ashah means "to make, do, create."
+	- (1) In its primary sense this verb represents the production of various objects.
+		- (1a) This includes making images and idols: "Thou shalt not make unto thee any graven image ..." (Ex 20:4).
+		- (1b) The verb can mean to make something into something: "And the residue thereof he maketh a god, even his graven image..." (Is 44:17).
+	- (2) In an extended use this verb means to prepare a meal, a banquet, or even an offering: "And he [Abraham] took butter, and milk, and the calf which he had dressed, and set it before them [his three guests]..." (Gen 18:8).
+	- (3) In Gen 12:5 'ashah means "to acquire" (as it often does): "And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran...." The "souls that they had gotten" probably were slaves.
+	- (4) Used in association with "Sabbath" or the name of other holy days, this word signifies "keeping" or "celebrating": "All the congregation of Israel shall keep it [the Passover]" (Ex 12:47).
+	- (5) In a related sense the word means "to spend" a day: "For who knoweth what is good for man in this life, all the days of his vain life Which he spendeth as a shadow?" (Eccl 6:12).
+	- (6) Depending upon its object, ‘ashah has several other nuances within the general concept of producing some product.
+		- (6a) For example, with the object "book" the verb means "to write": “... Of making many books there is no end ..." (Ecel 12:12).
+		- (6b) The Bible also uses this word of the process of war: "These made war with Bera king of Sodom..." (Gen 14:2).
+		- (6c) Sometimes the word represents an action: "And Joshua made peace with them, and made a league with them..." (Josh 9:15).
+		- (6d) "To make a mourning" is to observe it: “... And he [Joseph] made a mourning for his father seven days" (Gen 50:10).
+		- (6d) With "name" the verb means "to gain prominence and fame". "Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name ..." (Gen 11:4).
+		- (6e) With the word "workmanship" the word signifies "to work": "And I have filled him with the spirit of God ..., and in all manner of workmanship,. to work in gold, and in silver, and in brass" (Ex 31:3-4).
+	- (7) 'Ashah may represent the relationship of an individual to another in his action or behavior, in the sense of what one does. So Pharaoh asks Abram: "What is this that thou hast done unto me?" (Gen 12:18).
+	- (8) Israel pledged: "All that the Lord hath said will we do, and be obedient” (Ex 24:7).
+	- (9) With the particle *le* the verb signifies inflicting upon another some act or behavior: "Then Abimelech called Abraham, and said unto him, What hast thou done unto us?" (Gen 20:9).
+	- (10) With the particle *’im* the word may mean "to show," or "to practice" something toward someone. The emphasis here is on an ongoing mutual relationship between two parties obligating them to a reciprocal act: "O Lord God of my master Abraham, I pray thee, send me good speed this day, and show kindness unto my master Abraham" (Gen 24:12).
+	- (11) In Gen 26:29 'ashah appears twice in the sense "to practice toward"; "That thou wilt do us no harm, as we have not touched thee, and as we have done unto thee nothing but good..."
+	- (12) Used absolutely this verb sometimes means "to take action": "Let Pharaoh do this, and let him appoint officers over the land.." (Gen 41:34).
+		- (12a) In the Hebrew ‘ashah has no object in this passage-it is used absolutely.
+		- (12b) Used in this manner it may also signify "to be active": "She seeketh wool, and flax, and worketh willingly with her hands" (Prov 31:13).
+	- (13) In 1 Chr 28:10 the verb (used absolutely) means "to go to work," to go about doing a task: "Take heed now; for the Lord hath chosen thee to build a house for the sanctuary: be strong, and do it."
+	- (14) This verb used of plants signifies "bringing forth." In ((670fa6d4-5c71-422c-8da3-31c88c7bc398)) it means "to bear" fruit: ... And the fruit tree [bearing] fruit after his kind..."
+	- (15) In another nuance this verb represents what a plant does in producing grain: "... It hath no stalk: the bud shall yield no meal ..." (Hos 8:7).
+	- (16) The word signifies the production of branches, too: "It was planted in a good soil by great waters, that it might bring forth branches, and that it might bear fruit, that it might be a goodly vine" (Eze 17:8).
+	- (17) 'Ashah is used theologically of man's response to divine commands.
+		- (17a) God commanded Noah: "Make thee an ark of gopher wood..." (Gen 6:14).
+		- (17b) Similarly Israel was commanded "to construct” a sanctuary for God (Ex 25:8).
+	- (18) The manipulation of the blood of the sacrifice is what the priest is to do (Lev 4:20).
+	- (19) The entire cultic [religious] activity is described by 'ashah: "As he hath done this day, so the Lord hath commanded to do ..." (Lev 8:34).
+	- (20) Thus in his acts a man demonstrates his inward commitment and, therefore, his relationship to God (Deut 4:13).
+	- (21) Doing God's commands brings life upon a man (Lev 18:5).
+	- (22) This verb is also applied specifically to all aspects of divine acts and actions.
+		- (22a) In the general sense of His actions toward His people Israel, the word first occurs in Gen 12:2, where God promises "to make" Abram a great nation.
+		- (22b) 'Ashah is also the most general Old Testament expression for divine creating. Every aspect of this activity is described by this word: "For in six days the Lord made heaven and earth.." (Ex 20:11). This is its meaning in its first biblical occurrence: "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament.. " ((670fa5d9-e602-4af9-881c-9fd54e778bbf))
+	- (23) This word is used of God's acts effecting the entire created world and individual men (Ex 206).
+	- (24) God's acts and words perfectly correspond, so that what He says He does, and what He does is what He has said (Gen 21:1; Ps 115:3).

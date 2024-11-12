@@ -1,0 +1,53 @@
+concordance:: [[Strongs/H2398]] 
+language:: [[Hebrew]] 
+translations:: to miss, [[Sin]], sin-[[Guilt]]/Purification
+
+- a prim. root; prop. to miss; hence, (fig. and gen.) to sin; by infer. to forfeit, lack, expiate, repent, (caus.) lead astray, condemn:
+	- sin (188x)
+	- purify (11x)
+	- cleanse (8x)
+	- sinner (8x)
+	- committed (6x)
+	- offended (4x)
+	- blame (2x)
+	- done (2x)
+	- fault (1x)
+	- harm (1x)
+	- loss (1x)
+	- miss (1x)
+	- offender (1x)
+	- purge (1x)
+	- reconciliation (1x)
+	- sinful (1x)
+	- trespass (1x)
+- Chata' means sin; sin-guilt; sin purification; sin offering. Chata', as a verb, means "to miss, sin, be guilty, forfeit, purify."
+	- (1) The basic nuance of chata is sin conceived as missing the road or mark;
+		- (1a) illustrated in Judg 20:16: "There were 700 left-handed Benjamite soldiers who "could sling stones at a hair breadth, and not miss."
+		- (1b) The meaning is extended in Prov 19:2: "He who makes haste with his feet sinneth."
+		- (1c) The intensive form is used in Gen 31:39: "That which was torn of beasts I brought not unto thee; I bare the loss of it...."
+	- (2) From this basic meaning comes the word's chief usage to indicate moral failure toward both God and men, and certain results of such wrongs.
+		- (2a) The first occurrence of the verb is in Gen 20:6, God's word to Abimelech after he had taken Sarah: "Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her. (cf. Gen 39:9).
+		- (2b) Sin against God is defined in Josh 7:11: "Israel hath sinned, and they have also transgressed my covenant which I commanded them... "
+		- (2c) Also note Lev 4:27: "And if any one of the common people sin through ignorance, while he doeth somewhat against any of the commandments of the Lord concerning things which ought not to be done, and be guilty."
+	- (3) The verb may also refer to the result of wrongdoing, as in Gen 43:9: "... Then let me bear the blame for ever."
+	- (4) Deut 24:1-4, after forbidding adulterous marriage practices, con-cludes: "... For that is abomination before the LORD: and thou shalt not cause the land to sin..."
+	- (5) Similarly, those who pervert justice are described as "those who by a word make a man out to be guilty" (Is 29:21).
+	- (6) This leads to the meaning in Lev 9:15:
+		- (6a) "And he .. took the goat... and slew it, and offered it for sin..."
+		- (6b) The effect of the offerings for sin is described in Ps 51:7: "Purge me with hyssop, and I shall be clean ..." (cf. Num 19:1-13).
+	- (7) Another effect is seen in the word of the prophet to evil Babylon: "You have sinned against your life" (Hab. 2:10).
+	- (8) The word is used concerning acts committed against men, as in
+		- (8a) Gen 42:22: "Spake I not unto you, saying, Do not sin against the child..." and
+		- (8b) 1 Sa 19:4: "Do not let the king sin against his servant David, since he has not sinned against you
+	- (9) Men are
+		- (9a) to turn from sin - a path/ life-style, or act deviating from God's direction (1 Kin 8:35)
+		- (9b) to depart from sin (2 Kin 10:31)
+		- (9c) be concerned about it (Ps 38:18)
+		- (9d) confess it (Num 5:7)
+	- (10) It also connotes the guilt or condition of sin (Gen 18:20),
+	- (11) means purification from sin (Num 8:7; 9:9),
+	- (12) the sin offering (Lev 4:1-5:13; 6:24-30) for
+		- (12a) some specific sin
+		- (12b) committed unwittingly
+		- (12c) without intending to do it
+		- (12d) perhaps even without knowing it at the time (Lev. 4:2; 5:15)
