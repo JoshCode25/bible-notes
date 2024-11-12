@@ -56,6 +56,14 @@
 	- John 5:19
 	  id:: 6676bfe5-f9a4-4f12-99db-7ab32a0b5aea
 	  So [[Jesus]] said to them, "Truly, truly, I say to you, the [[Son]] can do nothing of his own accord, but only what he sees the [[Father]] doing. For whatever the Father does, that the Son does like-wise.
+- John 7
+	- John 7:37
+	  On the [[Last]] [[Day]] of the [[Feast]], the great day, [[Jesus]] [stood]([[Stand]]) up and cried out, "If anyone [[Thirst]]s, let him [[Come]] to me and [[Drink]].
+	- John 7:38
+	  id:: 67334fbf-15d7-4bb1-ac04-c3644c32c508
+	  Whoever [[Believe]]s in [Me]([[Jesus]]), as the [[Scripture]] has said, 'Out of his [[Heart]] will [[Flow]] [[River]]s of [living]([[Life]]) [[Water]].'"
+	- John 7:39
+	  Now this [He]([[Jesus]]) said about the [Spirit]([[Holy Spirit]]), whom those who [[Believe]]d in him were to [[Receive]], for as yet the Spirit had not been [given]([[Gift]]), because Jesus was not yet [glorified]([[Glory]]).
 - John 10
   collapsed:: true
 	- John 10:10

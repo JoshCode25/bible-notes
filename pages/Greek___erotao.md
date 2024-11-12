@@ -2,8 +2,7 @@ concordance:: [[Strongs/G2065]]
 language:: [[Greek]] 
 translations:: [[Ask]], [[Pray]], [[Desire]]
 
-- appar. from 2046 [comp. 2045]; to interrogate; by impl. to request:
-	- TODO  Finish #Do-List
+- appar. from [[Greek/ereo]] [comp. [[Greek/ereunao]]]; to interrogate; by impl. to request:
 	- ask (23x)
 	- beseech (14x)
 	- pray (14x)
