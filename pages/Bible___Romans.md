@@ -126,6 +126,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 2:18
 	  and [[Know]] [His]([[God]]) [[Will]] and approve what is excellent, because you are [[Instruct]]ed from the [[Law]];
 	- Romans 2:19
+	  id:: 66b4b0db-a49c-49ca-b422-b70f9954992b
 	  and if you are sure that you yourself are a [[Guide]] to the [[Blind]], a [[Light]] to those who are in [[Dark]]ness,
 	- Romans 2:20
 	  an [[Instruct]]or of the [[Fool]]ish, a [[Teacher]] of [[Children]], having in the [[Law]] the embodiment of [[Knowledge]] and [[Truth]] —
@@ -900,6 +901,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 13:11
 	  Besides this you know the [[Time]], that the [[Hour]] has [[Come]] for you to wake from [[Sleep]]. For [[Salvation]] is nearer to us now than when we [[First]] [[Believe]]d.
 	- Romans 13:12
+	  id:: 66cd4870-71c5-4cd9-aa7f-e54dfce33b2e
 	  The [[Night]] is far [[Gone]]; the [[Day]] to is at [[Hand]]. So then let us cast off the [[Work]]s of [[Dark]]ness and put on the [[Armor]] of [[Light]].
 		- ((66aa6f74-f71b-4db1-b03e-e4ef15e12ce7))
 	- Romans 13:13

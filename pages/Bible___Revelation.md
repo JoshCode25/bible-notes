@@ -80,13 +80,19 @@ Tag:: [[Eschatology]]
 	  with fine [[Linen]], bright and [[Pure]]" —
 	  for the fine linen is the [[Righteous]] [[Deed]]s of the [[Saint]]s.
 	- Revelation 19:11
+	  id:: 6684088b-6d15-45ec-b99a-4b264f3c31cd
 	  Then [I]([[John]]) [saw]([[See]]) [[Heaven]] opened, and behold, a [[White]] [[Horse]]! The [One]([[Jesus]]) sitting on it is called [[Faithful]] and [[True]], and in [[Righteous]]ness [He]([[Christ]]) [[Judge]]s and makes [[War]].
 	- Revelation‬ ‭19‬:‭12‬
 	  [His]([[Jesus]]) [[Eye]]s are like a flame of [[Fire]], and on [His]([[Christ]]) [[Head]] are many [[Diadem]]s, and He has a [[Name]] [[Written]] that no one [[Know]]s but Himself.
 	- Revelation‬ ‭19‬:‭13
 	  [He]([[Jesus]]) is clothed in a robe dipped in [[Blood]], and the [[Name]] by which [He]([[Christ]]) is called is The [[Word]] of [[God]].
 	- Revelation‬ ‭19‬:‭14
-	  And the [armies]([[Army]]) of [[Heaven]], arrayed in fine [[Linen]], [[White]] and [[Pure]], were [[Follow]]ing [Him]([[Jesus]]) on white [[Horse]]s.
+	  And the [armies]([[Army]]) of [[Heaven]], arrayed in fine [[Linen]], [[White]] and [[Pure]], were [[Follow]]ing [Him]([[Christ]]) on white [[Horse]]s.
+	- Revelation 19:15
+	  From [His]([[Christ]]) [[Mouth]] [[Come]]es a [[Sharp]] [[Sword]] with which to [[Strike]] down the [[Nation]]s, and he will [[Rule]] them with a [[Rod]] of [[Iron]]. He will tread the winepress of the [[Fury]] of the [[Wrath]] of [[God]] the [[Almighty]].
+	- Revelation 19:16
+	  id:: 6734a18b-ad5e-4344-8e42-edc65b24c77f
+	  On [His]([[Christ]]) [[Robe]] and on his [[Thigh]] he has a [[Name]] [[Written]], [[King]] of kings and [[LORD]] of lords.
 - Revelation 20
   id:: 667ff8ab-4cb9-4e42-81c0-660aeb975ed6
   collapsed:: true

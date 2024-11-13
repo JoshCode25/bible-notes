@@ -93,7 +93,8 @@
 	  They stumble because they disobey the word, as they were destined to do.
 		- ((66c5d4e2-f469-4fa5-a7b7-2d6a8b120307))
 	- 1 Peter 2:9
-	  But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
+	  id:: 66c5d635-907b-4027-b071-98af255038db
+	  But you are a [chosen]([[Choice]]) [[Race]], a [[Royal]] [[Priest]]hood, a [[Holy]] [[Nation]], a [[People]] for [His]([[God]]) own possession, that you may [[Proclaim]] the excellencies of him who [[Call]]ed you out of [[Dark]]ness into his marvelous [[Light]].
 		- ((66c5d6ef-45fa-4475-91d0-4f81181df8c5)), ((66c5d71e-f005-4ea5-9b4a-636158f35cee))
 	- 1 Peter 2:10
 	  Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.

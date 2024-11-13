@@ -1,9 +1,11 @@
 - 1 Timothy 1
+  collapsed:: true
 	- 1 Timothy 1:2
 	  id:: 6720cd3b-ce83-4e0b-bbfa-64ef4ea986bb
 	  To [[Timothy]], [my]([[Paul]]) [[True]] [[Child]] in the [[Faith]]:
 	  [[Grace]], [[Mercy]], and [[Peace]] from [[God]] the [[Father]] and [[Christ]] [[Jesus]] our [[LORD]].
 - 1 Timothy 2
+  collapsed:: true
 	- 1 Timothy 2:12
 	  id:: 6710f66d-5b8d-4c93-a9d3-a6e9d87214ef
 	  [I]([[Paul]]) do not [[Permit]] a [[Woman]] to [[Teach]] or to exercise [[Authority]] over a [[Man]]; rather, she is to remain [[Quiet]].
@@ -16,6 +18,7 @@
 - 1 Timothy 3
   id:: 666b1a6d-1c26-407a-bb7b-92c80d9b0a32
 - 1 Timothy 4
+  collapsed:: true
 	- 1 Timothy 4:1
 	  id:: 6696fb23-1924-4500-be08-a136a3b0de6a
 	  Now the [Spirit]([[Holy Spirit]]) expressly says that in later [[Time]]s some will depart from the [[Faith]] by [devoting]([[Devote]]) themselves to [deceitful]([[Deceive]]) [[Spirit]]s and [[Teach]]ings of [[Demon]]s, #Eschatology
@@ -50,3 +53,13 @@
 	  [[Practice]] these things, immerse [yourself]([[Timothy]]) in them, so that all may [[See]] your [[Progress]] .
 	- 1 Timothy 4:16
 	  Keep a close [[Watch]] on [yourself]([[Timothy]]) and on the [[Teach]]ing. Persist in this, for by so doing you will [[Save]] both yourself and your [[Hear]]ers.
+- 1 Timothy 6
+	- 1 Timothy 6:14
+	  to [[Keep]] the [[Command]]ment unstained and [[Free]] from [[Reproach]] until the [[Appear]]ing of our [[LORD]] [[Jesus]] [[Christ]],
+		- ((6684088b-6d15-45ec-b99a-4b264f3c31cd))
+	- 1 Timothy 6:15
+	  which [He]([[Christ]]) will [[Display]] at the proper [[Time]] - [He]([[Jesus]]) who is the [[Bless]]ed and only [[Sovereign]], the [[King]] of kings and [[LORD]] of lords,
+		- ((6734a18b-ad5e-4344-8e42-edc65b24c77f))
+	- 1 Timothy 6:16
+	  id:: 6734a0ee-fd6b-4c82-9e53-585e8e23557e
+	  who [[Alone]] has [[Immortal]]ity, who [[Dwell]]s in unapproachable [[Light]], whom no one has ever seen or can [[See]]. To [Him]([[Christ]]) be [[Honor]] and [[Etern]]al [[Dominion]]. [[Amen]].

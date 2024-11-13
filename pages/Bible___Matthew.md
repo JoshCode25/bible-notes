@@ -1,8 +1,12 @@
 - Matthew 6
-  collapsed:: true
 	- Matthew 6:6
 	  id:: 666ae020-4eff-4382-ab6a-d00b9ab66a43
 	  But when you [[Pray]], go into your [[Room]] and shut the [[Door]] and pray to your [Father]([[God]]) who is in [[Secret]]. And your [[Father]] who [[See]]s in secret will [[Reward]] you.
+	- Matthew 6:22
+	  id:: 67349ea5-1c0a-41c2-a93c-8e191852a661
+	  "The [[Eye]] is the [[Lamp]] of the [[Body]]. So, if your eye is [[Health]]y, your whole body will be [[Full]] of [[Light]],
+	- Matthew 6:23
+	  but if your [[Eye]] is [[Bad]], your whole [[Body]] will be [[Full]] of [[Dark]]ness. If then the [[Light]] in you is darkness, how great is the darkness!
 	- Matthew 6:30
 	  id:: 6720ceef-fc55-40e3-be04-28de027ab2c9
 	  But if [[God]] so [[Clothes]] the [[Grass]] of the [[Field]], which today is [alive]([[Life]]) and tomorrow is [[Throw]]n into the [[Oven]], will he not much more clothe you, O you of little [[Faith]]?

@@ -52,6 +52,10 @@
 	- Luke 15:20
 	  id:: 66d84686-8c9b-4a21-8945-eaaf8039db75
 	  And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him.
+- Luke 16
+	- Luke 16:8
+	  id:: 67349f54-3316-4f0b-868a-0cc066df6ea2
+	  The [[Master]] commended the dishonest [[Manager]] for his [[Shrewd]]ness. For the [[Son]]s of this [[World]] are more shrewd in dealing with their own [[Generation]] than the sons of [[Light]].
 - Luke 19 #Annotate
   collapsed:: true
 	- Luke 19:1

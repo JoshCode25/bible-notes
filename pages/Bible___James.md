@@ -49,6 +49,7 @@ Theme:: [[Work]]ing [[Faith]] out
 	- James 1:16
 	  Do not be [[Deceive]]d, [my]([[James]]) [[Beloved]] [[Brother]]s.
 	- James 1:17
+	  id:: 6696582a-6473-4185-b147-761d35a516f9
 	  Every [[Good]] [[Gift]] and every [[Perfect]] gift is from [above]([[God]]), coming down from the [[Father]] of [[Light]]s with whom there is no variation or [[Shadow]] due to [[Change]].
 	- James 1:18
 	  Of [His]([[God]]) own [[Will]] he brought us forth by the [[Word]] of [[Truth]], that we should be a kind of [[FirstFruit]]s of his [[Creature]]s.
