@@ -119,6 +119,7 @@
 	- Hebrews 11:2
 	  For by [it]([[Faith]]) the people of old received their commendation.
 	- Hebrews 11:3
+	  id:: 666b1895-581a-40f9-b467-4ba9158b6672
 	  By [[Faith]] we understand that the [[Universe]] was [[Create]]d by the [[Word]] of [[God]], so that what is seen was not made out of things that are visible.
 	- Hebrews 11:6
 	  id:: 666b1929-cc73-499b-887e-7919f8d483b9

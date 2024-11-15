@@ -9,6 +9,7 @@
 	- John 1:4
 	  In [Him]([[Christ]]) was [[Life]], and the life was the [[Light]] of [men]([[Mankind]]).
 	- John 1:5
+	  id:: 66f4369c-0797-4883-ba00-11d3d0184f05
 	  The [[Light]] [[Shine]]s in the [[Dark]]ness, and the darkness has not [[Overcome]] it.
 	- John 1:6
 	  There was a [[Man]] [[Sent]] from [[God]], whose [[Name]] was [John]([[John the Baptist]]).

@@ -211,6 +211,7 @@ Theme:: [[Work]]ing [[Faith]] out
 	- James 4:13
 	  Come now, you who say, "Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit"—
 	- James 4:14
+	  id:: 669904d0-1feb-4e7c-8d8e-25611c037880
 	  yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.
 	- James 4:15
 	  Instead you ought to say, "If the Lord wills, we will live and do this or that."

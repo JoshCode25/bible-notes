@@ -2,7 +2,7 @@ concordance:: [[Strongs/G5457]]
 language:: [[Greek]] 
 translations:: [[Shine]], [[Light]], [[Fire]]
 
-- from an obs. phao (to shine, or make manifest, espec. by rays; comp. 5316, [[Greek/phemi]]); luminousness in the widest application, nat. or artif., abstr. or concr., lit. or fig.):
+- from an obs. phao (to shine, or make manifest, espec. by rays; comp. [[Greek/phaino]], [[Greek/phemi]]); luminousness in the widest application, nat. or artif., abstr. or concr., lit. or fig.):
 	- light (68x)
 	- fire (2x)
 - Phos, (akin to *phao*, "to give light", from roots *pha-* and *phan*-, expressing "light as seen by the eye," and, metaphorically, as "reaching the mind," whence *phaino*, "to make to appear," *phaneros*, "evident," etc.; cf. Eng., "phosphorus", lit., "light-bearing"), is usually used of light.
