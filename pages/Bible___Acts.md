@@ -13,6 +13,10 @@
 	  id:: 671b875b-0770-4d7a-96b4-07d91d305212
 	  And the [Spirit]([[Holy Spirit]]) told me to go with them, making no distinction. These [[Six]] [[Brother]]s also accompanied me, and we [[Enter]]ed the [man]([[Cornelius]])'s [[House]].
 		- ((671b86bc-b6cf-42be-983c-355084b8a0f9))
+- Acts 16
+	- Acts 16:13
+	  id:: 673743b4-6c41-4783-8d68-5547fa75f287
+	  And on the [[Sabbath]] [[Day]] we went outside the [[Gate]] to the [[River]]side, where we supposed there was a [[Place]] of [[Prayer]], and we [sat]([[Sit]]) down and [spoke]([[Speak]]) to the [women]([[Woman]]) who had [[Come]] together.
 - Acts 25
   collapsed:: true
 	- Acts 25:13
@@ -23,10 +27,12 @@
 	  id:: 672cb8ad-9253-46f2-b0d8-917411890e19
 	  and when [I]([[Festus]]) was at [[Jerusalem]], the [[Chief]] [[Priest]]s and the elders of the [[Jew]]s laid out their case against [him]([[Paul]]), [[Ask]]ing for a sentence of [[Condemn]]ation against him.
 - Acts 26
+  collapsed:: true
 	- Acts 26:8
 	  id:: 671f8416-f279-4b0b-9146-315ba75a38bc
 	  Why is it [[Thought]] incredible by any of you that [[God]] [[Raise]]s the [[Dead]]?
 - Acts 28
+  collapsed:: true
 	- Acts 28:3
 	  When [[Paul]] had gathered a bundle of sticks and put them on the [[Fire]], a [[Viper]] came out because of the heat and fastened on his [[Hand]].
 	- Acts 28:4

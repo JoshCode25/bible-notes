@@ -28,5 +28,5 @@ translations:: [[Shine]], [[Show]], [[Appear]]
 		- (14a) in Mt 9:33, "it was never so seen";
 		- (14b) also of what appears to the mind, and so in the sense of to think, Mk 14:64, or
 		- (14c) to seem, Lk 24:11.
-- Syn.: (A) [[Greek/hegeomai]] and (B) nomizo (3543) denote a belief resting not on one's inner feeling or sentiment, but on the due consideration of external grounds, and the weighing and comparing of facts. (C) Dokeo (1380) and (D) oiomai (3633) on the other hand, describe a subjective judgment growing out of inclination or a view of facts in their relation to us. Hegeomai (2233) denotes a more deliberate and careful judgment than nomizo (3543); oiomai (3633) is a subjective judgment which has feeling rather than thought (dokeo-1380) for its ground.
+- Syn.: (A) [[Greek/hegeomai]] and (B) [[Greek/nomizo]] denote a belief resting not on one's inner feeling or sentiment, but on the due consideration of external grounds, and the weighing and comparing of facts. (C) Dokeo (1380) and (D) oiomai (3633) on the other hand, describe a subjective judgment growing out of inclination or a view of facts in their relation to us. Hegeomai (2233) denotes a more deliberate and careful judgment than nomizo (3543); oiomai (3633) is a subjective judgment which has feeling rather than thought (dokeo-1380) for its ground.
 	- TODO Finish #Do-List

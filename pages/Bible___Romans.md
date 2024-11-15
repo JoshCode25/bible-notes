@@ -109,6 +109,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-ebf7-482a-a7b2-e3855199c5aa
 	  For all who have [[Sin]]ned without the [[Law]] will also [[Perish]] without the law, and all who have sinned under the law will be [[Judge]]d by the law.
 	- Romans 2:13
+	  id:: 66b4b0db-038d-4f08-b32b-219494e3373b
 	  For it is not the [[Hear]]ers of the [[Law]] who are [[Righteous]] before [[God]], but the doers of the law who will be [[Justif]]ied.
 		- ((66a9633f-0524-4d58-825e-a227d6a617b1)), ((669167f3-12f9-4d43-9bf5-81926707d3a4))
 	- Romans 2:14
@@ -231,6 +232,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-e2f6-4c6d-aebe-fc0b16106e72
 	  It was to [[Show]] [His]([[God]]) [[Righteous]]ness at the [[Present]] [[Time]], so that he might be just and the [[Justif]]ier of the one who has [[Faith]] in [[Jesus]].
 	- Romans 3:27
+	  id:: 66bc240a-35cc-43e4-a358-bf244ff9f260
 	  Then what becomes of our [[Boast]]ing? It is excluded. By what kind of [[Law]]? By a law of [[Work]]s? No, but by the law of [[Faith]].
 	- Romans 3:28
 	  For we hold that one is [[Justif]]ied by [[Faith]] apart from [[Work]]s of the [[Law]].
@@ -419,6 +421,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
   id:: 66b38909-c481-470d-95ee-d22afeab9d46
   collapsed:: true
 	- Romans 7:1
+	  id:: 66b4b322-1fbe-4a0f-bf69-0593078dada2
 	  Or do you not [[Know]], [[Brother]]s - for [I]([[Paul]]) am [[Speak]]ing to those who know the [[Law]] — that the law is [[Bind]]ing on a person only as long as he [lives]([[Life]])?
 	- Romans 7:2
 	  For a [[Married]] [[Woman]] is [bound]([[Bind]]) by [[Law]] to her [[Husband]] while he [lives]([[Life]]), but if her husband [[Die]]s she is [[Release]]d from the law of [[Marriage]].
@@ -469,6 +472,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4ae71-ea52-464a-9edd-7a479b6ed11d
 	  Now if [I]([[Paul]]) do what I do not [[Want]], it is no longer I who do it, but [[Sin]] that [[Dwell]]s within me.
 	- Romans 7:21
+	  id:: 66b4b0db-5bf6-41f1-a839-34c587627d87
 	  So [I]([[Paul]]) [[Find]] it to be a [[Law]] that when I [[Want]] to do [[Right]], [[Evil]] lies close at [[Hand]].
 	- Romans 7:22
 	  For [I]([[Paul]]) [[Delight]] in the [[Law]] of [[God]], in my inner being,

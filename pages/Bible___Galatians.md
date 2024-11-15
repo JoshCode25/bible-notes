@@ -2,7 +2,34 @@
 	- Galatians 3:3
 	  id:: 665f0442-7a51-4ae8-a12b-aa37030708d1
 	  Are you so [[Fool]]ish? Having begun by the [Spirit]([[Holy Spirit]]) , are you now being [[Perfect]]ed by the [[Flesh]]?
+- Galatians 5
+	- Galatians 5:16
+	  But [I]([[Paul]]) say, [[Walk]] by the [Spirit]([[Holy Spirit]]), and you will not gratify the [[Desire]]s of the [[Flesh]].
+	- Galatians 5:17
+	  For the [[Desire]]s of the [[Flesh]] are [[Against]] the [Spirit]([[Holy Spirit]]), and the desires of the Spirit are against the flesh, for these are [[Oppose]]d to each other, to [[Keep]] you from doing the things you [[Want]] to do.
+		- ((66b4ae61-4aa4-4a25-bf37-2b190a15d407))
+	- Galatians 5:18
+	  id:: 673748c1-01e6-4428-ac0e-a8a96cc47b11
+	  But if you are [led]([[Lead]]) by the [Spirit]([[Holy Spirit]]), you are not under the [[Law]].
+	- Galatians 5:19
+	  Now the [[Work]]s of the [[Flesh]] are evident: [[Sexual]] [[Immoral]]ity, [impurity]([[Impure]]), sensuality,
+	- Galatians 5:20
+	  [[Idolat]]ry, sorcery, [[Enmity]], strife, [[Jealous]]y, fits of [[Anger]], rivalries, dissensions, divisions,
+	- Galatians 5:21
+	  [[Envy]], [[Drunk]]enness, orgies, and things like these. [I]([[Paul]]) [[Warn]] you, as I warned you before, that those who do such things will not [[Inherit]] the [[Kingdom]] of [[God]].
+	- Galatians 5:22
+	  But the [[Fruit]] of the [Spirit]([[Holy Spirit]]) is [[Love]], [[Joy]], [[Peace]], [[Patience]], [[Kind]]ness, [[Good]]ness, [[Faithful]]ness,
+	- Galatians 5:23
+	  id:: 673746a9-affc-47a4-ae45-b02a3aa7e2bf
+	  [[Gentle]]ness, self-control; [[Against]] such things there is no [[Law]].
+	- Galatians 5:24 
+	  And those who [[Belong]] to [[Christ]] [[Jesus]] have [crucified]([[Crucify]]) the [[Flesh]] with its [[Passion]]s and [[Desire]]s.
+	- Galatians 5:25
+	  If we [[Live]] by the [Spirit]([[Holy Spirit]]), let us also [[Keep]] in [[Step]] with the Spirit.
+	- Galatians 5:26
+	  Let us not become conceited, [provoking]([[Provoke]]) one another, [[Envy]]ing one another.
 - Galatians 6
+  collapsed:: true
 	- Galatians 6:7
 	  Do not be [[Deceive]]d: [[God]] is not [[Mock]]ed, for whatever one [[Sow]]s, that will he also [[Reap]].
 	- Galatians 6:8
