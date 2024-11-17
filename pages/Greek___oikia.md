@@ -1,4 +1,4 @@
-concordance:: [[Strongs/3614]] 
+concordance:: [[Strongs/G3614]] 
 language:: [[Greek]] 
 translations:: [[House]], residence, abode, [[Dwell]]ing
 
