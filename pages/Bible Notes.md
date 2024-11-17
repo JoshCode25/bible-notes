@@ -1,0 +1,17 @@
+- Welcome to my Bible Notes LogSeq graph! Please see the Links below for a Table of Contents and some clarifications.
+	- Also note, this is a hobby project. Not everything is completed, but I am updating things as I continue to study God's Word and learn from the Holy Spirit
+- ### [[Bible]]
+	- This is a collection where all the Scripture verses I've gone through/compiled since mid-2024 are stored. All verses are in the ESV translation. Capitalization is a little inconsistent due to [Page Referencing](((67396781-995e-45c5-93f0-a2b875527f06))) of key words
+	- I focused on concepts rather than individual words to better group things together. For example, I typically group *Alive*/*Living* under *Life* and *Giving*/*Gave*/*Given* under *Gift*
+	- If you see a number at the right end of a verse or chapter, that means its referenced somewhere else in the graph of knowledge. Clicking/tapping on this number will expand it to show the references
+		- This is a cool way to see verses that foreshadow/fulfil each other! For example, ((667ff8ab-4cb9-4e42-81c0-660aeb975ed6)) has several verses referencing the fulfillment of Christ's second coming and judgment
+	- You'll notice several verses or chapters have **\#Annotate** after them. I haven't gone through and created [Page References](((67396781-995e-45c5-93f0-a2b875527f06))) for keywords in these yet
+- ### [[Greek]] & [[Hebrew]]
+	- I've taken the plunge into studying the specific words God uses in His word, and it'd been fascinating. All the definitions are based on the [[Strongs]] Concordance
+		- One note - this concordance uses the KJV translation, so some of the example word translations won't directly match with the ESV verses in this graph. I've tried to update them to ESV when I can
+- ### [LogSeq](https://logseq.com/)
+	- LogSeq is an open source Personal Knowledge Management (PKM) software that has revolutionized the way I work and study. Instead of organizing things into separate folders, it uses keyword "tags" called [[Page Reference]]s to group things. Click on any - typically blue - colored word, and you'll be taken to its home page where you can scroll down to see everywhere it's referenced within this entire graph!
+	  id:: 67396781-995e-45c5-93f0-a2b875527f06
+		- This allows a knowledge graph to be built to see visual connections between topics and allows for a deeper querying/filtered search experience
+		- You can try the graph view by clicking the 3 lines on the top left and selecting Graph View. It's fairly limited on mobile and slightly more functional on a computer - the developers are currently doing a major rewrite of LogSeq's code which will make this much more useful - but it's cool to look through at least once
+			- You can also view the graph for an individual page by selecting the right sidebar icon on the top right and selecting the "Page Graph" tab. This is likely more helpful at this stage in the software's life
