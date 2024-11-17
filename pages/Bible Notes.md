@@ -1,4 +1,4 @@
-- Welcome to my Bible Notes LogSeq graph! Please see the Links below for a Table of Contents and some clarifications.
+- Welcome to my Bible Notes LogSeq graph! Please see the Links below for a Table of Contents and some clarifications
 	- Also note, this is a hobby project. Not everything is completed, but I am updating things as I continue to study God's Word and learn from the Holy Spirit
 	- You can change to dark mode by hitting t+t on desktop or tapping the ellipses on the top right then toggle theme on mobile
 - ### [[Bible]]
