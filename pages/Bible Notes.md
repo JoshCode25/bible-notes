@@ -4,11 +4,12 @@
 - ### [[Bible]]
 	- This is a collection where all the Scripture verses I've gone through/compiled since mid-2024 are stored. All verses are in the ESV translation. Capitalization is a little inconsistent due to [Page Referencing](((67396781-995e-45c5-93f0-a2b875527f06))) of key words
 	- I focused on concepts rather than individual words to better group things together. For example, I typically group *Alive*/*Living* under *Life* and *Giving*/*Gave*/*Given* under *Gift*
-	- If you see a number at the right end of a verse or chapter, that means it's referenced somewhere else in the graph of knowledge. Selecting this number will expand it to show the reference(s)
-		- This is a cool way to see verses that foreshadow/fulfil each other! For example, ((667ff8ab-4cb9-4e42-81c0-660aeb975ed6)) has several verses referencing the fulfillment of Christ's second coming and judgment
+	- If you see a number at the right end of a verse or chapter, that means it's referenced somewhere else in the knowledge graph. Selecting this number will expand it to show the reference(s). You can select the small text above to expand further context about the referencing blocks
+		- This is a cool way to see verses that foreshadow/fulfil each other! For example, ((667ff8ab-4cb9-4e42-81c0-660aeb975ed6)) has several verses referencing the fulfillment of Christ's second coming and judgment shown in this chapter
 	- You'll notice several verses or chapters have **\#Annotate** after them. I haven't gone through and created [Page References](((67396781-995e-45c5-93f0-a2b875527f06))) for keywords in these yet
+	- If you'd like less distraction while reading, you can turn **document mode** on by hitting `t+d` on desktop or clicking the page with text icon at the bottom of the screen on mobile
 - ### [[Greek]] & [[Hebrew]]
-	- I've taken the plunge into studying the specific words God uses in His word, and it'd been fascinating. All the definitions are based on the [[Strongs]] Concordance
+	- I've taken the plunge into studying the specific words God uses in His Word, and it's been fascinating. All definitions are based on the [[Strongs]] Concordance
 		- One note - this concordance uses the KJV translation, so some of the example word translations won't directly match with the ESV verses in this graph. I've tried to update them to ESV when I can
 - ### [LogSeq](https://logseq.com/)
 	- LogSeq is an open source Personal Knowledge Management (PKM) software that has revolutionized the way I work and study. Instead of organizing things into separate folders, it uses keyword "tags" called [[Page Reference]]s to group things. Click on any - typically blue - colored word, and you'll be taken to its home page where you can scroll down to see everywhere it's referenced within this entire graph!
