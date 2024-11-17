@@ -4,7 +4,7 @@
 - ### [[Bible]]
 	- This is a collection where all the Scripture verses I've gone through/compiled since mid-2024 are stored. All verses are in the ESV translation. Capitalization is a little inconsistent due to [Page Referencing](((67396781-995e-45c5-93f0-a2b875527f06))) of key words
 	- I focused on concepts rather than individual words to better group things together. For example, I typically group *Alive*/*Living* under *Life* and *Giving*/*Gave*/*Given* under *Gift*
-	- If you see a number at the right end of a verse or chapter, that means its referenced somewhere else in the graph of knowledge. Clicking/tapping on this number will expand it to show the references
+	- If you see a number at the right end of a verse or chapter, that means it's referenced somewhere else in the graph of knowledge. Selecting this number will expand it to show the reference(s)
 		- This is a cool way to see verses that foreshadow/fulfil each other! For example, ((667ff8ab-4cb9-4e42-81c0-660aeb975ed6)) has several verses referencing the fulfillment of Christ's second coming and judgment
 	- You'll notice several verses or chapters have **\#Annotate** after them. I haven't gone through and created [Page References](((67396781-995e-45c5-93f0-a2b875527f06))) for keywords in these yet
 - ### [[Greek]] & [[Hebrew]]
