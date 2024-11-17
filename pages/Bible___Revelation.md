@@ -96,6 +96,7 @@ Tag:: [[Eschatology]]
 	  On [His]([[Christ]]) [[Robe]] and on his [[Thigh]] he has a [[Name]] [[Written]], [[King]] of kings and [[LORD]] of lords.
 - Revelation 20
   id:: 667ff8ab-4cb9-4e42-81c0-660aeb975ed6
+  collapsed:: true
 	- Revelation 20:1
 	  Then [I]([[John]]) [Saw]([[See]]) an [[Angel]] coming down from [[Heaven]], holding in his [[Hand]] the [[Key]] to the [bottomless pit]([[Abyss]]) and a great [[Chain]]. 
 	  Revelation 20:2 
