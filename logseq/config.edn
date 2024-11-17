@@ -75,7 +75,7 @@
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
- ;; :feature/disable-scheduled-and-deadline-query? false
+ :feature/disable-scheduled-and-deadline-query? true
 
  ;; Specify the number of days displayed in the future for
  ;; the 'scheduled tasks and deadlines' query.
@@ -327,7 +327,7 @@
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
  ;; Example usage:
- ;; :property/separated-by-commas #{:alias :tags}
+ :property/separated-by-commas #{:alias :tags :translations}
 
  ;; Properties that are ignored when parsing property values for references
  ;; Example usage:
