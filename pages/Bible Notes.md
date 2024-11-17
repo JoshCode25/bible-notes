@@ -1,6 +1,6 @@
 - Welcome to my Bible Notes LogSeq graph! Please see the Links below for a Table of Contents and some clarifications
 	- Also note, this is a hobby project. Not everything is completed, but I am updating things as I continue to study God's Word and learn from the Holy Spirit
-	- You can change to dark mode by hitting `t+t` on desktop or tapping the ellipses on the top right then toggle theme on mobile
+	- You can change to **dark mode** by hitting `t+t` on desktop or tapping the ellipses on the top right then toggle theme on mobile
 - ### [[Bible]]
 	- This is a collection where all the Scripture verses I've gone through/compiled since mid-2024 are stored. All verses are in the ESV translation. Capitalization is a little inconsistent due to [Page Referencing](((67396781-995e-45c5-93f0-a2b875527f06))) of key words
 	- I focused on concepts rather than individual words to better group things together. For example, I typically group *Alive*/*Living* under *Life* and *Giving*/*Gave*/*Given* under *Gift*
