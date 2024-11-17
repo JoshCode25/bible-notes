@@ -10,7 +10,7 @@ translations:: [[Ask]], [[Pray]], [[Desire]]
 	- intreat (1x)
 - Erotao more frequently suggests
   id:: 673962f5-9399-421e-bdad-d282c83967d3
-	- (1) that the petitioner is on a footing of equality or familiarity that lends authority to the request with the person whom he intreats.
+	- (1) that the petitioner is on a footing of equality or familiarity that lends authority to the request with the person whom he intreats
 	  id:: 673962f5-f5e7-48c8-8bda-28cde8a03892
 		- (1a) a king in making request from another king (Lk 14:32);
 		- (1b) the Pharisee who desired Christ that He would eat with him, indicating the inferior conception he had of Christ (Lk 7:36).
