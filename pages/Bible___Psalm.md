@@ -249,6 +249,7 @@
 	  Yet for [Your]([[God]]) sake we are [[Kill]]ed all the day long;
 	  we are regarded as [[Sheep]] to be [[Slaughter]]ed.
 - Psalm 51
+  collapsed:: true
 	- Psalm 51:4
 	  id:: 66b4d09f-fd64-414f-9776-caec2fb0004e
 	  [[Against]] [You]([[God]]), you only, have [I]([[David]]) [[Sin]]ned

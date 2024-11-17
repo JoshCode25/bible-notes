@@ -69,6 +69,7 @@ Tag:: [[Eschatology]]
 	  [They]([[People]]) were [[Scorch]]ed by the fierce heat, and they [[Curse]]d the [[Name]] of [[God]] who had [[Power]] over these [[Plague]]s. They did not [[Repent]] and give Him [[Glory]].
 - Revelation 19
   id:: 6683ee2d-201e-47c3-9d34-fbb601d84caa
+  collapsed:: true
 	- Revelation 19:7
 	  Let us [[Rejoice]] and exult
 	  and [give]([[Gift]]) [Him]([[Christ]]) the [[Glory]],

@@ -1,4 +1,5 @@
 - 1 Peter 1 #Annotate
+  collapsed:: true
 	- 1 Peter 1:1
 	  Peter, an apostle of Jesus Christ,
 	  To those who are elect exiles of [[The Dispersion]] in Pontus, Galatia, Cappadocia, Asia, and Bithynia,

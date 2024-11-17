@@ -305,6 +305,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 4:25
 	  [who]([[Jesus]]) was delivered up for our [[Trespass]]es and raised for our [[Justif]]ication.
 - Romans 5
+  collapsed:: true
 	- Romans 5:1
 	  Therefore, since we have been [[Justif]]ied by [[Faith]], we have [[Peace]] with [[God]] through, our [[LORD]] [[Jesus]] [[Christ]].
 	- Romans 5:2

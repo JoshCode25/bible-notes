@@ -17,6 +17,7 @@
 	  id:: 66869222-2986-4156-9e60-99c292617367
 	  For because [He]([[Jesus]]) Himself has [[Suffer]]ed when [[Tempt]]ed, He is able to [[Help]] those who are being tempted.
 - Hebrews 3
+  collapsed:: true
 	- Hebrews 3:16
 	  For who were those who [[Hear]]d and yet [[Rebel]]led? Was it not all those who left [[Egypt]] led by [[Moses]]?
 	- Hebrews 3:17
@@ -27,6 +28,7 @@
 	- Hebrews 3:18
 	  So we [[See]] that they were unable to [[Enter]] because of [[Unbelief]].
 - Hebrews 4
+  collapsed:: true
 	- Hebrews 4:1
 	  Therefore, while the [[Promise]] of [[Enter]]ing [His]([[God]]) [[Rest]] still stands, let us [[Fear]] lest any of you should seem to have [[Fail]]ed to reach it.
 	- Hebrews 4:2
@@ -78,6 +80,7 @@
 	- Hebrews 9:28
 	  so [[Christ]], having been [[Offer]]ed once to [[Bear]] the [[Sin]]s of many, will [[Appear]] a [[Second]] [[Time]], not to deal with sin but to [[Save]] those who are eagerly [[Wait]]ing for Him.
 - Hebrews 10
+  collapsed:: true
 	- Hebrews 10:12
 	  id:: 668684cf-a8d2-4821-af0c-6a7e1d077b5e
 	  But when [[Christ]] had [[Offer]]ed for all [[Time]] a single [[Sacrifice]] for sins, He sat down at the right [[Hand]] of [[God]],
@@ -113,6 +116,7 @@
 	  But we are not of those who shrink back and are [[Destroy]]ed, but of those who have [[Faith]] and [[Preserve]] their [[Soul]]s.
 - Hebrews 11
   id:: 666b1873-88ee-409b-bcca-f3d3b8abf5fe
+  collapsed:: true
 	- Hebrews 11:1
 	  id:: 666b1878-a5f5-4d0d-ab00-a6bf56d999b7
 	  Now [[Faith]] is the [[Assurance]] of things [[Hope]]d for, the conviction of things not seen.
