@@ -11,6 +11,7 @@ translations:: [[Ask]], [[Desire]]
 	- call for (1x)
 - Aiteo, as a verb, means "to ask."
 	- (1) Aiteo more frequently suggests the attitude of a suppliant, the petition of one who is lesser in position than he to whom the petition is made
+	  id:: 673962d7-44dd-49bd-9eeb-d3e0aa2b6339
 	  collapsed:: true
 		- (1a) in the case of men in asking something from God: "Ask (aiteo), and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:" (Mt 7:7);
 		- (1b) a child from a parent (Mt 7:9-10);
