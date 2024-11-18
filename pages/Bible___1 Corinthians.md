@@ -96,7 +96,6 @@
 	  and you are [[Christ]]'s, and Christ is [[God]]'s.
 - 1 Corinthians 4
   id:: 66aa2398-48cf-4cc4-b184-bba1ca2d4b8d
-  collapsed:: true
 	- 1 Corinthians 4:1
 	  This is how one should regard us, as [[Servant]]s of [[Christ]] and [[Steward]]s of the [mysteries]([[Mystery]]) of [[God]].
 	- 1 Corinthians 4:2
@@ -110,6 +109,7 @@
 	- 1 Corinthians 4:6
 	  [I]([[Paul]]) have applied all these things to myself and [[Apollos]] for your benefit, [[Brother]]s, that you may [[Learn]] by us not to go [[Beyond]] what is [[Written]], that none of you may be puffed up in [[Favor]] of [[One]] [[Against]] another.
 	- 1 Corinthians 4:7
+	  id:: 66d718cf-23be-4813-ba50-306c58911ab9
 	  For who [[See]]s anything different in you? What do you have that you did not [[Receive]]? If then you received it, why do you [[Boast]] as if you did not receive it?
 	- 1 Corinthians 4:8
 	  Already you have all you [[Want]]! Already you have become [[Rich]]! Without us you have become [[King]]s! And would that you did [[Reign]], so that we might [[Share]] the [[Rule]] with you!

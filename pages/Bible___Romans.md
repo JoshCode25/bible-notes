@@ -78,7 +78,6 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 1:32
 	  Though [they]([[Mankind]]) [[Know]] [[God]]'s [[Righteous]] [[Decree]] that those who [[Practice]] such things [[Deserve]] to [[Die]], they not only do them but give approval to those who practice them.
 - Romans 2
-  collapsed:: true
 	- Romans 2:1
 	  Therefore you have no [[Excuse]], O [man]([[Mankind]]), every one of you who [[Judge]]s. For in passing [[Judgment]] on another you [[Condemn]] yourself, because you, the judge, [[Practice]] the very same things.
 	- Romans 2:2
@@ -152,7 +151,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  Then he who is [[Physical]]ly [[Uncircumcise]]d but keeps the [[Law]] will [[Condemn]] you who have the [[Written]] [[Code]] and [circumcision]([[Circumcise]]) but [[Break]] the law.
 	- Romans 2:28
 	  id:: 66a788b6-8324-4030-9b4d-61858d7e6fe8
-	  For no one is a [[Jew]] who is merely one outwardly, nor is [circumcision]([[Circumcise]]) outward and [[Physical]] .
+	  For no one is a [[Jew]] who is merely one outwardly, nor is [circumcision]([[Circumcise]]) outward and [[Physical]].
 	- Romans 2:29
 	  id:: 66a788bc-8c55-4eeb-9a9e-29248d5f1d20
 	  But a [[Jew]] is one inwardly, and [circumcision]([[Circumcise]]) is a matter of the [[Heart]], by the [Spirit]([[Holy Spirit]]), not by the [[Letter]]. His [[Praise]] is not from [man]([[Mankind]]) but from [[God]].
