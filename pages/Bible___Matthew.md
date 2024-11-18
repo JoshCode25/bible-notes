@@ -1,3 +1,8 @@
+- Matthew 5
+	- Matthew 5:22
+	  id:: 673b3d26-49ac-4030-9035-872fa0d58e1d
+	  But [I]([[Jesus]]) say to you that everyone who is [angry]([[Anger]]) with his [[Brother]] will be liable to [[Judgment]]; whoever [[Insult]]s his brother will be liable to the [[Council]]; and whoever says, ‘You [[Fool]]!' will be liable to the [[Hell]] of [[Fire]].
+		- ((673b3c75-795a-4852-ac82-6b2440210e67))
 - Matthew 6
 	- Matthew 6:6
 	  id:: 666ae020-4eff-4382-ab6a-d00b9ab66a43
@@ -18,7 +23,6 @@
 	- Matthew 6:34
 	  "Therefore do not be [[Anxious]] about [tomorrow]([[Future]]), for tomorrow will be anxious for itself. Sufficient for the day is its own [[Trouble]].
 - Matthew 7
-  collapsed:: true
 	- Matthew 7:13
 	  "[[Enter]] by the narrow [[Gate]]. For the gate is wide and the [[Way]] is easy that leads to [Destruction]([[Destroy]]) and those who enter by it are many.
 	- Matthew 7:14

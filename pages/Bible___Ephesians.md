@@ -97,6 +97,7 @@ Theme:: [[Christ]]’s [[Work]], [[Spiritual Warfare]]
 	- Ephesians 2:14
 	  For [He]([[Christ]]) himself is our [[Peace]], who has [[Made]] us both one and has [broken]([[Break]]) down in his [[Flesh]] the [dividing]([[Divide]]) [[Wall]] of [hostility]([[Hostile]])
 	- Ephesians 2:15
+	  id:: 66a2536b-eabd-4f33-b3ab-a7d27d89bcbc
 	  by abolishing the [[Law]] of [[Command]]ments expressed in ordinances, that [He]([[Christ]]) might [[Create]] in himself one [[New]] [[Man]] in place of the two, so making [[Peace]],
 	- Ephesians 2:16
 	  and might [[Reconcil]]e us both to [[God]] in one [[Body]] through the [[Cross]], thereby [[Kill]]ing the [hostility]([[Hostile]]).

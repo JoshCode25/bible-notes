@@ -3,6 +3,14 @@
 	  id:: 665f0442-7a51-4ae8-a12b-aa37030708d1
 	  Are you so [[Fool]]ish? Having begun by the [Spirit]([[Holy Spirit]]) , are you now being [[Perfect]]ed by the [[Flesh]]?
 - Galatians 5
+	- Galatians 5:13
+	  For you were [[Call]]ed to [[Freedom]], [[Brother]]s. Only do not use your freedom as an opportunity for the [[Flesh]], but through [[Love]] [[Serve]] one another.
+	- Galatians 5:14
+	  id:: 673b3bd9-c558-4cee-b970-463bf705096e
+	  For the whole [[Law]] is [[Fulfill]]ed in [[One]] [[Word]]: "You shall [[Love]] your [[Neighbor]] as yourself"
+		- ((66a7842c-9a62-4a65-ad06-faf3d1537974))
+	- Galatians 5:15
+	  But if you [[Bite]] and [[Devour]] one another, [[Watch]] out that you are not [[Consume]]d by one another.
 	- Galatians 5:16
 	  But [I]([[Paul]]) say, [[Walk]] by the [Spirit]([[Holy Spirit]]), and you will not gratify the [[Desire]]s of the [[Flesh]].
 	- Galatians 5:17

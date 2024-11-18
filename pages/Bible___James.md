@@ -67,6 +67,7 @@ Theme:: [[Work]]ing [[Faith]] out
 	- James 1:24
 	  For he [[Look]]s at himself and goes away and at once [[Forget]]s what he was like.
 	- James 1:25
+	  id:: 66a9633f-ec82-4cff-af11-0206b486aeca
 	  But the one who [[Look]]s into the [[Perfect]] [[Law]], the law of [liberty]([[Freedom]]), and [[Persevere]]s, being no [[Hear]]er who [[Forget]]s but a [[Do]]er who acts, he will be [[Bless]]ed in his doing.
 	- James 1:26
 	  If anyone [[Think]]s he is religious and does not bridle his [[Tongue]] but [[Deceive]]s his [[Heart]], this person's [[Religion]] is worthless.
@@ -92,16 +93,20 @@ Theme:: [[Work]]ing [[Faith]] out
 	- James 2:7
 	  Are [they]([[Rich]]) not the ones who [[Blaspheme]] the [[Honor]]able [[Name]] by which you were [[Call]]ed?
 	- James 2:8
+	  id:: 66a9633f-3f56-4bab-a6ea-7a6a89513448
 	  If you really [[Fulfill]] the [[Royal]] [[Law]] according to the [[Scripture]], "You shall [[Love]] your [[Neighbor]] as yourself" you are doing well.
 		- ((66a7842c-9a62-4a65-ad06-faf3d1537974))
 	- James 2:9
+	  id:: 66a9633f-eb6d-4024-a901-cd4350f0649b
 	  But if you show [[Partial]]ity, you are committing [[Sin]] and are [[Convict]]ed by the [[Law]] as [[Transgress]]ors.
 	- James 2:10
 	  For whoever keeps the whole [[Law]] but [[Fail]]s in one point has become [[Accountable]] for all of it.
 	- James 2:11
+	  id:: 66ad607a-2707-4ac8-a176-ad25fe76cafe
 	  For he who said, '"Do not commit [[Adultery]]," also said, "Do not [[Murder]]." If you do not commit adultery but do murder, you have become a [[Transgress]]or of the [[Law]].
 		- ((66ad1c0b-4ec0-447a-9d65-32cb7a6634f9)), ((66ad1c0f-f5ee-4162-8f70-1cdcadfa5c66))
 	- James 2:12
+	  id:: 66ad607a-306b-4f13-9e63-68a75626d961
 	  So [[Speak]] and so act as those who are to be [[Judge]]d under the [[Law]] of [[Liberty]].
 	- James 2:13
 	  For [[Judgment]] is without [[Mercy]] to one who has shown no mercy. Mercy [[Triumph]]s over judgment.

@@ -125,11 +125,13 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-ea7a-4041-94e0-21613d12694c
 	  But if you [[Call]] yourself a [[Jew]] and rely on the [[Law]] and [[Boast]] in [[God]]
 	- Romans 2:18
+	  id:: 66b4b0db-07a4-41be-8f38-f3ddccd34d3d
 	  and [[Know]] [His]([[God]]) [[Will]] and approve what is excellent, because you are [[Instruct]]ed from the [[Law]];
 	- Romans 2:19
 	  id:: 66b4b0db-a49c-49ca-b422-b70f9954992b
 	  and if you are sure that you yourself are a [[Guide]] to the [[Blind]], a [[Light]] to those who are in [[Dark]]ness,
 	- Romans 2:20
+	  id:: 66b4b0db-bdcc-404a-bc9f-c6501d6d0e67
 	  an [[Instruct]]or of the [[Fool]]ish, a [[Teacher]] of [[Children]], having in the [[Law]] the embodiment of [[Knowledge]] and [[Truth]] —
 	- Romans 2:21
 	  you then who [[Teach]] others, do you not teach yourself? While you [[Preach]] against stealing, do you [[Steal]]?
@@ -144,6 +146,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 2:25
 	  For [circumcision]([[Circumcise]]) indeed is of [[Value]] if you [[Obey]] the [[Law]], but if you [[Break]] the law, your circumcision becomes [uncircumcision]([[Uncircumcise]]).
 	- Romans 2:26
+	  id:: 66b4b0db-3f51-47b4-8f35-5ee73b09a58b
 	  So, if a [[Man]] who is [[Uncircumcise]]d keeps the precepts of the [[Law]], will not his uncircumcision be regarded as [circumcision]([[Circumcise]])?
 	- Romans 2:27
 	  Then he who is [[Physical]]ly [[Uncircumcise]]d but keeps the [[Law]] will [[Condemn]] you who have the [[Written]] [[Code]] and [circumcision]([[Circumcise]]) but [[Break]] the law.
@@ -213,10 +216,12 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  "There is no [[Fear]] of [[God]] before their [[Eye]]s."
 		- ((66ae20c0-ef32-4302-b684-4df7e1f13ba9))
 	- Romans 3:19
+	  id:: 66b4b0db-ee68-481d-bfdc-2588b16e2cb8
 	  Now we [[Know]] that whatever the [[Law]] says it [[Speak]]s to those who are under the law, so that every [[Mouth]] may be stopped, and the whole [[World]] may be held [[Accountable]] to [[God]].
 	- Romans 3:20
 	  For by [[Work]]s of the [[Law]] no [[Human]] being will be [[Justif]]ied in his sight, since through the law comes [[Knowledge]] of [[Sin]].
 	- Romans 3:21
+	  id:: 66b4b0db-8c57-4168-bc2c-7d08b48d3ee8
 	  But now the [[Righteous]]ness of [[God]] has been [[Manifest]]ed apart from the law, although the [[Law]] and the [[Prophet]]s [[Bear]] [[Witness]] to it-
 	- Romans 3:22
 	  the [[Righteous]]ness of [[God]] through [[Faith]] in [[Jesus]] [[Christ]] for all who [[Believe]]. For there is no distinction:
@@ -278,6 +283,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 4:14
 	  For if it is the adherents of the [[Law]] who are to be the [[Heir]]s, [[Faith]] is null and the [[Promise]] is [[Void]].
 	- Romans 4:15
+	  id:: 66b4b0db-9567-43bb-bcb2-316a3c1ef575
 	  For the [[Law]] brings [[Wrath]], but where there is no law there is no [[Transgress]]ion.
 	- Romans 4:16
 	  That is why it depends on [[Faith]], in order that the [[Promise]] may [[Rest]] on [[Grace]] and be [[Guarantee]]d to all his [[Offspring]] not only to the adherent of the [[Law]] but also to the one who shares the faith of [[Abraham]], who is the [[Father]] of us all,
@@ -429,6 +435,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 7:3
 	  Accordingly, she will be called an [adulteress]([[Adultery]]) if she [[Live]]s with another [[Man]] while her [[Husband]] is [alive]([[Life]]). But if her husband [[Die]]s, she is [[Free]] from that [[Law]], and if she [marries]([[Marriage]]) another man she is not an adulteress.
 	- Romans 7:4
+	  id:: 66b4b356-9d8c-406b-bc95-0ce3c5539d2b
 	  Likewise, [my]([[Paul]]) [[Brother]]s, you also have [[Die]]d to the [[Law]] through the [[Body]] of [[Christ]], so that you may [[Belong]] to another, to him who has been [[Raise]]d from the [[Dead]], in order that we may [[Bear]] [[Fruit]] for [[God]].
 	- Romans 7:5
 	  For while we were [living]([[Live]]) in the [[Flesh]], our [[Sin]]ful [[Passion]]s, aroused by the [[Law]], were at [[Work]] in our [[Member]]s to [[Bear]] [[Fruit]] for [[Death]].
@@ -461,6 +468,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 7:15
 	  For [I]([[Paul]]) do not [[Understand]] my own [[Action]]s. For I do not do what I [[Want]], but I do the very thing I [[Hate]].
 	- Romans 7:16
+	  id:: 66cb0f9b-f95f-43fd-8ec4-5fe0cc8967d2
 	  Now if [I]([[Paul]]) do what I do not [[Want]], I agree with the [[Law]], that it is [[Good]].
 	- Romans 7:17
 	  So now it is no longer [I]([[Paul]]) who do it, but [[Sin]] that [[Dwell]]s within me.
@@ -476,6 +484,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-5bf6-41f1-a839-34c587627d87
 	  So [I]([[Paul]]) [[Find]] it to be a [[Law]] that when I [[Want]] to do [[Right]], [[Evil]] lies close at [[Hand]].
 	- Romans 7:22
+	  id:: 66b4b0db-2c32-42dc-a7e9-acfb1e7e6ff8
 	  For [I]([[Paul]]) [[Delight]] in the [[Law]] of [[God]], in my inner being,
 	- Romans 7:23
 	  id:: 66b4b0db-0eda-4c18-886a-f788f9b58969
@@ -496,6 +505,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-3432-432e-a90b-d89fe2d31a76
 	  For [[God]] has done what the [[Law]], [[Weak]]ened by the [[Flesh]], could not do. By [[Send]]ing his own [[Son]] in the likeness of sinful flesh and for [[Sin]], he [[Condemn]]ed sin in the flesh,
 	- Romans 8:4
+	  id:: 66b4b0db-c307-47e1-90e9-d9edafdedcb5
 	  in order that the [[Righteous]] requirement of the [[Law]] might be [[Fulfill]]ed in us, who [[Walk]] not according to the [[Flesh]] but according to the [Spirit]([[Holy Spirit]]).
 	- Romans 8:5
 	  id:: 66b4b0db-44bc-4c1c-b9d0-e73e79b8e7dd
@@ -503,6 +513,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 8:6
 	  For to set the [[Mind]] on the [[Flesh]] is [[Death]], but to set the mind on the [Spirit]([[Holy Spirit]]) is [[Life]] and [[Peace]].
 	- Romans 8:7
+	  id:: 66b4b0db-56b0-4bec-9eca-a9e4ce2b68aa
 	  For the [[Mind]] that is set on the [[Flesh]] is [[Hostile]] to [[God]], for it does not [[Submit]] to God's [[Law]]; indeed, it cannot.
 	- Romans 8:8
 	  Those who are in the [[Flesh]] cannot [[Please]] [[God]].
@@ -679,6 +690,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 10:3
 	  For, being [[Ignorant]] of the [[Righteous]]ness of [[God]], and [[Seek]]ing to [[Establish]] their own, [they]([[Israel]]) did not [[Submit]] to God's righteousness.
 	- Romans 10:4
+	  id:: 66b4b0db-9416-47bd-8325-f0a316edc0c6
 	  For [[Christ]] is the [[End]] of the [[Law]] for [[Righteous]]ness to everyone who [[Believe]]s.
 	- Romans 10:5
 	  For [[Moses]] [[Write]]s about the [[Righteous]]ness that is based on the [[Law]], that the person who does the [[Command]]ments shall [[Live]] by them.
@@ -897,6 +909,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 13:7
 	  Pay to all what is [[Owe]]d to them: [[Tax]]es to whom taxes are owed, [[Revenue]] to whom revenue is owed, [[Respect]] to whom respect is owed, [[Honor]] to whom honor is owed.
 	- Romans 13:8
+	  id:: 66cd4870-3f11-4c62-8032-5e31186a81a4
 	  [[Owe]] no one anything, except to [[Love]] each other, for the one who loves another has [[Fulfill]]ed the [[Law]].
 	- Romans 13:9
 	  For the [[Command]]ments, "You shall not [[Committee]] [[Adultery]], You shall not [[Murder]], You shall not [[Steal]], You shall not [[Covet]]," and any other commandment, are summed up in this word: "You shall [[Love]] your [[Neighbor]] as yourself."
