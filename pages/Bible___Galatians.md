@@ -37,7 +37,6 @@
 	- Galatians 5:26
 	  Let us not become conceited, [provoking]([[Provoke]]) one another, [[Envy]]ing one another.
 - Galatians 6
-  collapsed:: true
 	- Galatians 6:7
 	  Do not be [[Deceive]]d: [[God]] is not [[Mock]]ed, for whatever one [[Sow]]s, that will he also [[Reap]].
 	- Galatians 6:8

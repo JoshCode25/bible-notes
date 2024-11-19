@@ -24,6 +24,7 @@ Theme:: [[Work]]ing [[Faith]] out
 	  id:: 6696582a-88b2-4f9d-844e-4e6a9ca2a3c1
 	  But let him [[Ask]] in [[Faith]], with no [[Doubt]]ing, for the one who doubts is like a [[Wave]] of the [[Sea]] that is driven and tossed by the [[Wind]].
 	- James 1:7
+	  id:: 6696582a-927a-4a6d-b2d9-1ec7bf360b66
 	  For that person must not suppose that he will [[Receive]] anything from the [[LORD]] ;
 	- James 1:8
 	  he is a double-minded [[Man]], [[Unstable]] in all his [[Way]]s.

@@ -571,6 +571,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 8:32
 	  [He]([[God]]) who did not spare his own [[Son]] but gave [Him]([[Christ]]) up for us all, how will he not also with him [graciously]([[Grace]]) [give]([[Gift]]) us all things?
 	- Romans 8:33
+	  id:: 66b4b0db-6398-4696-a294-61e5943f0e7b
 	  Who shall bring any charge against [[God]]'s [[Elect]]? It is God who [[Justif]]ies.
 	- Romans 8:34
 	  Who is to [[Condemn]]? [[Christ]] [[Jesus]] is the one who [[Die]]d—more than that, who was [[Raise]]d—who is at the [[Right]] [[Hand]] of [[God]], who indeed is [interceding]([[Intercede]]) for us.
@@ -671,6 +672,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 9:30
 	  What shall we say, then? That [[Gentile]]s who did not [[Pursue]] [[Righteous]]ness have attained it, that is, a righteousness that is by [[Faith]];
 	- Romans 9:31
+	  id:: 66b4b0db-7636-4e5f-8f44-2377d3fe77ba
 	  but that [[Israel]] who [[Pursue]]d a [[Law]] that would lead to [[Righteous]]ness did not succeed in reaching that law.
 	- Romans 9:32
 	  Why? Because [they]([[Israel]]) did not [[Pursue]] it by [[Faith]], but as if it were based on [[Work]]s. They have [[Stumble]]d over the stumbling [[Stone]],

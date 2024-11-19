@@ -58,6 +58,7 @@
 	  id:: 6676bfe5-f9a4-4f12-99db-7ab32a0b5aea
 	  So [[Jesus]] said to them, "Truly, truly, I say to you, the [[Son]] can do nothing of his own accord, but only what he sees the [[Father]] doing. For whatever the Father does, that the Son does like-wise.
 - John 7
+  collapsed:: true
 	- John 7:37
 	  On the [[Last]] [[Day]] of the [[Feast]], the great day, [[Jesus]] [stood]([[Stand]]) up and cried out, "If anyone [[Thirst]]s, let him [[Come]] to me and [[Drink]].
 	- John 7:38
@@ -76,6 +77,7 @@
 	  id:: 66701d2d-748a-4252-91d6-51527fb44369
 	  [I]([[Jesus]]) and the [[Father]] are one.
 - John 11
+  collapsed:: true
 	- John 11:22
 	  id:: 673204a7-d665-4d68-a209-e039b5ffa05c
 	  But even now [I]([[Martha]]) [[Know]] that whatever [You]([[Jesus]]) [[Ask]] from [[God]], God will [give]([[Gift]]) you."
@@ -374,9 +376,11 @@
 	- John 20:29
 	  [[Jesus]] said to [him]([[Thomas]]), "Have you [[Believe]]d because you have [[See]]n me? [[Bless]]ed are those who have not seen and yet have believed."
 - John 21
-  collapsed:: true
 	- John 21:21
 	  When [[Peter]] [saw]([[See]]) [him]([[John]]), he said to [[Jesus]], "[[LORD]], what about this man?"
 	- John 21:22
 	  id:: 67051291-771d-48ea-ac77-a3ad676735e7
 	  [[Jesus]] said to [him]([[Peter]]), "If it is my [[Will]] that [he]([[John]]) remain until I [[Come]], what is that to you? You [[Follow]] me!"
+	- John 21:25
+	  id:: 673c8e62-ff0c-40b5-9eb9-6c352c96e7ba
+	  Now there are also many other things that [[Jesus]] did. Were every one of them to be [[Written]], [I]([[John]]) suppose that the [[World]] itself could not contain the [[Book]]s that would be written.

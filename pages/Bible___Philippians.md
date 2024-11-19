@@ -1,5 +1,4 @@
 - Philippians 1 #Annotate
-  collapsed:: true
 	- Philippians 1:1
 	  [[Paul]] and [[Timothy]], [[Servant]]s of [[Christ]] [[Jesus]],
 	  To all the [[Saint]]s in Christ Jesus who are at [[Philippi]], with the overseers and  [[Deacon]]s:
@@ -36,7 +35,8 @@
 	- Philippians 1:16
 	  The latter do it out of love, knowing that I am put here for the defense of the gospel.
 	- Philippians 1:17
-	  The former proclaim Christ out of selfish ambition, not sincerely but thinking to afflict me in my imprisonment.
+	  id:: 66981cdc-4db2-406f-add7-a0bb47ae82a5
+	  The former [[Proclaim]] [[Christ]] out of [[Selfish]] [[Ambition]], not [[Sincere]]ly but [[Think]]ing to [[Afflict]] [me]([[Paul]]) in my [imprisonment]([[Prison]]).
 	- Philippians 1:18
 	  What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in that I rejoice.
 	  Yes, and I will rejoice,
