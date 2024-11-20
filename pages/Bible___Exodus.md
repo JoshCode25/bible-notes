@@ -49,8 +49,13 @@
 	- Exodus 3:6
 	  id:: 66911632-040f-4794-a673-f0d8d6e19c42
 	  And he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” And Moses hid his face, for he was afraid to look at God.
+- Exodus 4
+	- Exodus 4:21
+	  id:: 673ddedf-37c5-4dfd-adec-f4a1d50805cc
+	  And the [[LORD]] said to [[Moses]], "When you go back to [[Egypt]], [[See]] that you do before [[Pharaoh]] all the [[Miracle]]s that [I]([[God]]) have put in your [[Power]]. But I will [[Harden]] his [[Heart]], so that he will not let the [[People]] go.
 - Exodus 7
-  collapsed:: true
+	- Exodus 7:3
+	  But [I]([[God]]) will [[Harden]] [[Pharaoh]]'s [[Heart]], and though [I]([[LORD]]) multiply my [[Sign]]s and [[Wonder]]s in the [[Land]] of [[Egypt]],
 	- Exodus 7:7
 	  id:: 668d777d-0e80-4c92-89b2-caca15b99c44
 	  Now [[Moses]] was [[Eighty]] [[Year]]s old, and [[Aaron]] [[Eighty-Three]] years old, when they [spoke]([[Speak]]) to [[Pharaoh]].
