@@ -76,6 +76,7 @@
 	  id:: 66d718cf-b0b8-4c5f-a4e3-fc7f0bc7887a
 	  And [[God]] [saw]([[See]]) everything that he had [[Made]], and behold, it was very [[Good]]. And there was [[Evening]] and there was [[Morning]], the [[Six]]th [[Day]].
 - Genesis 2
+  collapsed:: true
 	- Genesis 2:1
 	  Thus the [[Heaven]]s and the [[Earth]] were [[Finish]]ed, and all the [[Host]] of them.
 	- Genesis 2:2
@@ -191,6 +192,7 @@
 	  id:: 67093894-aa93-4943-8121-659feb4b6de5
 	  Thus all the [[Day]]s that [[Adam]] [[Live]]d were 930 [[Year]]s, and he [[Die]]d.
 - Genesis 13
+  collapsed:: true
 	- Genesis 13:13
 	  id:: 672f61ee-d0f1-49f5-97c5-a3b3bfbf9710
 	  Now the [men]([[Man]]) of [[Sodom]] were [[Wicked]], great [[Sin]]ners [[Against]] the [[LORD]].
@@ -250,3 +252,9 @@
 	- Genesis 37:28
 	  id:: 66756995-4aaa-4fcb-a7c1-d71b3db694cc
 	  Then [[Midian]]ite traders passed by. And [they]([[Brother]]) drew [[Joseph]] up and lifted him out of the pit, and [Sold]([[Sell]]) him to the [[Ishmael]]ites for twenty [[Shekel]]s of [[Silver]]. They took Joseph to [[Egypt]].
+- Genesis 41
+	- Genesis 41:56
+	  id:: 673f2bbf-dd96-4a99-a999-2446479e3acf
+	  So when the [[Famine]] had spread over all the [[Land]], [[Joseph]] [[Open]]ed all the [[Storehouse]]s and [sold]([[Sell]]) to the [[Egypt]]ians, for the famine was severe in the land of Egypt.
+	- Genesis 41:57
+	  Moreover, all the [[Earth]] [came]([[Come]]) to [[Egypt]] to [[Joseph]] to [[Buy]] [[Grain]], because the [[Famine]] was severe over all the earth.

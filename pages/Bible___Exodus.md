@@ -50,6 +50,7 @@
 	  id:: 66911632-040f-4794-a673-f0d8d6e19c42
 	  And he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” And Moses hid his face, for he was afraid to look at God.
 - Exodus 4
+  collapsed:: true
 	- Exodus 4:21
 	  id:: 673ddedf-37c5-4dfd-adec-f4a1d50805cc
 	  And the [[LORD]] said to [[Moses]], "When you go back to [[Egypt]], [[See]] that you do before [[Pharaoh]] all the [[Miracle]]s that [I]([[God]]) have put in your [[Power]]. But I will [[Harden]] his [[Heart]], so that he will not let the [[People]] go.
@@ -59,11 +60,34 @@
 	- Exodus 7:7
 	  id:: 668d777d-0e80-4c92-89b2-caca15b99c44
 	  Now [[Moses]] was [[Eighty]] [[Year]]s old, and [[Aaron]] [[Eighty-Three]] years old, when they [spoke]([[Speak]]) to [[Pharaoh]].
+	- Exodus 7:13
+	  id:: 673f2ce8-a22e-45ea-8523-0e61d2172477
+	  Still [[Pharaoh]]'s [[Heart]] was [[Harden]]ed, and he would not [[Listen]] to them, as the [[LORD]] had said.
 	- Exodus 7:20
 	  id:: 668bd68e-7217-4778-90f9-82faf7c6c685
 	  [[Moses]] and [[Aaron]] did as the [[LORD]] [[Command]]ed. In the sight of [[Pharaoh]] and in the sight of his [[Servant]]s he lifted up the [[Staff]] and [struck]([[Strike]]) the [[Water]] in the [[Nile]], and all the water in the Nile turned into [[Blood]].
+	- Exodus 7:22
+	  id:: 673f2d39-d9d6-47da-9798-95c01cefb8ba
+	  But the [magicians]([[Sorcer]]) of [[Egypt]] did the same by their [[Secret]] [[Art]]s. So [[Pharaoh]]'s [[Heart]] remained [[Harden]]ed, and he would not [[Listen]] to them, as the [[LORD]] had said.
+	- Exodus 7:23
+	  [[Pharaoh]], turned and went into his [[House]], and he did not take even this to [[Heart]].
+- Exodus 8
+	- Exodus 8:15
+	  But when [[Pharaoh]] [saw]([[See]]) that there was a respite, he [[Harden]]ed his [[Heart]] and would not [[Listen]] to them, as the [[LORD]] had said.
+	- Exodus 8:18
+	  The [magicians]([[Sorcer]]) tried by their [[Secret]] [[Art]]s to [[Produce]] [[Gnat]]s, but they could not. So there were gnats on [[Man]] and [[Beast]].
+	- Exodus 8:19
+	  id:: 673f2e28-be03-42d3-98c7-00cd0ba47b66
+	  Then the [magicians]([[Sorcer]]) said to [[Pharaoh]], "This is the [[Finger]] of [[God]]." But Pharaoh's [[Heart]] was [[Harden]]ed, and he would not [[Listen]] to them, as the [[LORD]] had said.
+	- Exodus 8:32
+	  But [[Pharaoh]] [[Harden]]ed his [[Heart]] this [[Time]] also, and did not let the [[People]] go.
 - Exodus 9
-  collapsed:: true
+	- Exodus 9:7
+	  And [[Pharaoh]] [[Sent]], and behold, not one of the [[Livestock]] of [[Israel]] was [[Dead]]. But the [[Heart]] of [[Pharaoh]] was [[Harden]]ed, and he did not let the [[People]] go.
+	- Exodus 9:11
+	  And the [magicians]([[Sorcer]]) could not [[Stand]] before [[Moses]] because of the [[Boil]]s, for the boils [came]([[Come]]) upon the magicians and upon all the [[Egypt]]ians.
+	- Exodus 9:12
+	  But the [[LORD]] [[Harden]]ed the [[Heart]] of [[Pharaoh]], and he did not [[Listen]] to them, as the LORD had [spoken]([[Speak]]) to [[Moses]].
 	- Exodus 9:13
 	  Then the [[LORD]] said to [[Moses]], "Riss up early in the morning and present yourself before [[Pharaoh]] and say to him, 'Thus says the LORD, the [[God]] of the [[Hebrew]]s, "Let my [[People]] go, that they may [[Serve]] me.
 	- Exodus 9:14
@@ -75,6 +99,25 @@
 	  But for this purpose [I]([[God]]) have raised [you]([[Pharaoh]]) up, to show you my [[Power]], so that my [[Name]] may be proclaimed in all the [[Earth]].
 	- Exodus 9:17
 	  [You]([[Pharaoh]]) are still [[Exalt]]ing yourself against [My]([[God]]) [[People]] and will not let them go.
+	- Exodus 9:27
+	  Then [[Pharaoh]] [[Sent]] and [[Call]]ed [[Moses]] and [[Aaron]] and said to them, "This [[Time]] I have [[Sin]]ned; the [[LORD]] is in the [[Right]], and I and my [[People]] are in the [[Wrong]].
+	- Exodus 9:28
+	  [[Plead]] with the [[LORD]], for there has been enough of [[God]]'s [[Thunder]] and [[Hail]]. [I]([[Pharaoh]]) will let you go, and you shall stay no longer.”
+	- Exodus 9:29
+	  [[Moses]] said to [him]([[Pharaoh]]), "As soon as I have gone out of the [[City]], I will stretch out my [[Hand]]s to the [[LORD]]. The [[Thunder]] will [[Cease]], and there will be no more [[Hail]], so that you may [[Know]] that the [[Earth]] is the LORD's,
+	- Exodus 9:30
+	  But as for [you]([[Pharaoh]]) and your [[Servant]]s, [I]([[Moses]]) [[Know]] that you do not yet [[Fear]] the [[LORD]] [[God]]."
+	- Exodus 9:34
+	  id:: 673f3196-9d40-4012-a1ad-7841316c458e
+	  But when [[Pharaoh]] [saw]([[See]]) that the [[Rain]] and the [[Hail]] and the [[Thunder]] had [[Cease]]d, he [[Sin]]ned yet again and [[Harden]]ed his [[Heart]], he and his [[Servant]]s.
+	- Exodus 9:35
+	  id:: 673f31ca-17aa-4611-866b-96586d04674b
+	  So the [[Heart]] of [[Pharaoh]] was [[Harden]]ed, and he did not let the [[People]] of [[Israel]] go, just as the [[LORD]] had [spoken]([[Speak]]) through [[Moses]].
+- Exodus 10
+	- Exodus 10:1
+	  Then the [[LORD]] said to [[Moses]], "Go in to [[Pharaoh]], for [I]([[God]]) have [[Harden]]ed his [[Heart]] and the heart of his [[Servant]]s, that I may [[Show]] these [[Sign]]s of mine among them,
+	- Exodus 10:2
+	  and that [you]([[Moses]]) may [[Tell]] in the [[Hear]]ing of your [[Son]] and of your grandson how [I]([[God]]) have dealt harshly with the [[Egypt]]ians and what [[Sign]]s I have done among them, that you may [[Know]] that I am the [[LORD]]."
 - Exodus 14
   collapsed:: true
 	- Exodus 14:1
