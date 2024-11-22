@@ -1,3 +1,7 @@
+- Deuteronomy 3
+	- Deuteronomy 3:28
+	  id:: 67408056-366e-40ec-9909-fd5384d665eb
+	  But [[Charge]] [[Joshua]], and [[Encourage]] and [[Strength]]en him, for he shall go over at the [[Head]] of this [[People]], and he shall put them in [[Possess]]ion of the [[Land]] that [you]([[Moses]]) shall [[See]].’
 - Deuteronomy 5 #Annotate
   collapsed:: true
 	- Deuteronomy 5:16
@@ -13,6 +17,11 @@
 	  id:: 66bb4c09-8b74-4dde-a115-130b9f7cf6c0
 	- Deuteronomy 5:21
 	  id:: 66b4b459-8b75-4192-9373-a2c60d46ab1c
+- Deuteronomy 11
+  collapsed:: true
+	- Deuteronomy 11:8
+	  id:: 67407f27-fea7-4d55-bc59-29348823435d
+	  "You shall therefore [[Keep]] the whole [[Command]]ment that [I]([[God]]) command you today, that you may be [[Strong]], and go in and [[Take]] [[Possess]]ion of the [[Land]] that you are going over to possess,
 - Deuteronomy 29 #Annotate
   collapsed:: true
 	- Deuteronomy 29:2
@@ -28,7 +37,16 @@
 	  You have not eaten bread, and you have not drunk wine or strong drink, that you may know that I am the LORD your God.
 	- Deuteronomy 29:7
 	  And when you came to this place, Sihon the king of Heshbon and Og the king of Bashan came out against us to battle, but we defeated them.
+- Deuteronomy 31
+	- Deuteronomy 31:6
+	  id:: 6740811c-2fbc-40a4-a747-6ca82b094dc3
+	  Be [[Strong]] and [[Courage]]ous. Do not [[Fear]] or be in [[Dread]] of them, for it is the [[LORD]] your [[God]] who goes with you. He will not [[Leave]] you or [[Forsake]] you."
+	- Deuteronomy 31:7
+	  Then [[Moses]] summoned [[Joshua]] and said to him in the [sight]([[See]]) of all [[Israel]], "Be [[Strong]] and [[Courage]]ous, for you shall go with this [[People]] into the [[land]] that the [[LORD]] has [sworn]([[Swear]]) to their [[Father]]s to [give]([[Gift]]) them, and you shall put them in [[Possess]]ion of it.
+	- Deuteronomy 31:8
+	  It is the [[LORD]] who goes [[Before]] [you]([[Joshua]]). He will be with you; he will not [[Leave]] you or [[forsake]] you. Do not [[Fear]] or be [[Dismay]]ed."
 - Deuteronomy 32
+  collapsed:: true
 	- Deuteronomy 32:21
 	  id:: 66bb48b4-cd1f-4158-be73-f9140d1eaa17
 	  [They]([[Israel]]) have made [Me]([[God]]) [[Jealous]] with what is no god;

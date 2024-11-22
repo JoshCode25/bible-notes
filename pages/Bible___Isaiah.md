@@ -123,6 +123,16 @@
 	  id:: 669f03b5-0277-436e-986f-3b89be015a14
 	  Who has measured the [Spirit]([[Holy Spirit]]) of the [[LORD]],
 	  or what [[Man]] shows [Him]([[God]]) his [[Counsel]]?
+- Isaiah 42
+	- Isaiah 42:6
+	  "[I]([[God]]) am the [[LORD]]; I have called you in [[Righteous]]ness;
+	  I will [[Take]] you by the [[Hand]] and [[Keep]] you;
+	  I will [give]([[Gift]]) you as a [[Covenant]] for the [[People]],
+	  a [[Light]] for the [[Nation]]s,
+	- Isaiah 42:7
+	  to [[Open]] the [[Eye]]s that are [[Blind]],
+	  to bring out the [[Prisoner]]s from the [[Dungeon]],
+	  from the [[Prison]] those who [[Sit]] in [[Dark]]ness.
 - Isaiah 44
   id:: 66c7e743-9b47-4abf-a0c3-355dcdcd4929
   collapsed:: true
@@ -192,7 +202,6 @@
 	- Isaiah 44:20
 	  He feeds on [[Ash]]es; a deluded [[Heart]] has [led]([[Lead]]) him [[Astray]], and he cannot [[Deliver]] himself or say, "Is there not a [[Lie]] in my [[Right]] [[Hand]]?"
 - Isaiah 45
-  collapsed:: true
 	- Isaiah 45:5
 	  I am the [[LORD]], and there is no other,
 	  besides me there is no [[God]];
