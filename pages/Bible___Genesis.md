@@ -76,7 +76,6 @@
 	  id:: 66d718cf-b0b8-4c5f-a4e3-fc7f0bc7887a
 	  And [[God]] [saw]([[See]]) everything that he had [[Made]], and behold, it was very [[Good]]. And there was [[Evening]] and there was [[Morning]], the [[Six]]th [[Day]].
 - Genesis 2
-  collapsed:: true
 	- Genesis 2:1
 	  Thus the [[Heaven]]s and the [[Earth]] were [[Finish]]ed, and all the [[Host]] of them.
 	- Genesis 2:2
@@ -91,6 +90,7 @@
 	  of the [[Heaven]]s and the [[Earth]] when they were [[Create]]d,
 	  in the [[Day]] that the [[LORD]] [[God]] [[Made]] the earth and the heavens.
 	- Genesis 2:5
+	  id:: 6710fd82-6d54-4cb2-b7ec-59dddee2cc22
 	  When no bush of the [[Field]] was yet in the [[Land]] and no [[Small]] [[Plant]] of the field had yet sprung up—for the [[LORD]] [[God]] had not caused it to [[Rain]] on the land, and there was no [[Man]] to [[Work]] the [[Ground]],
 	- Genesis 2:6
 	  and a [[Mist]] was going up from the [[Land]] and was [[Water]]ing the whole [[Face]] of the [[Ground]] —
@@ -100,6 +100,7 @@
 	- Genesis 2:8
 	  And the [[LORD]] [[God]] [[Plant]]ed a [[Garden]] in [[Eden]], in the [[East]], and there he put the [[Man]] whom he had [[Form]]ed.
 	- Genesis 2:15
+	  id:: 670938e2-62f6-41fe-bf5c-a778d56efcb2
 	  The [[LORD]] [[God]] took the [man]([[Adam]]) and put him in the [[Garden]] of [[Eden]] to [[Work]] it and [[Keep]] it.
 	- Genesis 2:16
 	  And the [[LORD]] [[God]] [[Command]]ed the [man]([[Adam]]), saying, “You may surely [[Eat]] of every [[Tree]] of the [[Garden]],
@@ -181,6 +182,13 @@
 	- Genesis 3:21
 	  id:: 670e5ca7-3319-423b-9cd3-4def937adb44
 	  And the [[LORD]] [[God]] [[Made]] for [[Adam]] and for his [wife]([[Eve]]) [[Garment]]s of [[Skin]]s and [clothed]([[Clothes]]) them.
+	- Genesis 3:22
+	  Then the [[LORD]] [[God]] said, "Behold, the [man]([[Adam]]) has become like one of us in [[Know]]ing [[Good]] and [[Evil]]. Now, lest he reach out his [[Hand]] and [[Take]] also of the [[Tree]] of [[Life]] and [[Eat]], and [[Live]] [[Forever]] —"
+	- Genesis 3:23
+	  id:: 6741cf85-4ded-42a0-89d8-833268b0ac78
+	  therefore the [[LORD]] [[God]] [[Sent]] [him]([[Adam]]) out from the [[Garden]] of [[Eden]] to [[Work]] the [[Ground]] from which he was [[Take]]n.
+	- Genesis 3:24
+	  [He]([[God]]) [drove]([[Drive]]) out the [man]([[Adam]]), and at the [[East]] of the [[Garden]] of [[Eden]] he placed the [[Cherubim]] and a [flaming]([[Fire]]) [[Sword]] that turned every way to [[Guard]] the [[Way]] to the [[Tree]] of [[Life]].
 - Genesis 4
   collapsed:: true
 	- Genesis 4:8
@@ -210,7 +218,6 @@
 	  id:: 66aa6415-07b9-4254-9d6d-58351b27df01
 	  Is anything too [[Hard]] for the [[LORD]]? At the [[Appoint]]ed [[Time]] [I]([[God]]) will [[Return]] to [you]([[Abraham]]), about this time next [[Year]], and [[Sarah]] shall have a [[Son]].”
 - Genesis 15
-  collapsed:: true
 	- Genesis 15:1
 	  After these thing the [[Word]] of the [[LORD]] came to [[Abram]] in a [[Vision]] : "[[Fear]] not, Abram, I am your [[Shield]]; your [[Reward]] shall be very great."
 	- Genesis 15:2
@@ -226,6 +233,17 @@
 	- Genesis 15:6
 	  id:: 66911a3e-778f-4296-8de4-d96fbe6353b4
 	  And [he]([[Abram]]) [[Believe]]d the [[LORD]], and [He]([[God]]) counted it to him as [[Righteous]]ness.
+	- Genesis 15:12
+	  As the [[Sun]] was going down, a [[Deep]] [[Sleep]] [fell]([[Fall]]) on [[Abram]]. And behold, [[Dread]]ful and great [[Dark]]ness fell upon him.
+	- Genesis 15:13
+	  id:: 6741d140-a663-457f-9e3e-7226bd5e5c7f
+	  Then the [[LORD]] said to [[Abram]], "[[Know]] for certain that your [[Offspring]] will be [[Sojourner]]s in a [[Land]] that is not theirs and will be [[Servant]]s there, and they will be [[Afflict]]ed for [[Four]] hundred [[Year]]s.
+	- Genesis 15:14
+	  But [I]([[LORD]]) will bring [[Judgment]] on the [[Nation]] that [they]([[Offspring]]) [[Serve]], and afterward they shall [[Come]] out with great [[Possess]]ions.
+	- Genesis 15:15
+	  As for [you]([[Abram]]), you shall go to your [[Father]]s in [[Peace]]; you shall be [buried]([[Bury]]) in a [[Good]] [[Old]] [[Age]].
+	- Genesis 15:16
+	  And [they]([[Offspring]]) shall [[Come]] back here in the [[Fourth]] [[Generation]], for the [[Iniquity]] of the [[Amorite]]s is not yet [[Complete]]."
 - Genesis 21
   collapsed:: true
 	- Genesis 21:12
@@ -253,6 +271,7 @@
 	  id:: 66756995-4aaa-4fcb-a7c1-d71b3db694cc
 	  Then [[Midian]]ite traders passed by. And [they]([[Brother]]) drew [[Joseph]] up and lifted him out of the pit, and [Sold]([[Sell]]) him to the [[Ishmael]]ites for twenty [[Shekel]]s of [[Silver]]. They took Joseph to [[Egypt]].
 - Genesis 41
+  collapsed:: true
 	- Genesis 41:56
 	  id:: 673f2bbf-dd96-4a99-a999-2446479e3acf
 	  So when the [[Famine]] had spread over all the [[Land]], [[Joseph]] [[Open]]ed all the [[Storehouse]]s and [sold]([[Sell]]) to the [[Egypt]]ians, for the famine was severe in the land of Egypt.

@@ -39,7 +39,6 @@
 	  When the [[Child]] grew older, she brought him to [[Pharaoh]]'s [[Daughter]], and he became her [[Son]]. She named him [[Moses]], "Because," she said, "I drew him out of the [[Water]]."
 		- *Moses* sounds like [[Hebrew]] for *Draw out*
 - Exodus 3
-  collapsed:: true
 	- Exodus 3:3
 	  And Moses said, "I will turn aside to see this great sight, why the bush is not burned."
 	- Exodus 3:4
@@ -49,6 +48,9 @@
 	- Exodus 3:6
 	  id:: 66911632-040f-4794-a673-f0d8d6e19c42
 	  And he said, "I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” And Moses hid his face, for he was afraid to look at God.
+	- Exodus 3:12
+	  id:: 6741d2f8-8bef-45c5-b013-98f1dc1bb1c6
+	  [He]([[LORD]]) said, "But I will be with [you]([[Moses]]), and this shall be the [[Sign]] for you, that I have [[Sent]] you: when you have brought the [[People]] out of [[Egypt]], you shall [[Serve]] [[God]] on this [[Mountain]]."
 - Exodus 4
   collapsed:: true
 	- Exodus 4:21

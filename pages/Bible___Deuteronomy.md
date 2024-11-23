@@ -17,11 +17,26 @@
 	  id:: 66bb4c09-8b74-4dde-a115-130b9f7cf6c0
 	- Deuteronomy 5:21
 	  id:: 66b4b459-8b75-4192-9373-a2c60d46ab1c
-- Deuteronomy 11
+- Deuteronomy 6
   collapsed:: true
+	- Deuteronomy 6:13
+	  id:: 6741d389-6ee9-4e72-9c91-e6d19952e5af
+	  It is the [[LORD]] [your]([[Israel]]) [[God]] you shall [[Fear]]. Him you shall [[Serve]] and by his [[Name]] you shall [[Swear]].
+- Deuteronomy 11
 	- Deuteronomy 11:8
 	  id:: 67407f27-fea7-4d55-bc59-29348823435d
-	  "You shall therefore [[Keep]] the whole [[Command]]ment that [I]([[God]]) command you today, that you may be [[Strong]], and go in and [[Take]] [[Possess]]ion of the [[Land]] that you are going over to possess,
+	  "[You]([[Israel]]) shall therefore [[Keep]] the whole [[Command]]ment that [I]([[God]]) command you today, that you may be [[Strong]], and go in and [[Take]] [[Possess]]ion of the [[Land]] that you are going over to possess,
+	- Deuteronomy 11:13
+	  id:: 6741d478-49ea-4a7b-9bd9-2104743c3160
+	  "And if [you]([[Israel]]) will indeed [[Obey]] [my]([[Moses]]) [[Command]]ments that I command you today, to [[Love]] the [[LORD]] your [[God]], and to [[Serve]] him with all your [[Heart]] and with all your [[Soul]],
+	- Deuteronomy 11:14
+	  [He]([[God]]) will [give]([[Gift]]) the [[Rain]] for [your]([[Israel]]) [[Land]] in its [[Season]], the early rain and the later rain, that you may [[Gather]] in your [[Grain]] and your [[Wine]] and your [[Oil]].
+	- Deuteronomy 11:15
+	  And [He]([[God]]) will [give]([[Gift]]) [[Grass]] in [your]([[Israel]]) [[Field]]s for your [[Livestock]], and you shall [[Eat]] and be [[Full]].
+	- Deuteronomy 11:16
+	  [[Take]] [[Care]] lest [your]([[Israel]]) [[Heart]] be [[Deceive]]d, and you turn aside and [[Serve]] other [[god]]s and [[Worship]] them;
+	- Deuteronomy 11:17
+	  then the [[Anger]] of the [[LORD]] will be kindled [[Against]] [you]([[Israel]]), and he will [[Shut]] up the [[Heaven]]s, so that there will be no [[Rain]], and the [[Land]] will [[Yield]] no [[Fruit]], and you will [[Perish]] quickly off the [[Good]] land that the [[LORD]] is [giving]([[Gift]]) you.
 - Deuteronomy 29 #Annotate
   collapsed:: true
 	- Deuteronomy 29:2
