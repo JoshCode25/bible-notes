@@ -203,6 +203,7 @@
 	  id:: 66ad607a-0509-48d8-b5fb-7cf4523e5b0d
 	  [[Six]] [[Day]]s you shall [[Labor]], and do all your [[Work]],
 	- Exodus 20:10
+	  id:: 66ad607a-b0be-45f5-859d-940382047159
 	  but the [[Seven]]th [[Day]] is a [[Sabbath]] to the [[LORD]] your [[God]]. On it you shall not do any [[Work]], you, or your [[Son]], or your [[Daughter]], your [[Male]] [[Servant]], or your [[Female]] servant, or your [[Livestock]], or the [[Sojourner]] who is within your [[Gate]]s.
 	- Exodus 20:11
 	  id:: 66ad607a-9bfa-489a-9d50-fe0a426a23a6
@@ -231,8 +232,10 @@
 	- Exodus 31:13
 	  "[You]([[Moses]]) are to [[Speak]] to the [[People]] of [[Israel]] and say, 'Above all you shall keep [My]([[God]]) [[Sabbath]]s, for this is a [[Sign]] between me and you throughout your [[Generation]]s, that you may [[Know]] that I, the [[LORD]], [[Sanctif]]y you.
 	- Exodus 31:14
+	  id:: 67051b31-5a75-487e-8a4e-c279e1b357b6
 	  [You]([[Israel]]) shall keep the [[Sabbath]], because it is [[Holy]] for you. Everyone who profanes it shall be put to [[Death]]. Whoever does any [[Work]] on it, that [[Soul]] shall be [[Cut]] off from among his [[People]].
 	- Exodus 31:15
+	  id:: 67051bdb-7eb0-48c7-8581-acf7ca81a078
 	  [[Six]] [[Day]]s shall [[Work]] be done, but the [[Seven]]th day is a [[Sabbath]] of solemn [[Rest]], [[Holy]] to the [[LORD]]. Whoever does any work on the Sabbath day shall be put to [[Death]].
 	- Exodus 31:16
 	  Therefore the [[People]] of [[Israel]] shall keep the [[Sabbath]], observing the Sabbath throughout their [[Generation]]s, as a [[Covenant]] [[Forever]].
