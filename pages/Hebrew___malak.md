@@ -2,4 +2,33 @@ concordance:: [[Strongs/H4397]]
 language:: [[Hebrew]] 
 translations:: [[Angel]], [[Messenger]], [[Ambassador]]
 
+- from an unused root mean. to despatch as a deputy; a messenger; spec. of God, i.e. an angel (also a prophet, priest or teacher):
+	- angel (111x)
+	- messenger (98x)
+	- ambassadors (4x)
+	- variant (1x)
+- Malak means "messenger; angel."
+	- (1) The noun malak appears 213 times in the Hebrew Old Testament.
+		- (1a) Its frequency is especially great in the historical books, where it usually means "messenger": [[Bible/Judges]] (31 times), [[Bible/2 Kings]] (20 times), [[Bible/1 Samuel]] (19 times), and [[Bible/2 Samuel]] (18 times)
+		- (1b) The prophetical works are very moderate in their usage of malak,
+		- (1c) with the outstanding exception of the Book of Zechariah, where the angel of the Lord communicates God's message to Zechariah. For example: "… And the angel answered and said to me, ‘These are going out to the four winds [pl. malak] of heaven…'" ((6744733b-321d-4c2d-94e9-289146d79b2d)) - ((6744732f-4835-47c2-abfa-32ab69fb5d15))
+	- (2) The word malak denotes someone sent over a great distance by an individual (Gen 32:3) or by a community (Num 21:21), in order to communicate a message. Often several messengers are sent together: "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick; and he sent messengers [pl. of malak] and said unto them, Go, inquire of Baal-zebub the god of Ekron whether I shall recover of this disease" Kin 1:2).
+	- (3) The introductory formula of the message borne by the malak often contains the phrase "Thus says....." or "This is what ... says," signifying the authority of the messenger in giving the message of his master: "Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon" (Judg 11:15),
+	- (4) As a representative of a king, the malak might have performed the function of a diplomat.
+		- (4a) In 1 Kin 20:1ff., we read that Benhadad sent messengers with the terms of surrender: "He sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad.." (1 Kin 20:2).
+	- (5) These passages confirm the important place of the malak.
+		- (5a) Honor to the messenger, signified honor to the sender, and the opposite was also true.
+		- (5b) David took personally the insult of Nabal (1 Sa 25:14t.); and when Hanun, king of Ammon, humiliated David's servants (2 Sa 10:4t.), David was quick to dispatch his forces against the Ammonites.
+	- (6) God also sent messengers.
+		- (6a) First, there are the prophetic messengers: "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy" (2 Chr 36:15-16).
+		- (6b) Haggai called himself “the messenger of the LORD," *malak Yahweh*.
+	- (7) There were also angelic messengers. The English word angel is etymologically related to the Greek word angelos, whose translation is similar to the Hebrew: "messenger" or "angel."
+		- (7a) The angel is a supernatural messenger of the Lord sent with a particular message.
+		- (7b) Two angels came to Lot at Sodom: "And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground.." (Gen 19:1).
+		- (7c) The angels were also commissioned to protect God's people: "For he shall give his angels charge over thee, to keep thee in all thy ways" (Ps 91:11).
+	- (8) Most significant, are the phrases malak Yahweh, "the angel of the LORD," and malak ‹elohim, "the angel of God."
+		- (8a) The phrase is always used in the singular.
+		- (8b) It denotes an angel who had mainly a saving and protective function: "For mine angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off" (Ex 23:23),
+		- (8c) He might also bring about destruction: "And David lifted up his eyes, and saw the angel of the LorD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces') (1 Chr 21:16)
+		- (8d) The relation between the Lord and the "angel of the LORD" is often so close that it is difficult to separate the two (Gen 16:7ff.; 21:17ff.; 22:11ff.; 31:11ff.; Ex 3:2ff.; Judg 6:11ff.; 13:21f.). This identification has led some interpreters to conclude that the "angel of the LORD" was the pre-incarnate Christ.
 - TODO Finish #Do-List
