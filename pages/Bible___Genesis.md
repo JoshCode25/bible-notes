@@ -76,6 +76,7 @@
 	  id:: 66d718cf-b0b8-4c5f-a4e3-fc7f0bc7887a
 	  And [[God]] [saw]([[See]]) everything that he had [[Made]], and behold, it was very [[Good]]. And there was [[Evening]] and there was [[Morning]], the [[Six]]th [[Day]].
 - Genesis 2
+  collapsed:: true
 	- Genesis 2:1
 	  Thus the [[Heaven]]s and the [[Earth]] were [[Finish]]ed, and all the [[Host]] of them.
 	- Genesis 2:2
@@ -218,6 +219,7 @@
 	  id:: 66aa6415-07b9-4254-9d6d-58351b27df01
 	  Is anything too [[Hard]] for the [[LORD]]? At the [[Appoint]]ed [[Time]] [I]([[God]]) will [[Return]] to [you]([[Abraham]]), about this time next [[Year]], and [[Sarah]] shall have a [[Son]].”
 - Genesis 15
+  collapsed:: true
 	- Genesis 15:1
 	  After these thing the [[Word]] of the [[LORD]] came to [[Abram]] in a [[Vision]] : "[[Fear]] not, Abram, I am your [[Shield]]; your [[Reward]] shall be very great."
 	- Genesis 15:2
@@ -265,6 +267,16 @@
 	  and two [[People]]s from within you shall be [[Divide]]d;
 	  the [[One]] shall be [[Strong]]er than the other,
 	  the [[Old]]er shall [[Serve]] the [[Young]]er.”
+- Genesis 32
+	- Genesis 32:1
+	  id:: 6745bf50-9578-4297-874a-0fad69b030d2
+	  [[Jacob]] went on his [[Way]], and the [[Angel]]s of [[God]] [met]([[Meet]]) him.
+	- Genesis 32:2
+	  And when [[Jacob]] [saw]([[See]]) [them]([[Angel]]) he said, "This is [[God]]'s [[Camp]]!" So he [[Call]]ed the [[Name]] of that [[Place]] [[Mahanaim]].
+		- *Mahanaim* means two camps
+	- Genesis 32:3
+	  id:: 6745bf86-9cc5-4b74-8271-df9fa4dd6183
+	  And [[Jacob]] [[Sent]] [[Messenger]]s before him to [[Esau]] his [[Brother]] in the [[Land]] of [[Seir]], the [[Country]] of [[Edom]],
 - Genesis 37
   collapsed:: true
 	- Genesis 37:28
