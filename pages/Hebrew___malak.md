@@ -15,7 +15,7 @@ translations:: [[Angel]], [[Messenger]], [[Ambassador]]
 	- (2) The word malak denotes someone sent over a great distance by an individual ((6745bf86-9cc5-4b74-8271-df9fa4dd6183)) or by a community ((6745c110-6b92-4e3a-8de9-563f275dfa97)), in order to communicate a message. Often several messengers are sent together: "… and he sent messengers [pl. of malak]…” ((6745c53b-eaa1-4795-b75a-ee849e952103))
 	- (3) The introductory formula of the message borne by the malak often contains the phrase "Thus says....." or "This is what ... says," signifying the authority of the messenger in giving the message of his master: "Thus says Jephthah:…" ((6745c7c6-0937-4f0f-8d48-e872528976ad))
 	- (4) As a representative of a king, the malak might have performed the function of a diplomat.
-		- (4a) In 1 Kin 20:1ff., we read that Benhadad sent messengers with the terms of surrender: "He sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad.." (1 Kin 20:2).
+		- (4a) In ((6749b759-c5d6-46cb-889c-03d2c0781ae0))ff., we read that Ben-hadad sent messengers with the terms of surrender: "He sent messengers to Ahab king of Israel into the city, and said unto him, Thus says Ben-hadad.." ((6749bb2a-0f7a-4e35-a11b-02cd0472dbb3))
 	- (5) These passages confirm the important place of the malak.
 		- (5a) Honor to the messenger, signified honor to the sender, and the opposite was also true.
 		- (5b) David took personally the insult of Nabal (1 Sa 25:14t.); and when Hanun, king of Ammon, humiliated David's servants (2 Sa 10:4t.), David was quick to dispatch his forces against the Ammonites.
