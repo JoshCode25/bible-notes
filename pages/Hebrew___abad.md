@@ -11,7 +11,7 @@ translations:: [[Serve]], [[Work]], till
 	- worshippers (5x)
 	- service (4x)
 	- dress (2x)
-	- labour (2x)
+	- labor (2x) ((66ad607a-0509-48d8-b5fb-7cf4523e5b0d))
 	- ear (2x)
 	- misc. (14x) = X be, keep in bondage, be bondmen, bond-service, compel, execute, + husbandman, keep, be wrought.
 - 'Abad, as a verb, means "to serve, cultivate, enslave, work."

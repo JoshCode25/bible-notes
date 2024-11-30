@@ -18,7 +18,7 @@ translations:: [[Angel]], [[Messenger]], [[Ambassador]]
 		- (4a) In ((6749b759-c5d6-46cb-889c-03d2c0781ae0))ff., we read that Ben-hadad sent messengers with the terms of surrender: "He sent messengers to Ahab king of Israel into the city, and said unto him, Thus says Ben-hadad.." ((6749bb2a-0f7a-4e35-a11b-02cd0472dbb3))
 	- (5) These passages confirm the important place of the malak.
 		- (5a) Honor to the messenger, signified honor to the sender, and the opposite was also true.
-		- (5b) David took personally the insult of Nabal (1 Sa 25:14t.); and when Hanun, king of Ammon, humiliated David's servants (2 Sa 10:4t.), David was quick to dispatch his forces against the Ammonites.
+		- (5b) David took personally the insult of Nabal ((674b0d0e-e3c0-4094-abd0-024bff9bd577)); and when Hanun, king of Ammon, humiliated David's servants ((674b0fd9-1be0-41cc-99ff-60673d4c758b)), David was quick to dispatch his forces against the Ammonites.
 	- (6) God also sent messengers.
 		- (6a) First, there are the prophetic messengers: "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy" (2 Chr 36:15-16).
 		- (6b) Haggai called himself “the messenger of the LORD," *malak Yahweh*.

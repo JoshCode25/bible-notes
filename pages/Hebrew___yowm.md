@@ -15,7 +15,7 @@ translations:: [[Day]], to be [[Hot]]
 	- 4) When used in the plural, the word may represent “year”: “Thou shalt, therefore keep this ordinance in his season from year to year [yamim]" (Ex 13:10).
 	- (5) There are several other special nuances of yowm when it is used with various prepositions.
 		- (5a) First, when used with ke ("as," "like"), it can connote
-			- (5a1) "first": "And Jacob said, Sell me this day [first) thy birth-right" (Gen 25:31).
+			- (5a1) "first": "And Jacob said, Sell me this day [first] thy birth-right" (Gen 25:31).
 			- (5a2) It may also mean "one day," or "about this day": "And it came to pass about this time, that Joseph went into the house to do his business..." (Gen 39:11).
 			- (5a3) On Joseph's lips, the phrase connotes "this present result" (literally, "as it is this day"): "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive" (Gen 50:20).
 			- (5a4) Adonijah used this same phrase to represent "today". "Let king Solomon swear unto me today that he will not slay his servant..." (1 Kin 1:51).
@@ -28,8 +28,8 @@ translations:: [[Day]], to be [[Hot]]
 		- (7a) Perhaps the most frequently heard explanations are that these "days" are
 			- (7a1) 24 hours long
 			- (7a2) indefinitely long (i.e., eras of time)
-			- (7a3) logical rather than temporal categories (i.e., they depict theological categories rather than periods of time). 
-			  (7b) However, we know that these were literal 24 hour days. God based the Sabbath day's rest on His 7 days of creation. God did not work "7 long periods of time." ((66ad607a-0509-48d8-b5fb-7cf4523e5b0d)) - ((66ad607a-9bfa-489a-9d50-fe0a426a23a6))
+			- (7a3) logical rather than temporal categories (i.e., they depict theological categories rather than periods of time)
+		- (7b) However, we know that these were literal 24 hour days. God based the Sabbath day's rest on His 7 days of creation. God did not work "7 long periods of time." ((66ad607a-0509-48d8-b5fb-7cf4523e5b0d)) - ((66ad607a-9bfa-489a-9d50-fe0a426a23a6))
 	- (8) The "day of the Lord" is used to denote
 		- (8a) both the end of the age (eschatologically) or some occurrence during the present age (non-eschatologically).
 		- (8b) It may be a day of either judgment or blessing, or both (cf. Is 2).
