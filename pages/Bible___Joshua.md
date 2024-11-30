@@ -1,10 +1,10 @@
 - Joshua 1 #Annotate
 	- Joshua 1:1
-	  After the death of Moses the servant of the LORD, the LORD said to Joshua the son of Nun, Moses' assistant,
+	  After the [[Death]] of [[Moses]] the [[Servant]] of the [[LORD]], the LORD said to [[Joshua]] the [[Son]] of [[Nun]], Moses' [[Assistant]],
 	- Joshua 1:2
-	  "Moses my servant is dead. Now therefore arise, go over this Jordan, you and all this people, into the land that I am giving to them, to the people of Israel.
+	  "[[Moses]] [My]([[LORD]]) [[Servant]] is [[Dead]]. Now therefore arise, go over this [[Jordan]], [you]([[Joshua]]) and all this [[People]], into the [[Land]] that I am [giving]([[Gift]]) to them, to the people of [[Israel]].
 	- Joshua 1:3
-	  Every place that the sole of your foot will tread upon I have given to you, just as I promised to Moses.
+	  Every [[Place]] that the [[Sole]] of [your]([[Joshua]]) [[Foot]] will tread upon [I]([[LORD]]) have [given]([[Gift]]) to [you]([[Israel]]), just as [I]([[God]]) [[Promise]]d to [[Moses]].
 	- Joshua 1:4
 	  From the wilderness and this Lebanon as far as the great river, the river Euphrates, all the land of the Hittites to the Great Sea toward the going down of the sun shall be your territory.
 	- Joshua 1:5
