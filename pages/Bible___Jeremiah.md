@@ -64,6 +64,7 @@
 	  [[Egypt]], [[Judah]], [[Edom]], the [[Son]]s of [[Ammon]], [[Moab]], and all who [[Dwell]] in the [[Desert]] who cut the corners of their [[Hair]], for all these [[Nation]]s are [[Uncircumcise]]d, and all the [[House]] of [[Israel]] are uncircumcised in [[Heart]]."
 - Jeremiah 10
   id:: 66c7e72a-3f5b-4137-8af6-59d4cc10f49c
+  collapsed:: true
 	- Jeremiah 10:1
 	  [[Hear]] the [[Word]] that the [[LORD]] [[Speak]]s to you, O [[House]] of [[Israel]].
 	- Jeremiah 10:2
@@ -145,6 +146,11 @@
 	  And do not carry a [[Burden]] out of your [[House]]s on the [[Sabbath]] or do any [[Work]], but keep the Sabbath day [[Holy]], as [I]([[God]]) [[Command]]ed your [[Father]]s.
 	- Jeremiah 17:23
 	  Yet they did not [[Listen]] or incline their [[Ear]], but stiffened their [[Neck]], that they might not [[Hear]] and [[Receive]] instruction.
+- Jeremiah 21
+	- Jeremiah 21:1
+	  This is the [[Word]] that [came]([[Come]]) to [[Jeremiah]] from the [[LORD]], when [[King]] [[Zedekiah]] [[Sent]] to him [[Pashhur]] the [[Son]] of [[Malchiah]] and [[Zephaniah]] the [[Priest]], the son of [[Maaseiah]], saying,
+	- Jeremiah 21:2
+	  "[[Inquire]] of the [[LORD]] for us, for [[Nebuchadnezzar]] [[King]] of [[Babylon]] is making [[War]] [[Against]] us. Perhaps the LORD will deal with us according to all his [[Wonder]]ful deeds and will make him [[Withdraw]] from us."
 - Jeremiah 28
   collapsed:: true
 	- Jeremiah 28:29

@@ -10,8 +10,7 @@ translations:: [[Angel]], [[Messenger]], [[Ambassador]]
 - *Malak* means "messenger; angel."
 	- (1) The noun *malak* appears 213 times in the Hebrew Old Testament.
 		- (1a) Its frequency is especially great in the historical books, where it usually means "messenger": [[Bible/Judges]] (31 times), [[Bible/2 Kings]] (20 times), [[Bible/1 Samuel]] (19 times), and [[Bible/2 Samuel]] (18 times)
-		- (1b) The prophetical works are very moderate in their usage of malak,
-		- (1c) with the outstanding exception of the Book of Zechariah, where the angel of the Lord communicates God's message to Zechariah. For example: "… And the angel answered and said to me, ‘These are going out to the four winds [pl. of *malak*] of heaven…'" ((6744733b-321d-4c2d-94e9-289146d79b2d)) - ((6744732f-4835-47c2-abfa-32ab69fb5d15))
+		- (1b) The prophetical works are very moderate in their usage of malak, with the outstanding exception of the Book of Zechariah, where the angel of the Lord communicates God's message to Zechariah. For example: "… And the angel answered and said to me, ‘These are going out to the four winds [pl. of *malak*] of heaven…'" ((6744732f-4835-47c2-abfa-32ab69fb5d15))
 	- (2) The word malak denotes someone sent over a great distance by an individual ((6745bf86-9cc5-4b74-8271-df9fa4dd6183)) or by a community ((6745c110-6b92-4e3a-8de9-563f275dfa97)), in order to communicate a message. Often several messengers are sent together: "… and he sent messengers [pl. of malak]…” ((6745c53b-eaa1-4795-b75a-ee849e952103))
 	- (3) The introductory formula of the message borne by the malak often contains the phrase "Thus says....." or "This is what ... says," signifying the authority of the messenger in giving the message of his master: "Thus says Jephthah:…" ((6745c7c6-0937-4f0f-8d48-e872528976ad))
 	- (4) As a representative of a king, the malak might have performed the function of a diplomat.
@@ -20,7 +19,7 @@ translations:: [[Angel]], [[Messenger]], [[Ambassador]]
 		- (5a) Honor to the messenger, signified honor to the sender, and the opposite was also true.
 		- (5b) David took personally the insult of Nabal ((674b0d0e-e3c0-4094-abd0-024bff9bd577)); and when Hanun, king of Ammon, humiliated David's servants ((674b0fd9-1be0-41cc-99ff-60673d4c758b)), David was quick to dispatch his forces against the Ammonites.
 	- (6) God also sent messengers.
-		- (6a) First, there are the prophetic messengers: "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place: But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy" (2 Chr 36:15-16).
+		- (6a) First, there are the prophetic messengers ((674dac22-1691-4523-886e-9cca46fa223f)) - ((674dac5d-a929-45a5-9957-3643f7bfe3d2))
 		- (6b) Haggai called himself “the messenger of the LORD," *malak Yahweh*.
 	- (7) There were also angelic messengers. The English word angel is etymologically related to the Greek word angelos, whose translation is similar to the Hebrew: "messenger" or "angel."
 		- (7a) The angel is a supernatural messenger of the Lord sent with a particular message.
