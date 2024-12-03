@@ -147,10 +147,38 @@
 	- Jeremiah 17:23
 	  Yet they did not [[Listen]] or incline their [[Ear]], but stiffened their [[Neck]], that they might not [[Hear]] and [[Receive]] instruction.
 - Jeremiah 21
+  collapsed:: true
 	- Jeremiah 21:1
 	  This is the [[Word]] that [came]([[Come]]) to [[Jeremiah]] from the [[LORD]], when [[King]] [[Zedekiah]] [[Sent]] to him [[Pashhur]] the [[Son]] of [[Malchiah]] and [[Zephaniah]] the [[Priest]], the son of [[Maaseiah]], saying,
 	- Jeremiah 21:2
 	  "[[Inquire]] of the [[LORD]] for us, for [[Nebuchadnezzar]] [[King]] of [[Babylon]] is making [[War]] [[Against]] us. Perhaps the LORD will deal with us according to all his [[Wonder]]ful deeds and will make him [[Withdraw]] from us."
+	- Jeremiah 21:3
+	  Then [[Jeremiah]] said to them: "Thus you shall say to [[Zedekiah]],
+	- Jeremiah 21:4
+	  "Thus says the [[LORD]], the [[God]] of [[Israel]]: Behold, I will turn back the [[Weapon]]s of [[War]] that are in your hands and with which you are [[Fight]]ing [[Against]] the [[King]] of [[Babylon]] and against the [[Chaldean]]s who are [besieging]([[Seige]]) you [[Outside]] the [[Wall]]s. And I will bring them together into the midst of [this]([[Jerusalem]]) [[City]].
+	- Jeremiah 21:5
+	  "[I]([[LORD]]) [myself]([[God]]) will [[Fight]] [[Against]] [you]([[Israel]]) with outstretched [[Hand]] and [[Strong]] [[Arm]], in [[Anger]] and in [[Fury]] and in great [[Wrath]].
+	- Jeremiah 21:6
+	  And [I]([[LORD]]) will [[Strike]] down the [[Inhabit]]ants of [this]([[Jerusalem]]) [[City]], both [man]([[Mankind]]) and [[Beast]]. They shall [[Die]] of a great [[Pestillence]] .
+	- Jeremiah 21:7
+	  Afterward, declares the [[LORD]], [I]([[God]]) will [give]([[Gift]]) [[Zedekiah]] [[King]] of [[Judah]] and his [[Servant]]s and the [[People]] in [this]([[Jerusalem]]) [[City]] who [[Survive]] the [[Pestilence]], [[Sword]], and [[Famine]] into the [[Hand]] of [[Nebuchadnezzar]] king of [[Babylon]] and into the hand of their [enemies]([[Enemy]]), into the hand of those who [[Seek]] their [lives]([[Life]]). He shall [[Strike]] them down with the edge of the sword. He shall not [[Pity]] them or spare them or have [[Compassion]].'
+	- Jeremiah 21:8
+	  "And to this [[People]] [you]([[Jeremiah]]) shall say: ‘Thus says the [[LORD]]: Behold, [I]([[God]]) set before you the [[Way]] of [[Life]] and the way of [[Death]].
+	- Jeremiah 21:9
+	  He who stays in [this]([[Jerusalem]]) [[City]] shall [[Die]] by the [[Sword]], by [[Famine]], and by [[Pestilence]], but he who goes out and [[Surrender]]s to the [[Chaldean]]s who are [besieging]([[Seige]]) you shall [[Live]] and shall have his [[Life]] as a [[Prize]] of [[War]].
+	- Jeremiah 21:10
+	  id:: 674efb40-5cd2-405b-8ef2-f998e9695d95
+	  For [I]([[LORD]]) have set [My]([[God]]) [[Face]] [[Against]] [this]([[Jerusalem]]) [[City]] for [[Harm]] and not for [[Good]], declares the LORD: it shall be [given]([[Gift]]) into the [[Hand]] of the [[King]] of [[Babylon]], and [he]([[Nebuchadnezzar]]) shall [[Burn]] it with [[Fire]].'
+- Jeremiah 25
+	- Jeremiah 25:11
+	  id:: 674eff3f-da6d-4910-af65-6d77f941303c
+	  This whole [[Land]] shall become a [[Ruin]] and a [[Waste]], and these [[Nation]]s shall [[Serve]] the [[King]] of [[Babylon]] [[Seventy]] [[Year]]s.
+	- Jeremiah 25:12
+	  Then after [[Seventy]] [[Year]]s are completed, [I]([[God]]) will [[Punish]] [the]([[Nebuchadnezzar]]) [[King]] of [[Babylon]] and that [[Nation]], the [[Land]] of the [[Chaldean]]s, for their [[Iniquity]], declares the [[LORD]], making the land an everlasting [[Waste]].
+	- Jeremiah 25:13
+	  [I]([[LORD]]) will bring upon that [[Land]] all the [[Word]]s that [I]([[God]]) have uttered [[Against]] it, everything [[Written]] in this [[Book]], which [[Jeremiah]] [prophesied]([[Prophecy]]) against all the [[Nation]]s.
+	- Jeremiah 25:14
+	  For many [[Nation]]s and great [[King]]s shall make [[Slave]]s even of [them]([[Babylon]]), and [I]([[LORD]]) will recompense them according to their deeds and the [[Work]] of their [[Hand]]s."
 - Jeremiah 28
   collapsed:: true
 	- Jeremiah 28:29

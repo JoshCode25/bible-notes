@@ -1,8 +1,10 @@
 - 2 Chronicles 16
+  collapsed:: true
 	- 2 Chronicles 16:9
 	  id:: 6655c989-201b-4a5f-bbf4-b2a19296da54
 	  For the [[Eye]]s of the [[LORD]] run to and fro throughout the whole [[Earth]], to give [[Strong]] support to those whose [[Heart]] is a blameless' toward him. You have done [[Fool]]ishly in this, for from now on you will have [[War]]s.
 - 2 Chronicles 17
+  collapsed:: true
 	- 2 Chronicles 17:6
 	  id:: 6655c9b6-fe7f-41ec-b200-b023344e8d71
 	  [His]([[Jehoshaphat]]) [[Heart]] was [[Courage]]ous in the ways of the [[LORD]]. And the furthermore, he took the high places and the Asherim out of Judah.
@@ -27,10 +29,12 @@
 	  And all the [[Vessel]]s of the [[House]] of [[God]], great and [[Small]], and the [[Treasure]]s of the house of the [[LORD]], and the treasures of the [[King]] and of his [[Prince]]s, all these he brought to [[Babylon]].
 	- 2 Chronicles 36:19
 	  And they [[Burn]]ed the [[House]] of [[God]] and [broke]([[Break]]) down the [[Wall]] of [[Jerusalem]] and burned all its [[Palace]]s with [[Fire]] and [[Destroy]]ed all its [[Precious]] [[Vessel]]s.
+		- ((674efb40-5cd2-405b-8ef2-f998e9695d95))
 	- 2 Chronicles 36:20
 	  [He]([[King]]) [took]([[Take]]) into [[Exile]] in [[Babylon]] those who had [[Escape]]d from the [[Sword]], and they became [[Servant]]s to him and to his [[Son]]s until the [[Establish]]ment of the [[Kingdom]] of [[Persia]],
 	- 2 Chronicles 36:21
 	  to [[Fulfill]] the [[Word]] of the [[LORD]] by the [[Mouth]] of [[Jeremiah]], until the [[Land]] had [[Enjoy]]ed its [[Sabbath]]s. All the days that it lay [[Desolate]] it kept Sabbath, to fulfill [[Seven]]ty [[Year]]s.
+		- ((674eff3f-da6d-4910-af65-6d77f941303c))
 	- 2 Chronicles 36:22
 	  Now in the [[First]] [[Year]] of [[Cyrus]] [[King]] of [[Persia]], that the [[Word]] of the [[LORD]] by the [[Mouth]] of [[Jeremiah]] might be [[Fulfill]]ed, the LORD stirred up the [[Spirit]] of Cyrus king of Persia, so that he made a [proclamation]([[Proclaim]]) throughout all his [[Kingdom]] and also put it in [[Writing]]:
 	- 2 Chronicles 36:23
