@@ -363,6 +363,7 @@ Theme:: [[Christ]]’s [[Work]], [[Spiritual Warfare]]
 	- Ephesians 6:17
 	  and take the [[Helmet]] of [[Salvation]], and the [[Sword]] of the [Spirit]([[Holy Spirit]]), which is the [[Word]] of [[God]]
 	- Ephesians 6:18
+	  id:: 66a6f052-bb9d-4b94-a240-82c9799f360a
 	  [[Pray]]ing at all [[Time]]s in the [Spirit]([[Holy Spirit]]), with all [[Prayer]] and [[Supplication]]. To that end keep alert with all [perseverance]([[Persevere]]), making supplication for all the [[Saint]]s,
 	- Ephesians 6:19
 	  and also for [me]([[Paul]]), that [[Word]]s may be [given]([[Gift]]) to me in [[Open]]ing my [[Mouth]] [[Bold]]ly to proclaim the [[Mystery]] of the [[Gospel]],

@@ -18,6 +18,7 @@
 	- Philippians 1:8
 	  For God is my witness, how I yearn for you all with the affection of Christ Jesus.
 	- Philippians 1:9
+	  id:: 66981cdc-ca01-4452-98c2-f87538772f0b
 	  And it is my prayer that your love may [[Abound]] more and more, with knowledge and all discernment,
 	- Philippians 1:10
 	  id:: 66981cdc-1a5b-4696-bfa8-37b03447f871
