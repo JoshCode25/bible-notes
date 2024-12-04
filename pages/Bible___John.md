@@ -86,7 +86,7 @@
 	- John 12:8
 	  id:: 66756abf-f4c5-4a38-9df6-9c7eb11c9e91
 	  For the [[Poor]] you always have with you, but you do not always have [Me]([[Jesus]])."
-- John 14 #Annotate
+- John 14
   collapsed:: true
 	- John 14:1
 	  id:: 66d0677b-e3c0-46cf-9f2f-d0e80eb1c4fd
@@ -154,11 +154,11 @@
 	  You [[Hear]]d [Me]([[Christ]]) say to you, [I]([[Jesus]]) am going away, and I will [[Come]] to you. If you [[Love]]d me, you would have [[Rejoice]]d, because I am going to the [[Father]], for the Father is greater than I.
 	- John 14:29
 	  id:: 66d06aca-dd54-4460-b270-d24b8cafe5c7
-	  And now I have told you before it takes place, so that when it does take place you may believe.
+	  And now [I]([[Jesus]]) have told [you]([[Disciple]]) [[Before]] it takes place, so that when it does take place you may [[Believe]].
 	- John 14:30
-	  I will no longer talk much with you, for the ruler of this world is coming. He has no claim on me,
+	  [I]([[Jesus]]) will no longer [[Talk]] much with [you]([[Disciple]]), for the [[Ruler]] of this [[World]] is coming. [He]([[Satan]]) has no [[Claim]] on me,
 	- John 14:31
-	  but I do as the Father has commanded me, so that the world may know that I love the Father. Rise, let us go from here.
+	  but [I]([[Jesus]]) do as the [[Father]] has [[Command]]ed me, so that the [[World]] may [[Know]] that I [[Love]] the Father. Rise, let us go from here.
 - John 15 #Annotate
   collapsed:: true
 	- John 15:1
