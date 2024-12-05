@@ -137,6 +137,7 @@
 	  By [[Faith]] [[Abraham]], when he was [[Test]]ed, [offered]([[Sacrifice]]) up [[Isaac]], and he who had received the [[Promise]]s was in the act of offering up his only [[Son]],
 - Hebrews 12 #Annotate
   id:: 666b979b-def4-48ba-a529-725c26811fd5
+  collapsed:: true
 	- Hebrews 12:1
 	  id:: 66d8416e-1187-4bd5-86de-49224528442e
 	  Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us,
@@ -197,10 +198,35 @@
 	  I will not fear;
 	  what can man do to me?"
 		- ((66d8451e-b9d4-4db8-ad63-00d361e7e487))
+	- Hebrews 13:7
+	  [[Remember]] your [[Leader]]s, those who [spoke]([[Speak]]) to you the [[Word]] of [[God]]. [[Consider]] the outcome of their [[Way]] of [[Life]], and [[Imitate]] their [[Faith]].
+	- Hebrews 13:8
+	  [[Jesus]] [[Christ]] is the same yesterday and today, and [[Forever]].
+	- Hebrews 13:9
+	  Do not be [led]([[Lead]]) away by [[Diverse]] and [[Strange]] [[Teach]]ings, for it is [[Good]] for the [[Heart]] to be [[Strength]]ened by [[Grace]], not by [[Food]]s, which have not [[Benefit]]ed those [[Devote]]d to them.
+	- Hebrews 13:10
+	  We have an [[Altar]] from which those who [[Serve]] the [[Tent]] have no [[Right]] to [[Eat]].
+	- Hebrews 13:11
+	  For the [bodies]([[Body]]) of those [[Animal]]s whose [[Blood]] is brought into the [[Holy]] [[Place]]s by the [[High Priest]] as a [[Sacrifice]] for [[Sin]] are [[Burn]]ed [[Outside]] the [[Camp]].
+	- Hebrews 13:12
+	  So [[Jesus]] also [[Suffer]]ed [[Outside]] the [[Gate]] in order to [[Sanctif]]y the [[People]] through his own [[Blood]].
+	- Hebrews 13:13
+	  Therefore let us go to [Him]([[Jesus]]) [[Outside]] the [[Camp]] and [[Bear]] the [[Reproach]] he [[Endur]]ed.
 	- Hebrews 13:14
 	  id:: 66868e5a-9994-4c76-9946-f033932e4f4d
-	  For here we have no lasting [[City]], but we [[Seek]] the city that is to come.
+	  For here we have no lasting [[City]], but we [[Seek]] the city that is to [[Come]].
 		- ((668538fe-0d3d-427c-becc-3e145f46d0fb))
+	- Hebrews 13:15
+	  Through [Him]([[Jesus]]) then let us continually [[Offer]] up a [[Sacrifice]] of [[Praise]] to [[God]], that is, the [[Fruit]] of [[Lip]]s that [[Acknowledge]] his [[Name]].
+	- Hebrews 13:16
+	  Do not [[Neglect]] to do [[Good]] and to [[Share]] what you have, for such [[Sacrifice]]s are [pleasing]([[Please]]) to [[God]].
+	- Hebrews 13:17
+	  [[Obey]] your [[Leader]]s and [[Submit]] to them, for they are [[Keep]]ing [[Watch]] over your [[Soul]]s, as those who will have to [give]([[Gift]]) an [[Account]]. Let them do this with [[Joy]] and not with [[Groan]]ing, for that would be of no [[Advantage]] to you.
+	- Hebrews 13:18
+	  id:: 6751a08d-0e07-4975-ad6d-22c9c0254a0c
+	  [[Pray]] for us, for we are sure that we have a [[Clear]] [[Conscience]], [desiring]([[Desire]]) to act [[Honor]]ably in all things.
+	- Hebrews 13:19
+	  I urge you the more earnestly to do [this]([[Pray]]) in order that I may be [[Restore]]d to you the [[Soon]]er.
 	- Hebrews 13:20
 	  Now may the [[God]] of [[Peace]] who brought again from the [[Dead]] our [[LORD]] [[Jesus]], the great [[Shepherd]] of the [[Sheep]], by the [[Blood]] of the [[Etern]]al [[Covenant]],
 	- Hebrews 13:21

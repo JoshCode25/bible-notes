@@ -1,11 +1,27 @@
 - 1 Timothy 1
-  collapsed:: true
 	- 1 Timothy 1:2
 	  id:: 6720cd3b-ce83-4e0b-bbfa-64ef4ea986bb
 	  To [[Timothy]], [my]([[Paul]]) [[True]] [[Child]] in the [[Faith]]:
 	  [[Grace]], [[Mercy]], and [[Peace]] from [[God]] the [[Father]] and [[Christ]] [[Jesus]] our [[LORD]].
 - 1 Timothy 2
-  collapsed:: true
+	- 1 Timothy 2:1
+	  id:: 67519d70-437b-40cc-9e79-5d0786cb9c08
+	  [[First]] of all, then, [I]([[Paul]]) urge that [[Supplication]]s, [[Prayer]]s, [[Intercession]]s, and [[Thanksgiving]]s be [[Made]] for all [[People]],
+	- 1 Timothy 2:2
+	  for [[King]]s and all who are in high positions, that we may [[Lead]] a [[Peace]]ful and [[Quiet]] [[Life]], [[Godly]] and [dignified]([[Dignity]]) in every [[Way]].
+	- 1 Timothy 2:3
+	  This is [[Good]], and it is [pleasing]([[Please]]) in the [sight]([[See]]) of [[God]] our [[Savior]],
+	- 1 Timothy 2:4
+	  [who]([[God]]) [[Desire]]s all [[People]] to be [[Saved]] and to [[Come]] to the [[Knowledge]] of the [[Truth]].
+	- 1 Timothy 2:5
+	  For there is [[One]] [[God]], and there is one [[Mediator]] between God and [men]([[Mankind]]), the [[Man]] [[Christ]] [[Jesus]],
+	- 1 Timothy 2:6
+	  who [gave]([[Gift]]) [Himself]([[Christ]]) as a [[Ransom]] for all, which is the [[Testimony]] given at the proper [[Time]].
+	- 1 Timothy 2:7
+	  For this [I]([[Paul]]) was [[Appoint]]ed a [[Preacher]] and an [[Apostle]] (I am telling the [[Truth]], I am not [lying]([[Lie]])), a [[Teacher]] of the [[Gentile]]s in [[Faith]] and truth.
+	- 1 Timothy 2:8
+	  id:: 67519fc7-c9a5-420c-96b4-41e196f43c6c
+	  [I]([[Paul]]) [[Desire]] then that in every [[Place]] the [men]([[Man]]) should [[Pray]], lifting [[Holy]] [[Hand]]s without [[Anger]] or [[Quarrel]]ing;
 	- 1 Timothy 2:12
 	  id:: 6710f66d-5b8d-4c93-a9d3-a6e9d87214ef
 	  [I]([[Paul]]) do not [[Permit]] a [[Woman]] to [[Teach]] or to exercise [[Authority]] over a [[Man]]; rather, she is to remain [[Quiet]].

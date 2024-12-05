@@ -1,4 +1,5 @@
 - Philippians 1 #Annotate
+  collapsed:: true
 	- Philippians 1:1
 	  [[Paul]] and [[Timothy]], [[Servant]]s of [[Christ]] [[Jesus]],
 	  To all the [[Saint]]s in Christ Jesus who are at [[Philippi]], with the overseers and  [[Deacon]]s:
@@ -106,6 +107,15 @@
 	- Philippians 2:18
 	  Likewise you also should be glad and rejoice with me.
 - Philippians 4
+	- Philippians 4:4
+	  [[Rejoice]] in the [[LORD]] always; again [I]([[Paul]]) will say, rejoice.
+	- Philippians 4:5
+	  Let your reasonableness be [[Know]]n to everyone. The [[LORD]] is at [[Hand]];
+	- Philippians 4:6
+	  id:: 6750bd1d-17c9-4476-9acf-ed7398e7b42d
+	  do not be [[Anxious]] about anything, but in everything by [[Prayer]] and [[Supplication]] with [[Thanksgiving]] let your [[Request]]s be made [[Know]]n to [[God]].
+	- Philippians 4:7
+	  And the [[Peace]] of [[God]], which [[Surpasse]]s all [[Understand]]ing, will [[Guard]] your [[Heart]]s and your [[Mind]]s in [[Christ]] [[Jesus]].
 	- Philippians 4:8
 	  id:: 672a14ee-31bd-4065-be50-cf5b9078bfd9
 	  Finally, [[Brother]]s, whatever is [[True]], whatever is [[Honor]]able, whatever is [just]([[Justice]]), whatever is [[Pure]], whatever is lovely, whatever is commendable, if there is any excellence, if there is anything  [[Worthy]] of [[Praise]], [[Think]] about these things.

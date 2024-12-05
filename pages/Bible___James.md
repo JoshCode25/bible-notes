@@ -264,9 +264,9 @@ Theme:: [[Work]]ing [[Faith]] out
 	  Therefore, [[Confess]] your [[Sin]]s to one another and [[Pray]] for one another, that you may of be [[Heal]]ed. The [[Prayer]] of a [[Righteous]] person has great [[Power]] as it is [[Work]]ing.
 	- James 5:17
 	  id:: 669907fa-f7dd-4e39-8d27-159edb11f42d
-	  Elijah was a man with a nature like ours, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth.
+	  [[Elijah]] was a [[Man]] with a [[Nature]] like ours, and he [[Pray]]ed fervently that it might not [[Rain]], and for [[Three]] [[Year]]s and [[Six]] [[Month]]s it did not rain on the [[Earth]].
 	- James 5:18
-	  Then he prayed again, and heaven gave rain, and the earth bore its fruit.
+	  Then [he]([[Elijah]]) [[Pray]]ed again, and [[Heaven]] [gave]([[Gift]]) [[Rain]], and the [[Earth]] [bore]([[Bear]]) its [[Fruit]].
 	- James 5:19
 	  My brothers, if anyone among you wanders from the truth and someone brings him back,
 	- James 5:20
