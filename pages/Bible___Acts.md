@@ -14,9 +14,24 @@
 	  And the [Spirit]([[Holy Spirit]]) told me to go with them, making no distinction. These [[Six]] [[Brother]]s also accompanied me, and we [[Enter]]ed the [man]([[Cornelius]])'s [[House]].
 		- ((671b86bc-b6cf-42be-983c-355084b8a0f9))
 - Acts 16
+	- Acts 16:11
+	  So, setting [[Sail]] from [[Troas]], we made a direct [[Voyage]] to [[Samothrace]], and the following day to [[Neapolis]],
+	- Acts 17:12
+	  and from [there]([[Neapolis]]) to [[Philippi]], which is a [[Lead]]ing [[City]] of the [[District]] of [[Macedonia]] and a [[Roman]] [[Colony]]. We [[Remain]]ed in this city some days.
 	- Acts 16:13
 	  id:: 673743b4-6c41-4783-8d68-5547fa75f287
 	  And on the [[Sabbath]] [[Day]] we went outside the [[Gate]] to the [[River]]side, where we supposed there was a [[Place]] of [[Prayer]], and we [sat]([[Sit]]) down and [spoke]([[Speak]]) to the [women]([[Woman]]) who had [[Come]] together.
+	- Acts 16:14
+	  One who [[Hear]]d us was a [[Woman]] [[Name]]d [[Lydia]], from the [[City]] of [[Thyatira]], a [[Sell]]er of [[Purple]] goods, who was a [[Worship]]er of [[God]]. The [[LORD]] [[Open]]ed her [[Heart]] to [[Pay]] [[Attention]] to what was said by [[Paul]].
+	- Acts 16:15
+	  And after [she]([[Lydia]]) was [[Baptize]]d, and her [[Household]] as well, she urged us, saying, "If you have [[Judge]]d me to be [[Faithful]] to the [[LORD]], [[Come]] to my [[House]] and stay." And she prevailed upon us.
+	- Acts 16:16
+	  id:: 6752f4eb-fd59-492f-8b2e-bd28e208e553
+	  As we were going to the [[Place]] of [[Prayer]], we were met by a [[Slave]] [[Girl]] who had a [[Spirit]] of [[Divination]] and brought her owners much [gain]([[Profit]]) by [[Fortune-Tell]]ing.
+	- Acts 16:17
+	  [She]([[Slave]]) [[Follow]]ed [[Paul]] and us, [[Cry]]ing out, "These [men]([[Man]]) are [[Servant]]s of the Most High [[God]], who [[Proclaim]] to you the [[Way]] of [[Salvation]]."
+	- Acts 16:18
+	  And this [she]([[Slave]]) kept doing for many days. [[Paul]], having become greatly [[Annoy]]ed, turned and said to the [[Spirit]], "I [[Command]] you in the [[Name]] of [[Jesus]] [[Christ]] to [[Come]] out of her." And it came out that very hour.
 - Acts 25
   collapsed:: true
 	- Acts 25:13

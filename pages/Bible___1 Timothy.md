@@ -69,6 +69,24 @@
 	  [[Practice]] these things, immerse [yourself]([[Timothy]]) in them, so that all may [[See]] your [[Progress]] .
 	- 1 Timothy 4:16
 	  Keep a close [[Watch]] on [yourself]([[Timothy]]) and on the [[Teach]]ing. Persist in this, for by so doing you will [[Save]] both yourself and your [[Hear]]ers.
+- 1 Timothy 5
+	- 1 Timothy 5:1
+	  Do not [[Rebuke]] an [[Old]]er [[Man]] but [[Encourage]] him as you would a [[Father]], [[Young]]er men as [[Brother]]s,
+	- 1 Timothy 5:2
+	  [[Old]]er [women]([[Woman]]) as [[Mother]]s, [[Young]]er women as [[Sister]]s, in all [purity]([[Pure]]).
+	- 1 Timothy 5:3
+	  [[Honor]] [[Widow]]s who are [truly]([[True]]) widows.
+	- 1 Timothy 5:4
+	  But if a [[Widow]] has [[Children]] or [[Grandchild]]ren, let them first learn to [[Show]] [godliness]([[Godly]]) to their own [[Household]] and to [[Make]] some [[Return]] to their [[Parent]]s, for this is [pleasing]([[Please]]) in the [sight]([[See]]) of [[God]].
+	- 1 Timothy 5:5
+	  id:: 6752f200-1ef8-4c6b-ab57-955eecf0f349
+	  She who is [truly]([[True]]) a [[Widow]], left all [[Alone]], has set her [[Hope]] on [[God]] and continues in [[Supplication]]s and [[Prayer]]s [[Night]] and [[Day]],
+	- 1 Timothy 5:6
+	  but she who is self-indulgent is [[Dead]] even while she [[Live]]s.
+	- 1 Timothy 5:7
+	  [[Command]] these things as well, so that they may be without [[Reproach]].
+	- 1 Timothy 5:8
+	  But if anyone does not [[Provide]] for his [[Relative]]s, and especially for [[Member]]s of his [[Household]], he has [denied]([[Deny]]) the [[Faith]] and is [[Worse]] than an [[Unbeliever]].
 - 1 Timothy 6
 	- 1 Timothy 6:14
 	  to [[Keep]] the [[Command]]ment unstained and [[Free]] from [[Reproach]] until the [[Appear]]ing of our [[LORD]] [[Jesus]] [[Christ]],
