@@ -45,7 +45,8 @@
 	- 1 Timothy 4:4
 	  For everything [[Create]]d by [[God]] is [[Good]], and nothing is to be [[Reject]]ed if it is [[Receive]]d with [[Thanksgiving]],
 	- 1 Timothy 4:5
-	  for it is made [[Holy]] by the [[Word]] of [[God]] and [[Prayer]] .
+	  id:: 6696fb23-86ca-4217-bb7d-22cbedc010d6
+	  for [it]([[Create]]) is made [[Holy]] by the [[Word]] of [[God]] and [[Prayer]].
 	- 1 Timothy 4:6
 	  If [you]([[Timothy]]) put these things before the [[Brother]]s, you will be a [[Good]] [[Servant]] of [[Christ]] [[Jesus]] , being [trained]([[Training]]) in the [[Word]]s of the [[Faith]] and of the good [[Doctrine]] that you have [[Follow]]ed.
 	- 1 Timothy 4:7

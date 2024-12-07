@@ -558,6 +558,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-b080-499f-ad6e-44ffae0f23b6
 	  Likewise the [Spirit]([[Holy Spirit]]) [[Help]]s us in our [[Weakness]]. For we do not [[Know]] what to [[Pray]] for as we ought, but the Spirit himself [[Intercede]]s for us with [[Groan]]ings too [[Deep]] for [[Word]]s.
 	- Romans 8:27
+	  id:: 66b4b0db-cb93-4e97-8f69-d393949eb106
 	  And he who [[Search]]es [[Heart]]s [[Know]]s what is the [[Mind]] of the Spirit, because the [Spirit]([[Holy Spirit]]) [[Intercede]]s for the [[Saint]]s according to the [[Will]] of [[God]].
 	- Romans 8:28
 	  And we [[Know]] that for those who [[Love]] [[God]] all things [[Work]] together for [[Good]], for those who are [[Call]]ed according to his [[Purpose]].
@@ -574,6 +575,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  id:: 66b4b0db-6398-4696-a294-61e5943f0e7b
 	  Who shall bring any charge against [[God]]'s [[Elect]]? It is God who [[Justif]]ies.
 	- Romans 8:34
+	  id:: 66b4b0db-a4bb-4564-87ca-8b9b6546ab7d
 	  Who is to [[Condemn]]? [[Christ]] [[Jesus]] is the one who [[Die]]d—more than that, who was [[Raise]]d—who is at the [[Right]] [[Hand]] of [[God]], who indeed is [interceding]([[Intercede]]) for us.
 	- Romans 8:35
 	  Who shall [[Separate]] us from the [[Love]] of [[Christ]]? Shall [[Tribulation]], or [[Distress]], or [[Persecut]]ion, or [[Famine]], or [[Naked]]ness, or [[Danger]], or [[Sword]]?
@@ -746,6 +748,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 11:1
 	  I ask, then, has [[God]] [[Reject]]ed his [[People]] ? By no means! For I [myself]([[Paul]]) am an [[Israel]]ite, a [[Descend]]ant of [[Abraham]], a [[Member]] of the [[Tribe]] of [[Benjamin]].
 	- Romans 11:2
+	  id:: 66b75144-97f6-43a4-b4c4-f76fd46fcf02
 	  [[God]] has not [[Reject]]ed his [[People]] whom he [foreknew]([[Foreknow]]). Do you not [[Know]] what the [[Scripture]] says of [[Elijah]], how he [[Appeal]]s to God [[Against]] [[Israel]]?
 	- Romans 11:3
 	  "[[LORD]], [they]([[Israel]]) have [[Kill]]ed [Your]([[God]]) [[Prophet]]s, they have [demolished]([[Destroy]]) your [[Altar]]s, and [I]([[Elijah]]) [[Alone]] am left, and they [[Seek]] my [[Life]]."

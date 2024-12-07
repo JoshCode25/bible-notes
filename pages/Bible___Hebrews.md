@@ -72,6 +72,16 @@
 	- Hebrews 5:14
 	  id:: 667aa9cc-38df-47d9-b110-bfb4c988946d
 	  But solid [[Food]] is for the [[Mature]], for those who have their [[Power]]s of [[Discern]]ment [Trained]([[Training]]) by constant [[Practice]] to distinguish [[Good]] from [[Evil]].
+- Hebrews 7
+	- Hebrews 7:22
+	  [This]([[Oath]]) makes [[Jesus]] the [guarantor]([[Guarantee]]) of a better [[Covenant]].
+	- Hebrews 7:23
+	  The [[Former]] [[Priest]]s were many in number, because they were [[Prevent]]ed by [[Death]] from continuing in [[Office]],
+	- Hebrews 7:24
+	  but [He]([[Jesus]]) holds his [[Priest]]hood permanently, because he continues [[Forever]].
+	- Hebrews 7:25
+	  id:: 6754443b-0d29-4236-9fb5-ddaffd12bd88
+	  Consequently, [He]([[Jesus]]) is able to [[Save]] to the uttermost those who [[Draw]] [[Near]] to [[God]] through him, since he always [[Live]]s to [[Make]] [[Intercession]] for them.
 - Hebrews 9
   collapsed:: true
 	- Hebrews 9:27

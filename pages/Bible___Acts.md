@@ -14,6 +14,7 @@
 	  And the [Spirit]([[Holy Spirit]]) told me to go with them, making no distinction. These [[Six]] [[Brother]]s also accompanied me, and we [[Enter]]ed the [man]([[Cornelius]])'s [[House]].
 		- ((671b86bc-b6cf-42be-983c-355084b8a0f9))
 - Acts 16
+  collapsed:: true
 	- Acts 16:11
 	  So, setting [[Sail]] from [[Troas]], we made a direct [[Voyage]] to [[Samothrace]], and the following day to [[Neapolis]],
 	- Acts 17:12
@@ -33,7 +34,6 @@
 	- Acts 16:18
 	  And this [she]([[Slave]]) kept doing for many days. [[Paul]], having become greatly [[Annoy]]ed, turned and said to the [[Spirit]], "I [[Command]] you in the [[Name]] of [[Jesus]] [[Christ]] to [[Come]] out of her." And it came out that very hour.
 - Acts 25
-  collapsed:: true
 	- Acts 25:13
 	  Now when some [[Day]]s had passed, [[Agrippa]] the [[King]] and [[Bernice]] arrived at [[Caesarea]] and greeted [[Festus]].
 	- Acts 25:14
@@ -41,6 +41,17 @@
 	- Acts 25:15
 	  id:: 672cb8ad-9253-46f2-b0d8-917411890e19
 	  and when [I]([[Festus]]) was at [[Jerusalem]], the [[Chief]] [[Priest]]s and the elders of the [[Jew]]s laid out their case against [him]([[Paul]]), [[Ask]]ing for a sentence of [[Condemn]]ation against him.
+	- Acts 25:23
+	  So on the next [[Day]] [[Agrippa]] and [[Bernice]] came with great pomp, and they entered the [[Audience]] [[Hall]] with the [[Military]] tribunes and the prominent [men]([[Man]]) of the [[City]]. Then, at the [[Command]] of [[Festus]], [[Paul]] was brought in.
+	- Acts 25:24
+	  id:: 675445cf-0673-49d6-979d-6fa921d19f25
+	  And [[Festus]] said, "[[King]] [[Agrippa]] and all who are [[Present]] with us, you see [this]([[Paul]]) man about whom the whole [[Jew]]ish [[People]] [[Petition]]ed me, both in [[Jerusalem]] and [here]([[Caesarea]]), [[Shout]]ing that he ought not to [[Live]] any longer.
+	- Acts 25:25
+	  But [I]([[Festus]]) [found]([[Find]]) that [he]([[Paul]]) had done nothing [deserving]([[Deserve]]) [[Death]]. And as he himself [[Appeal]]ed to the [[Emperor]], I decided to go ahead and [[Send]] him.
+	- Acts 25:26
+	  But [I]([[Festus]]) have nothing definite to [[Write]] to my [[lord]] about [him]([[Paul]]). Therefore I have brought him before you all, and especially before you, [[King]] [[Agrippa]], so that, after we have [[Examine]]d him, I may have something to write.
+	- Acts 25:27
+	  For it seems to [me]([[Festus]]) unreasonable, in [[Send]]ing a [[Prisoner]], not to indicate the [[Charge]]s [[Against]] [him]([[Paul]])."
 - Acts 26
   collapsed:: true
 	- Acts 26:8
