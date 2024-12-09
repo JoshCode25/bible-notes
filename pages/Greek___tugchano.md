@@ -12,8 +12,8 @@ translations:: obtain, be, achieve
 	- not tr (1x)
 	- misc. (2x) = X refresh ... self, + special.
 - Tugchano, "to meet with, light upon," also signifies "to obtain, attain to, reach, get" (with regard to things), translated "to obtain"
-	- (1) in Acts 26:22, of "the help that is from God".
-	- (2) 2 Ti 2:10, of "the salvation which is in Christ Jesus with eternal glory";
-	- (3) Heb 8:6, of the ministry obtained by Christ;
+	- (1) in ((6756e625-f71e-43e6-b11d-7e3cc1e6b9e9)), of "the help that comes from God".
+	- (2) ((6697ac81-7fb8-4656-bfc8-a67f3a5d51b4)), of "the salvation that is in Christ Jesus with eternal glory";
+	- (3) ((6756e9b6-41dd-4484-be5c-497403d059d4)), of the ministry obtained by Christ;
 	- (4) Heb 11:35, of "a better resurrection."
 	- TODO Finish #Do-List

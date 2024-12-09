@@ -4,6 +4,7 @@ Timeline:: 64
 Theme:: [[Persevere]], [[Suffer]]
 
 - 2 Timothy 1 #Annotate
+  collapsed:: true
 	- 2 Timothy 1:1
 	  Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,
 	- 2 Timothy 1:2
@@ -62,6 +63,7 @@ Theme:: [[Persevere]], [[Suffer]]
 	- 2 Timothy 2:9
 	  for which I am suffering, bound with chains as a criminal. But the word of God is not bound!
 	- 2 Timothy 2:10
+	  id:: 6697ac81-7fb8-4656-bfc8-a67f3a5d51b4
 	  Therefore I endure everything for the sake of the [[Elect]], that they also may obtain the salvation that is in Christ Jesus with eternal glory.
 	- 2 Timothy 2:11
 	  The saying is trustworthy, for:

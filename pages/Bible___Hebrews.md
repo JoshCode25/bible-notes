@@ -73,6 +73,7 @@
 	  id:: 667aa9cc-38df-47d9-b110-bfb4c988946d
 	  But solid [[Food]] is for the [[Mature]], for those who have their [[Power]]s of [[Discern]]ment [Trained]([[Training]]) by constant [[Practice]] to distinguish [[Good]] from [[Evil]].
 - Hebrews 7
+  collapsed:: true
 	- Hebrews 7:22
 	  [This]([[Oath]]) makes [[Jesus]] the [guarantor]([[Guarantee]]) of a better [[Covenant]].
 	- Hebrews 7:23
@@ -82,6 +83,23 @@
 	- Hebrews 7:25
 	  id:: 6754443b-0d29-4236-9fb5-ddaffd12bd88
 	  Consequently, [He]([[Jesus]]) is able to [[Save]] to the uttermost those who [[Draw]] [[Near]] to [[God]] through him, since he always [[Live]]s to [[Make]] [[Intercession]] for them.
+- Hebrews 8
+  collapsed:: true
+	- Hebrews 8:1
+	  Now the point in what we are saying is this: we have such a [[High Priest]], [one]([[Jesus]]) who is seated at the [[Right]] [[Hand]] of the [[Throne]] of the [[Majest]]y in [[Heaven]],
+	- Hebrews 8:2
+	  a [[Minister]] in the [[Holy]] [[Place]]s, in the [[True]] [[Tent]] that the [[LORD]] set up, not [[Man]].
+	- Hebrews 8:3
+	  For every [[High Priest]] is [[Appoint]]ed to [[Offer]] [[Gift]]s and [[Sacrifice]]s; thus it is necessary for this [[Priest]] also to have something to offer.
+	- Hebrews 8:4
+	  Now if he were on [[Earth]], he would not be a [[Priest]] at all, since there are priests who offer [[Gift]]s according to the [[Law]].
+	- Hebrews 8:5
+	  They [[Serve]] a [[Copy]] and [[Shadow]] of the [[Heaven]]ly things. For when [[Moses]] was about to erect the [[Tent]], he was [[Instruct]]ed by [[God]], saying, "[[See]] that you [[make]] everything according to the [[Pattern]] that was [[Show]]n you on the [[Mountain]]."
+	- Hebrews 8:6
+	  id:: 6756e9b6-41dd-4484-be5c-497403d059d4
+	  But as it is, [[Christ]] has [[Obtain]]ed a [[Ministry]] that is as much more excellent than the [[Old]] as the [[Covenant]] he [[Mediate]]s is [[Better]], since it is enacted on better [[Promise]]s.
+	- Hebrews 8:7
+	  For if that [[First]] [[Covenant]] had been [[Fault]]less, there would have been no occasion to [[Look]] for a [[Second]].
 - Hebrews 9
   collapsed:: true
 	- Hebrews 9:27
@@ -126,7 +144,6 @@
 	  But we are not of those who shrink back and are [[Destroy]]ed, but of those who have [[Faith]] and [[Preserve]] their [[Soul]]s.
 - Hebrews 11
   id:: 666b1873-88ee-409b-bcca-f3d3b8abf5fe
-  collapsed:: true
 	- Hebrews 11:1
 	  id:: 666b1878-a5f5-4d0d-ab00-a6bf56d999b7
 	  Now [[Faith]] is the [[Assurance]] of things [[Hope]]d for, the conviction of things not seen.

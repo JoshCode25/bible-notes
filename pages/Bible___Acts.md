@@ -34,6 +34,7 @@
 	- Acts 16:18
 	  And this [she]([[Slave]]) kept doing for many days. [[Paul]], having become greatly [[Annoy]]ed, turned and said to the [[Spirit]], "I [[Command]] you in the [[Name]] of [[Jesus]] [[Christ]] to [[Come]] out of her." And it came out that very hour.
 - Acts 25
+  collapsed:: true
 	- Acts 25:13
 	  Now when some [[Day]]s had passed, [[Agrippa]] the [[King]] and [[Bernice]] arrived at [[Caesarea]] and greeted [[Festus]].
 	- Acts 25:14
@@ -53,10 +54,40 @@
 	- Acts 25:27
 	  For it seems to [me]([[Festus]]) unreasonable, in [[Send]]ing a [[Prisoner]], not to indicate the [[Charge]]s [[Against]] [him]([[Paul]])."
 - Acts 26
-  collapsed:: true
 	- Acts 26:8
 	  id:: 671f8416-f279-4b0b-9146-315ba75a38bc
 	  Why is it [[Thought]] incredible by any of you that [[God]] [[Raise]]s the [[Dead]]?
+	- Acts 26:15
+	  And [I]([[Paul]]) said, 'Who are you, [[LORD]]?' And the Lord said, 'I am [[Jesus]] whom you are [[Persecut]]ing.
+	- Acts 26:16
+	  But [[Rise]] and [[Stand]] upon [your]([[Paul]]) [feet]([[Foot]]), for [I]([[Jesus]]) have [[Appear]]ed to you for this [[Purpose]], to [[Appoint]] you as a [[Servant]] and [[Witness]] to the things in which you have [[See]]n me and to those in which I will appear to you,
+	- Acts 26:17
+	  [[Deliver]]ing [you]([[Paul]]) from your [[People]] and from the [[Gentile]]s - to whom [I]([[Jesus]]) am [[Send]]ing you
+	- Acts 26:18
+	  to [[Open]] their [[Eye]]s, so that [they]([[Gentile]]) may turn from [[Dark]]ness to [[Light]] and from the [[Power]] of [[Satan]] to [[God]], that they may [[Receive]] [[Forgive]]ness of [[Sin]]s and a [[Place]] among those who are [[Sanctif]]ied by [[Faith]] in [Me]([[Jesus]]).’
+	- Acts 26:19
+	  "Therefore, O [[King]] [[Agrippa]], [I]([[Paul]]) was not [disobedient]([[Disobedience]]) to the [[Heaven]]ly [[Vision]],
+	- Acts 26:20
+	  but [[Declare]]d [[First]] to those in [[Damascus]], then in [[Jerusalem]] and throughout all the region of [[Judea]], and also to the [[Gentile]]s, that they should [[Repent]] and turn to [[God]], performing deeds in [[Keep]]ing with their repentance.
+	- Acts 26:21
+	  For this [[Reason]] the [[Jew]]s [[Seize]]d [me]([[Paul]]) in the [[Temple]] and tried to [[Kill]] me.
+	- Acts 26:22
+	  id:: 6756e625-f71e-43e6-b11d-7e3cc1e6b9e9
+	  To this [[Day]] [I]([[Paul]]) have had the [[Help]] that [[Come]]s from [[God]], and so I [[Stand]] here [[Testify]]ing both to small and great, saying nothing but what the [[Prophet]]s and [[Moses]] said would come to pass:
+	- Acts 26:23
+	  that the [[Christ]] must [[Suffer]] and that, by being the [[First]] to [[Rise]] from the [[Dead]], he would [[Proclaim]] [[Light]] both to our [[People]] and to the [[Gentile]]s."
+	- Acts 26:24
+	  And as [he]([[Paul]]) was saying these things in his [[Defense]], [[Festus]] said with a [[Loud]] [[Voice]], "Paul, you are out of your [[Mind]]; your great [[Learn]]ing is driving you out of your mind."
+	- Acts 26:25
+	  But [[Paul]] said, "I am not out of my [[Mind]], most excellent [[Festus]], but I am [[Speak]]ing [[True]] and [[Rational]] [[Word]]s.
+	- Acts 26:26
+	  For the [[King]] [[Know]]s about these things, and to [him]([[Agrippa]]) [I]([[Paul]]) [[Speak]] [[Bold]]ly. For I am [[Persuade]]d that none of these things has [[Escape]]d his notice, for this has not been done in a corner.
+	- Acts 26:27
+	  [[King]] [[Agrippa]], do you [[Believe]] the [[Prophet]]s? [I]([[Paul]]) [[Know]] that you believe."
+	- Acts 26:28
+	  And [[Agrippa]] said to [[Paul]], "In a [[Short]] [[Time]] would you [[Persuade]] me to be a [[Christian]]?"
+	- Acts 26:29
+	  And [[Paul]] said, "Whether [[Short]] or [[Long]], I would to [[God]] that not only [you]([[Agrippa]]) but also all who [[Hear]] me this [[Day]] might become such as I am - except for these [[Chain]]s."
 - Acts 28
   collapsed:: true
 	- Acts 28:3
