@@ -159,9 +159,29 @@
 	  id:: 66868eb7-3d05-448d-8cc0-2eba9795dab7
 	  For [He]([[Abraham]]) was looking forward to the [[City]] that has [[Foundation]]s, whose [[Design]]er and [[Build]]er is [[God]].
 		- ((668538fe-0d3d-427c-becc-3e145f46d0fb))
+	- Hebrews 11:11
+	  id:: 67583d49-9e76-4037-ae6d-b4ca7d293db2
+	  By [[Faith]] [[Sarah]] herself [[Receive]]d [[Power]] to [[Conceive]], even when she was past the [[Age]], since she [[Consider]]ed [Him]([[God]]) [[Faithful]] who had [[Promise]]d.
+	- Hebrews 11:12
+	  Therefore from [[One]] [[Man]], and [him]([[Abraham]]) as [[Good]] as [[Dead]], were [born]([[Birth]]) [[Descendant]]s as many as the [[Star]]s of [[Heaven]] and as many as the innumerable [[Grain]]s of [[Sand]] by the seashore.
+	- Hebrews 11:13
+	  These all [[Die]]d in [[Faith]], not having [[Receive]]d the things [[Promise]]d, but having [[See]]n them and [[Greet]]ed them from afar, and having [[Acknowledge]]d that they were [[Stranger]]s and [[Exile]]s on the [[Earth]].
 	- Hebrews 11:17
 	  id:: 668298fb-4dd2-45f3-baf7-dec9a5976d14
 	  By [[Faith]] [[Abraham]], when he was [[Test]]ed, [offered]([[Sacrifice]]) up [[Isaac]], and he who had received the [[Promise]]s was in the act of offering up his only [[Son]],
+	- Hebrews 11:35
+	  id:: 675837d4-3e23-4d2b-8a4e-79f93c8a30ef
+	  [Women]([[Woman]]) [[Receive]]d back their [[Dead]] by [[Resurrect]]ion. Some were [[Torture]]d, [refusing]([[Refuse]]) to [[Accept]] [[Release]], so that they might [[Rise]] again to a [[Better]] [[Life]].
+	- Hebrews 11:36
+	  Others [[Suffer]]ed [[Mock]]ing and [[Flog]]ging, and even [[Chain]]s and [imprisonment]([[Prison]]).
+	- Hebrews 11:37
+	  They were [[Stone]]d, they were [sawn]([[Cut]]) in [[Two]], they were [[Kill]]ed with the [[Sword]]. They went about in [[Skin]]s of [[Sheep]] and [[Goat]]s, destitute, [[Afflict]]ed, mistreated—
+	- Hebrews 11:38
+	  of whom the [[World]] was not [[Worthy]] — [[Wander]]ing about in [[Desert]]s and [[Mountain]]s, and in dens and [[Cave]]s of the [[Earth]].
+	- Hebrews 11:39
+	  And all these, though commended through their [[Faith]], did not [[Receive]] what was [[Promise]]d,
+	- Hebrews 11:40
+	  since [[God]] had [[Provide]]d something [[Better]] for us, that apart from us they should not be made [[Perfect]].
 - Hebrews 12 #Annotate
   id:: 666b979b-def4-48ba-a529-725c26811fd5
   collapsed:: true
