@@ -1,6 +1,5 @@
 - Luke 1
   id:: 66bb4f21-eee2-42b6-9c3d-608a1726c719
-  collapsed:: true
 	- Luke 1:1
 	  Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us,
 	- Luke 1:2

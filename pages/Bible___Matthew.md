@@ -1,9 +1,29 @@
+- Matthew 2
+  collapsed:: true
+	- Matthew 2:1
+	  Now after [[Jesus]] was [born]([[Birth]]) in [[Bethlehem]] of [[Judea]] in the [[Day]]s of [[Herod]] the [[King]], behold, [[Wise]] men from the [[East]] [came]([[Come]]) to Jerusalem,
+	- Matthew 2:2
+	  id:: 67598af0-f5c4-45eb-ac91-f15711687eae
+	  saying, "Where is [He]([[Jesus]]) who has been [born]([[Birth]]) [[King]] of the [[Jew]]s? For we [saw]([[See]]) his [[Star]] when it [rose]([[Rise]]) and have [[Come]] to [[Worship]] [Him]([[Christ]])."
+	- Matthew 2:3
+	  When [[Herod]] the [[King]] [[Hear]]d this, he was [[Trouble]]d, and all [[Jerusalem]] with him;
+	- Matthew 2:4
+	  and assembling all the [[Chief]] [[Priest]]s and [[Scribe]]s of the [[People]], [he]([[Herod]]) [[Inquire]]d of them where the [[Christ]] was to be [born]([[Christ]]).
+	- Matthew 2:6
+	  [They]([[Priest]]) told [him]([[Herod]]), "In [[Bethlehem]] of [[Judea]], for so it is [[written]] by [the]([[Micah]]) [[Prophet]]:
+	  "’And you, O Bethlehem, in the [[Land]] of Judah,
+	  are by no means least among the [[Ruler]]s of Judah;
+	  for from you shall [[Come]] a ruler
+	  who will [[Shepherd]] [My]([[God]]) [[People]] [[Israel]].'"
+		- ((67598dad-ac0f-4451-ab9e-230afa1a5c4c))
 - Matthew 5
+  collapsed:: true
 	- Matthew 5:22
 	  id:: 673b3d26-49ac-4030-9035-872fa0d58e1d
 	  But [I]([[Jesus]]) say to you that everyone who is [angry]([[Anger]]) with his [[Brother]] will be liable to [[Judgment]]; whoever [[Insult]]s his brother will be liable to the [[Council]]; and whoever says, ‘You [[Fool]]!' will be liable to the [[Hell]] of [[Fire]].
 		- ((673b3c75-795a-4852-ac82-6b2440210e67))
 - Matthew 6
+  collapsed:: true
 	- Matthew 6:6
 	  id:: 666ae020-4eff-4382-ab6a-d00b9ab66a43
 	  But when you [[Pray]], go into your [[Room]] and shut the [[Door]] and pray to your [Father]([[God]]) who is in [[Secret]]. And your [[Father]] who [[See]]s in secret will [[Reward]] you.
@@ -41,6 +61,13 @@
 	  Every [[Tree]] that does not [[Bear]] [[Good]] [[Fruit]] is cut down and thrown into the [[Fire]].
 	- Matthew 7:20
 	  Thus you will recognize them by their [[Fruit]]s.
+	- Matthew 7:21
+	  "Not everyone who says to [Me]([[Jesus]]), ‘[[Lord]], Lord,’ will [[Enter]] the [[Kingdom]] of [[Heaven]], but the one who does the [[Will]] of my [[Father]] who is in heaven.
+	- Matthew 7:22
+	  On that [[Day]] many will say to [Me]([[Jesus]]), '[[Lord]], Lord, did we not [[Prophecy]] ] in your [[Name]], and cast out [[Demon]]s in your name, and do many mighty [[Work]]s in your name?' #Eschatology
+	- Matthew 7:23
+	  id:: 67599069-97f3-461c-9977-a621641f4631
+	  And then will [I]([[Jesus]]) [[Declare]] to them, ‘I never [knew]([[Know]]) you; [[Depart]] from me, you [[Work]]ers of [[Lawless]]ness.'
 - Matthew 8
   collapsed:: true
 	- Matthew 8:5
@@ -114,6 +141,7 @@
 	  For John came to [you]([[Pharisee]]) in the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes believed him. And even when you saw it, you did not afterward change your minds and believe him.
 - Matthew 24 #Eschatology
 - Matthew 25
+  id:: 67236e54-d890-4c16-bb6b-07ac861c3ceb
 	- Matthew 25:11
 	  Afterward the other [[Virgin]]s [came]([[Come]]) also, saying, '[[LORD]], lord, [[Open]] to us.'
 	- Matthew 25:12

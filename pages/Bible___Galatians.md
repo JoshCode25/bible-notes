@@ -2,6 +2,12 @@
 	- Galatians 3:3
 	  id:: 665f0442-7a51-4ae8-a12b-aa37030708d1
 	  Are you so [[Fool]]ish? Having begun by the [Spirit]([[Holy Spirit]]) , are you now being [[Perfect]]ed by the [[Flesh]]?
+- Galatians 4
+	- Galatians 4:8
+	  Formerly, when you did not [[Know]] [[God]], you were [enslaved]([[Slave]]) to those that by [[Nature]] are not gods.
+	- Galatians 4:9
+	  But now that you have [[Come]] to [[Know]] [[God]], or rather to be known by God, how can you turn back again to the [[Weak]] and [[Worthless]] [[Elementary]] [[Principle]]s of the [[World]], whose [[Slave]]s you want to be once more?
+		- ((67599069-97f3-461c-9977-a621641f4631))
 - Galatians 5
 	- Galatians 5:13
 	  For you were [[Call]]ed to [[Freedom]], [[Brother]]s. Only do not use your freedom as an opportunity for the [[Flesh]], but through [[Love]] [[Serve]] one another.
