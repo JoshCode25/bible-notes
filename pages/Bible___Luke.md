@@ -1,5 +1,6 @@
 - Luke 1
   id:: 66bb4f21-eee2-42b6-9c3d-608a1726c719
+  collapsed:: true
 	- Luke 1:1
 	  Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us,
 	- Luke 1:2
@@ -8,6 +9,28 @@
 	  it seemed [[Good]] to [me]([[Luke]]) also, having [[Follow]]ed all things closely for some [[Time]] past, to [[Write]] an orderly [[Account]] for you, most excellent [[Theophilus]],
 	- Luke 1:4
 	  that [you]([[Theophilus]]) may have certainty concerning the things you have been [taught]([[Teach]]).
+	- Luke 1:57
+	  id:: 675adb09-4602-4467-a7f5-c2ce8d6887a8
+	  Now the [[Time]] [came]([[Come]]) for [[Elizabeth]] to give [[Birth]], and she bore a [[Son]].
+	- Luke 1:58
+	  And [her]([[Elizabeth]]) [[Neighbor]]s and [[Relative]]s [[Hear]]d that the [[LORD]] had [[Show]]n great [[Mercy]] to her, and they [[Rejoice]]d with her.
+- Luke 2
+	- Luke 2:8
+	  And in the [same]([[Bethlehem]]) [[Region]] there were [[Shepherd]]s out in the [[Field]], keeping [[Watch]] over their [[Flock]] by [[Night]].
+	- Luke 2:9
+	  And an [[Angel]] of the [[LORD]] [[Appear]]ed to [them]([[Shepherd]]), and the [[Glory]] of the Lord [shone]([[Shine]]) around them, and they were [[Fill]]ed with great [[Fear]].
+	- Luke 2:10
+	  And the [[Angel]] said to [them]([[Shepherd]]), "[[Fear]] not, for behold, I bring you [[Good]] [[New]]s of great [[Joy]] that will be for all the [[People]].
+	- Luke 2:11
+	  id:: 675adc25-0164-461e-b3d5-b629a61134ff
+	  For unto [you]([[Shepherd]]) is [born]([[Birth]]) this [[Day]] in the [[City]] of [[David]] a [[Savior]], who is [[Christ]] the [[LORD]],
+	- Luke 2:12
+	  And this will be a [[Sign]] for [you]([[Shepherd]]): you will [[Find]] a [[Baby]] [[Wrap]]ped in swaddling [cloths]([[Clothes]]) and lying in a [[Manger]]."
+	- Luke 2:13
+	  And suddenly there was with the [[Angel]] a [[Multitude]] of the [[Heaven]]ly [[Host]] [praising]([[Praise]]) [[God]] and saying,
+	- Luke 2:14
+	  "[[Glory]] to [[God]] in the highest,
+	  and on [[Earth]] [[Peace]] among those with whom he is [[Please]]d!"
 - Luke 3
   collapsed:: true
 	- Luke 3:23

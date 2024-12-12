@@ -53,6 +53,21 @@ Tag:: [[Eschatology]]
 	- Revelation 7:14
 	  id:: 667ab49d-7911-4b6b-af0e-a937ea73e62c
 	  [I]([[John]]) said to [Him]([[Elder]]), "Sir, you know." And he said to me, "These are the ones coming out of the great [[Tribulation]]. They have [[Wash]]ed their [[Robe]]s and made them [[White]] in the [[Blood]] of the [[Lamb]].
+- Revelation 12
+	- Revelation 12:1
+	  And a great [[Sign]] [[Appear]]ed in [[Heaven]]: a [[Woman]] [clothed]([[Clothes]]) with the [[Sun]], with the [[Moon]] under her [feet]([[Foot]]), and on her [[Head]] a [[Crown]] of [[Twelve]] [[Star]]s.
+	- Revelation 12:2
+	  id:: 675ad913-74d5-4431-8993-d825b22c72f3
+	  [She]([[Woman]]) was [[Pregnant]] and was [[Cry]]ing out in [[Birth]] [[Pain]]s and the agony of giving birth.
+	- Revelation 12:3
+	  And another [[Sign]] [[Appear]]ed in [[Heaven]]: behold, a great [[Red]] [[Dragon]], with [[Seven]] [[Head]]s and [[Ten]] [[Horn]]s, and on his heads seven [[Diadem]]s.
+	- Revelation 12:4
+	  id:: 675ad900-cd5a-4047-b042-0b555b7dc0b2
+	  His [[Tail]] swept down a [third]([[Three]]) of the [[Star]]s of [[Heaven]] and cast them to the [[Earth]]. And the [[Dragon]] [stood]([[Stand]]) before the [[Woman]] who was about to give [[Birth]], so that when she bore her [[Child]] he might [[Devour]] it.
+	- Revelation 12:5
+	  [She]([[Woman]]) gave [[Birth]] to a [[Male]] [[Child]], one who is to [[Rule]] all the [[Nation]]s with a [[Rod]] of [[Iron]], but her child was caught up to [[God]] and to his [[Throne]],
+	- Revelation 12:6
+	  and the [[Woman]] [fled]([[Flee]]) into the [[Wilderness]], where she has a [[Place]] [[Prepare]]d by [[God]], in which she is to be [[Nourish]]ed for [[1,260]] [[Day]]s
 - Revelation 16
 	- Revelation 16:3
 	  id:: 668bd51f-2f01-474c-a031-84f8346eca62
