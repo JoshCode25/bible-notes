@@ -200,6 +200,11 @@
 	- Genesis 5:5
 	  id:: 67093894-aa93-4943-8121-659feb4b6de5
 	  Thus all the [[Day]]s that [[Adam]] [[Live]]d were 930 [[Year]]s, and he [[Die]]d.
+- Genesis 8
+  collapsed:: true
+	- Genesis 8:12
+	  id:: 67617722-cfcf-453d-9638-12b8fe990220
+	  Then [he]([[Noah]]) [[Wait]]ed another [[Seven]] [[Day]]s and [[Sent]] forth the [[Dove]], and she did not [[Return]] to him anymore.
 - Genesis 13
   collapsed:: true
 	- Genesis 13:13
@@ -268,6 +273,7 @@
 	  the [[One]] shall be [[Strong]]er than the other,
 	  the [[Old]]er shall [[Serve]] the [[Young]]er.”
 - Genesis 32
+  collapsed:: true
 	- Genesis 32:1
 	  id:: 6745bf50-9578-4297-874a-0fad69b030d2
 	  [[Jacob]] went on his [[Way]], and the [[Angel]]s of [[God]] [met]([[Meet]]) him.
@@ -282,6 +288,10 @@
 	- Genesis 37:28
 	  id:: 66756995-4aaa-4fcb-a7c1-d71b3db694cc
 	  Then [[Midian]]ite traders passed by. And [they]([[Brother]]) drew [[Joseph]] up and lifted him out of the pit, and [Sold]([[Sell]]) him to the [[Ishmael]]ites for twenty [[Shekel]]s of [[Silver]]. They took Joseph to [[Egypt]].
+- Genesis 38
+	- Genesis 38:26
+	  id:: 676177d2-280c-4a97-9a3a-59e6b5a736de
+	  Then [[Judah]] identified them and said, "[She]([[Tamar]]) is more [[Righteous]] than I, since I did not [give]([[Gift]]) her to my [[Son]] [[Shelah]]." And he did not [[Know]] her again.
 - Genesis 41
   collapsed:: true
 	- Genesis 41:56
