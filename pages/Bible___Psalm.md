@@ -324,6 +324,11 @@
 	  id:: 66b7586d-d5b2-4e05-b812-bbef68ae616e
 	  Let their [[Eye]]s be [[Dark]]ened, so that they cannot [[See]],
 	  and make their [[Loin]]s [[Trembl]]e continually.
+- Psalm 71
+	- Psalm 71:14
+	  id:: 6762c3dd-39b3-43c7-b2fe-63eeead728da
+	  But I will [[Hope]] continually
+	  and will [[Praise]] [You]([[God]]) yet more and more.
 - Psalm 94
   collapsed:: true
 	- Psalm 94:11

@@ -66,7 +66,6 @@
 	  a [[Precious]] [[Cornerstone]], of a sure foundation:
 	  ‘Whoever [[Believe]]s will not be in haste.’
 - Isaiah 29
-  collapsed:: true
 	- Isaiah 29:10
 	  id:: 66b7554f-6ffb-4d9b-966f-ca85cad5fa46
 	  For the [[LORD]] has [[Pour]]ed out upon you
@@ -90,6 +89,10 @@
 	  with wonder upon wonder;
 	  and the [[Wisdom]] of their [[Wise]] [men]([[Man]]) shall [[Perish]],
 	  and the [[Discern]]ment of their discerning men shall be [hidden]([[Hide]]).”
+	- Isaiah 29:19
+	  id:: 6762c300-3e30-4056-941a-a8953a48a112
+	  The [[Meek]] shall [[Obtain]] [[Fresh]] [[Joy]] in the [[LORD]],
+	  and the [[Poor]] among [[Mankind]] shall [[Exult]] in the [[Holy]] [[One]] of [[Israel]]
 - Isaiah 30
   collapsed:: true
 	- Isaiah 30:15

@@ -3,6 +3,12 @@
 	- 1 Kings 6:1
 	  id:: 668d72d3-acc1-4d34-a044-29bfe897a0f8
 	  In the four hundred and eightieth year after the [[People]] of [[Israel]] came out of the land of [[Egypt]], in the fourth [[Year]] of [[Solomon]]'s [[Reign]] over Israel, in the month of [[Ziv]], which is the [[Second]] month, he began to [[Build]] the [[House]] of the [[LORD]].
+- 1 Kings 10
+	- 1 Kings 10:6
+	  And [she]([[Queen]]) said to [the]([[Solomon]]) [[King]] , "The [[Report]] was [[True]] that I [[Hear]]d in [my]([[Sheba]]) own [[Land]] of your [[Word]]s and of your [[Wisdom]],
+	- 1 Kings 10:7
+	  id:: 6762c4cd-8fed-4cc5-908f-84b94b6b62cc
+	  but [I]([[Queen]]) did not [[Believe]] the [[Report]]s until [I]([[Sheba]]) [came]([[Come]]) and my own [[Eye]]s had [[See]]n it. And behold, the [[Half]] was not told me. Your [[Wisdom]] and [[Prosper]]ity [[Surpass]] the report that I [[Hear]]d.
 - 1 Kings 19
   collapsed:: true
 	- 1 Kings 19:10
@@ -34,6 +40,7 @@
 	- 1 Kings 19:21
 	  And [he]([[Elisha]]) returned from [[Follow]]ing [him]([[Elijah]]) and took the [[Yoke]] of [[Ox]]en and [[Sacrifice]]d them and [[Boil]]ed their [[Flesh]] with the yokes of the oxen and [gave]([[Gift]]) it to the [[People]], and they [ate]([[Eat]]). Then he arose and went after Elijah and [[Assist]]ed him.
 - 1 Kings 20
+  collapsed:: true
 	- 1 Kings 20:1
 	  id:: 6749b759-c5d6-46cb-889c-03d2c0781ae0
 	  [[Ben-hadad]] the [[King]] of [[Syria]] [[Gather]]ed all his [[Army]] together. [[Thirty]]-[[Two]] kings were with him, and [[Horse]]s and [[Chariot]]s. And he went up and closed in on [[Samaria]] and [fought]([[Fight]]) [[Against]] it.
@@ -65,3 +72,12 @@
 	  And do this: [[Remove]] the [[King]]s, each from his post, and put [[Commander]]s in their places,
 	- 1 Kings 20:25
 	  and muster an [[Army]] like the army that [you]([[Ben-hadad]]) have [[Lost]], [[Horse]] for horse, and [[Chariot]] for chariot. Then we will [[Fight]] [[Against]] them in the [[Plain]], and surely we shall be [[Strong]]er than they." And he [[Listen]]ed to [their]([[Servant]]) [[Voice]] and did so.
+- 1 Kings 21
+  collapsed:: true
+	- 1 Kings 21:8
+	  So [she]([[Jezebel]]) [wrote]([[Write]]) [[Letter]]s in [[Ahab]]'s [[Name]] and sealed them with his [[Seal]], and she [[Sent]] the letters to the [[Elder]]s and the [[Leader]]s who [[Live]]d with [[Naboth]] in his [[City]].
+	- 1 Kings 21:9
+	  And [she]([[Jezebel]]) [wrote]([[Write]]) in the [[Letter]]s, “[[Proclaim]] a [[Fast]], and set [[Naboth]] at the [[Head]] of the [[People]].
+	- 1 Kings 21:10
+	  id:: 6762c105-9927-4711-8843-687f0504100b
+	  And set [[Two]] [[Worthless]] [men]([[Man]]) opposite [him]([[Naboth]]), and let them bring a [[Charge]] against him, saying, 'You have [[Curse]]d [[God]] and the [[King]].’ Then take him out and [[Stone]] him to [[Death]]."

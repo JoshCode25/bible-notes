@@ -15,3 +15,5 @@
 	- Leviticus 22:14
 	  id:: 67617673-dc07-4565-a057-cfd7b0bf50ee
 	  And if anyone [[Eat]]s of a [[Holy]] thing unintentionally, he shall [[Add]] the [[Fifth]] of its [[Value]] to it and [give]([[Gift]]) the holy thing to the [[Priest]].
+- Leviticus 26
+  id:: 6762c706-270a-4c41-91bf-aef0c6ff1688

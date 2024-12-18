@@ -37,6 +37,10 @@
 	  [[Take]] [[Care]] lest [your]([[Israel]]) [[Heart]] be [[Deceive]]d, and you turn aside and [[Serve]] other [[god]]s and [[Worship]] them;
 	- Deuteronomy 11:17
 	  then the [[Anger]] of the [[LORD]] will be kindled [[Against]] [you]([[Israel]]), and he will [[Shut]] up the [[Heaven]]s, so that there will be no [[Rain]], and the [[Land]] will [[Yield]] no [[Fruit]], and you will [[Perish]] quickly off the [[Good]] land that the [[LORD]] is [giving]([[Gift]]) you.
+- Deuteronomy 27
+  id:: 6762c742-5615-4c22-b4f2-3dc109650432
+- Deuteronomy 28
+  id:: 6762c74e-136b-4432-83c1-8bfbc57db95c
 - Deuteronomy 29 #Annotate
   collapsed:: true
 	- Deuteronomy 29:2

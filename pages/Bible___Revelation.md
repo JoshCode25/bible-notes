@@ -53,7 +53,22 @@ Tag:: [[Eschatology]]
 	- Revelation 7:14
 	  id:: 667ab49d-7911-4b6b-af0e-a937ea73e62c
 	  [I]([[John]]) said to [Him]([[Elder]]), "Sir, you know." And he said to me, "These are the ones coming out of the great [[Tribulation]]. They have [[Wash]]ed their [[Robe]]s and made them [[White]] in the [[Blood]] of the [[Lamb]].
+- Revelation 8
+  collapsed:: true
+	- Revelation 8:6
+	  Now the [[Seven]] [[Angel]]s who had the seven [[Trumpet]]s [[Prepare]]d to [[Blow]] them.
+	- Revelation 8:7
+	  id:: 6762c957-c755-4ec1-aa5d-cc3fd83edf5e
+	  The [[First]] [[Angel]] [blew]([[Blow]]) his [[Trumpet]], and there [[Follow]]ed [[Hail]] and [[Fire]], mixed with [[Blood]], and these were [[Throw]]n upon the [[Earth]]. And a [[Third]] of the earth was [[Burn]]ed up, and a third of the [[Tree]]s were burned up, and all [[Green]] [[Grass]] was burned up.
+- Revelation 11
+	- Revelation 11:15
+	  id:: 6762ca0f-05e1-4d3f-b942-0b588c99f2b7
+	  Then the [[Seventh]] [[Angel]] [blew]([[Blow]]) his [[Trumpet]], and there were [[Loud]] [[Voice]]s in [[Heaven]], saying, "The [[Kingdom]] of the [[World]] has become the kingdom of our [[LORD]] and of his [[Christ]], and he shall [[Reign]] [[Forever]] and ever."
+	- Revelation 11:19
+	  id:: 6762ca76-d234-44fe-b4bc-6d29cf0badbb
+	  Then [[God]]'s [[Temple]] in [[Heaven]] was [[Open]]ed, and the [[Ark]] of his [[Covenant]] was [[See]]n within his temple. There were flashes of [[Lightning]] , rumblings, peals of [[Thunder]], an [[Earthquake]], and heavy [[Hail]].
 - Revelation 12
+  collapsed:: true
 	- Revelation 12:1
 	  And a great [[Sign]] [[Appear]]ed in [[Heaven]]: a [[Woman]] [clothed]([[Clothes]]) with the [[Sun]], with the [[Moon]] under her [feet]([[Foot]]), and on her [[Head]] a [[Crown]] of [[Twelve]] [[Star]]s.
 	- Revelation 12:2
@@ -69,6 +84,7 @@ Tag:: [[Eschatology]]
 	- Revelation 12:6
 	  and the [[Woman]] [fled]([[Flee]]) into the [[Wilderness]], where she has a [[Place]] [[Prepare]]d by [[God]], in which she is to be [[Nourish]]ed for [[1,260]] [[Day]]s
 - Revelation 16
+  collapsed:: true
 	- Revelation 16:3
 	  id:: 668bd51f-2f01-474c-a031-84f8346eca62
 	  The [[Second]] [[Angel]] [[Pour]]ed out his [[Bowl]] into the [[Sea]], and it became like the [[Blood]] of a corpse, and every living thing [died]([[Dead]]) that was in the sea.
@@ -149,6 +165,7 @@ Tag:: [[Eschatology]]
 	  And if anyone's [[Name]] was not [Found]([[Find]]) [[Written]] in the [[Book of Life]], he was thrown into the [[Lake of Fire]].
 - Revelation 21
   id:: 668538f5-0a99-4eda-8635-ff6d098bf9a7
+  collapsed:: true
 	- Revelation 21:1
 	  id:: 668538fe-d27c-4f3d-a31a-e0f8ac8788cf
 	  Then [I]([[John]]) [saw]([[See]]) a [[New]] [[Heaven]] and a new [[Earth]], for the [[First]] heaven and the first earth had passed away, and the [[Sea]] was no more.
@@ -187,6 +204,7 @@ Tag:: [[Eschatology]]
 	  But nothing [[Unclean]] will ever [[Enter]] [it]([[Jerusalem/New]]), nor anyone who does what is detestable or [[False]], but only those who are [[Written]] in the [[Lamb]]'s [[Book]] of [[Life]].
 - Revelation 22
   id:: 66853d93-e81e-4e9c-98b9-f0e267404eba
+  collapsed:: true
 	- Revelation 22:7
 	  id:: 66868bdb-081f-4674-a485-68a1e1db4720
 	  ”And behold, [I]([[Jesus]]) am [Coming]([[Come]]) soon. [[Bless]]ed is the one who keeps the [[Word]]s of the [[Prophecy]] of this [[Book]]

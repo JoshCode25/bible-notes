@@ -40,7 +40,14 @@
 	  id:: 665b1140-a2d3-46fc-a2d7-f58e5856faf9
 	  And I will give you [[Shepherd]]s after [my]([[God]]) own [[Heart]], who will feed you with [[Knowledge]] and understanding.
 - Jeremiah 6
-  collapsed:: true
+	- Jeremiah 6:10
+	  id:: 6762c1f8-c401-44d0-8a95-e73d7cd94614
+	  To whom shall I [[Speak]] and [give]([[Gift]]) [[Warn]]ing,
+	  that they may [[Hear]]?
+	  Behold, their [[Ear]]s are [[Uncircumcise]]d,
+	  they cannot [[Listen]]:
+	  behold, the [[Word]] of the [[LORD]] is to them an object of [[Scorn]]:
+	  they take no [[Pleasure]] in it.
 	- Jeremiah 6:16
 	  id:: 6695594c-914e-4e7c-9d31-605746970f7e
 	  Thus says the  [[LORD]]:
