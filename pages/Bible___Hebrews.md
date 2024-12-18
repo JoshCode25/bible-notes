@@ -144,6 +144,7 @@
 	  But we are not of those who shrink back and are [[Destroy]]ed, but of those who have [[Faith]] and [[Preserve]] their [[Soul]]s.
 - Hebrews 11
   id:: 666b1873-88ee-409b-bcca-f3d3b8abf5fe
+  collapsed:: true
 	- Hebrews 11:1
 	  id:: 666b1878-a5f5-4d0d-ab00-a6bf56d999b7
 	  Now [[Faith]] is the [[Assurance]] of things [[Hope]]d for, the conviction of things not seen.
@@ -184,21 +185,20 @@
 	  since [[God]] had [[Provide]]d something [[Better]] for us, that apart from us they should not be made [[Perfect]].
 - Hebrews 12 #Annotate
   id:: 666b979b-def4-48ba-a529-725c26811fd5
-  collapsed:: true
 	- Hebrews 12:1
 	  id:: 66d8416e-1187-4bd5-86de-49224528442e
-	  Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us,
+	  Therefore, since we are [[Surround]]ed by so great a [[Cloud]] of [[Witness]]es, let us also lay aside every [[Weight]], and [[Sin]] which clings so closely, and let us [[Run]] with [[Endur]]ance the [[Race]] that is set before us,
 	- Hebrews 12:2
 	  id:: 66d8418a-dec5-4b57-9b3c-4d0b016c9408
-	  looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.
+	  [[Look]]ing to [[Jesus]], the [founder]([[author]]) and [[Perfect]]er of our [[Faith]], who for the [[Joy]] that was set before him [[Endur]]ed the [[Cross]], [despising]([[Despise]]) the [[Shame]], and is [seated]([[Sit]]) at the [[Right]] [[Hand]] of the [[Throne]] of [[God]].
 	- Hebrews 12:3
-	  Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted.
+	  [[Consider]] [Him]([[Jesus]]) who [[Endur]]ed from [[Sin]]ners such [hostility]([[Hostile]]) [[Against]] himself, so that you may not [[Grow]] [[Weary]] or [[faint]][[heart]]ed.
 	- Hebrews 12:4
-	  In your struggle against sin you have not yet resisted to the point of shedding your [[Blood]].
+	  In your [[Struggle]] [[Against]] [[Sin]] you have not yet [[Resist]]ed to the point of [[Shed]]ding your [[Blood]].
 	- Hebrews 12:5
-	  And have you forgotten the exhortation that addresses you as sons?
-	  "My son, do not regard lightly the discipline of the Lord,
-	  nor be weary when reproved by him.
+	  And have you [forgotten]([[Forget]]) the [[Exhort]]ation that [[address]]es you as [[Son]]s?
+	  "My son, do not regard lightly the [[Discipline]] of the [[LORD]],
+	  nor be [[Weary]] when [[Reprove]]d by [Him]([[God]]).
 		- ((66d84598-5b49-42cf-bdbc-07dca71bc298))
 	- Hebrews 12:6
 	  For the Lord disciplines the one he loves,
@@ -233,17 +233,18 @@
 	  Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe,
 	- Hebrews 12:29
 	  for our God is a consuming fire.
-- Hebrews 13 #Annotate
+- Hebrews 13
+  collapsed:: true
 	- Hebrews 13:4
-	  Let marriage be held in honor among all, and let the marriage bed be undefiled, for God will judge the sexually immoral and adulterous.
+	  Let [[Marriage]] be held in [[Honor]] among all, and let the marriage [[Bed]] be undefiled, for [[God]] will [[Judge]] the [[Sexual]]ly [[Immoral]] and [adulterous]([[Adultery]]).
 	- Hebrews 13:5
-	  Keep your life free from love of money, and be content with what you have, for he has said, "I will never leave you nor forsake you."
+	  [[Keep]] your [[life]] [[Free]] from [[Love]] of [[Money]], and be [[Content]] with what you have, for [He]([[God]]) has said, "I will never [[Leave]] you nor [[Forsake]] you."
 		- ((66d84470-1c21-4121-a6fd-d8fb96aa4950))
 	- Hebrews 13:6
-	  “So we can confidently say,
-	  The Lord is my helper;
-	  I will not fear;
-	  what can man do to me?"
+	  “So we can [confidently]([[Confidence]]) say,
+	  The [[LORD]] is my [[Help]]er;
+	  I will not [[Fear]];
+	  what can [man]([[Mankind]]) do to me?"
 		- ((66d8451e-b9d4-4db8-ad63-00d361e7e487))
 	- Hebrews 13:7
 	  [[Remember]] your [[Leader]]s, those who [spoke]([[Speak]]) to you the [[Word]] of [[God]]. [[Consider]] the outcome of their [[Way]] of [[Life]], and [[Imitate]] their [[Faith]].
