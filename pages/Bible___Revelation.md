@@ -60,7 +60,14 @@ Tag:: [[Eschatology]]
 	- Revelation 8:7
 	  id:: 6762c957-c755-4ec1-aa5d-cc3fd83edf5e
 	  The [[First]] [[Angel]] [blew]([[Blow]]) his [[Trumpet]], and there [[Follow]]ed [[Hail]] and [[Fire]], mixed with [[Blood]], and these were [[Throw]]n upon the [[Earth]]. And a [[Third]] of the earth was [[Burn]]ed up, and a third of the [[Tree]]s were burned up, and all [[Green]] [[Grass]] was burned up.
+- Revelation 9
+	- Revelation 9:20
+	  id:: 67695bee-c730-4067-846c-7d615a3bc3c8
+	  The rest of [[Mankind]], who were not [[Kill]]ed by these [[Plague]]s, did not [[Repent]] of the [[Work]]s of their [[Hand]]s nor give up [[Worship]]ing [[Demon]]s and [[Idol]]s of [[Gold]] and [[Silver]] and [[Bronze]] and [[Stone]] and [[Wood]], which cannot [[See]] or [[Hear]] or [[Walk]],
+	- Revelation 9:21
+	  nor did [they]([[Mankind]]) [[Repent]] of their [[Murder]]s or their [sorceries]([[Sorcer]]) or their [[Sexual]] [[Immoral]]ity or their [thefts]([[Steal]]).
 - Revelation 11
+  collapsed:: true
 	- Revelation 11:15
 	  id:: 6762ca0f-05e1-4d3f-b942-0b588c99f2b7
 	  Then the [[Seventh]] [[Angel]] [blew]([[Blow]]) his [[Trumpet]], and there were [[Loud]] [[Voice]]s in [[Heaven]], saying, "The [[Kingdom]] of the [[World]] has become the kingdom of our [[LORD]] and of his [[Christ]], and he shall [[Reign]] [[Forever]] and ever."
