@@ -43,6 +43,7 @@
 	- Matthew 6:34
 	  "Therefore do not be [[Anxious]] about [tomorrow]([[Future]]), for tomorrow will be anxious for itself. Sufficient for the day is its own [[Trouble]].
 - Matthew 7
+  collapsed:: true
 	- Matthew 7:13
 	  "[[Enter]] by the narrow [[Gate]]. For the gate is wide and the [[Way]] is easy that leads to [Destruction]([[Destroy]]) and those who enter by it are many.
 	- Matthew 7:14
@@ -69,7 +70,6 @@
 	  id:: 67599069-97f3-461c-9977-a621641f4631
 	  And then will [I]([[Jesus]]) [[Declare]] to them, ‘I never [knew]([[Know]]) you; [[Depart]] from me, you [[Work]]ers of [[Lawless]]ness.'
 - Matthew 8
-  collapsed:: true
 	- Matthew 8:5
 	  When [He]([[Jesus]]) had entered [[Capernaum]], a [[Centurion]] came forward to Him, appealing to Him,
 	- Matthew 8:6
@@ -87,9 +87,19 @@
 	- Matthew 8:10
 	  id:: 6676b9d3-89ce-4a99-9280-152e21861e26
 	  When [[Jesus]] heard this, He [[Marvel]]ed and said to those who followed him, "Truly, I tell you, with no one in [[Israel]] have I found such [[Faith]].
+	- Matthew 8:23
+	  And when [He]([[Jesus]]) got into the [[Boat]], his [[Disciple]]s [[Follow]]ed him.
+	- Matthew 8:24
+	  id:: 676ea716-034d-499e-aabb-770ee0ef9521
+	  And behold, there arose a great [[Storm]] on the [[Sea]], so that the [[Boat]] was being swamped by the [[Wave]]s; but [He]([[Jesus]]) was [asleep]([[Sleep]]).
+	- Matthew 8:25
+	  id:: 676ea6f7-4441-450b-aa19-3133f220f69d
+	  And [they]([[Disciple]]) went and [woke]([[Awake]]) [Him]([[Jesus]]), saying, "[[Save]] us, [[Lord]]; we are [[Perish]]ing."
 	- Matthew 8:26
 	  id:: 6720cfe1-7cf0-401e-939c-d496d84b1aa1
 	  And [He]([[Jesus]]) said to them, "Why are you [[Afraid]], O you of little [[Faith]]?" Then he rose and [[Rebuke]]d the [[Wind]]s and the [[Sea]], and there was a great [[Calm]].
+	- Matthew 8:27
+	  And the [men]([[Disciple]]) [[Marvel]]ed, saying, "What sort of [[Man]] is this, that even [[Wind]]s and [[Sea]] [[Obey]] [Him]([[Jesus]])?"
 - Matthew 13
   collapsed:: true
 	- Matthew 13:23

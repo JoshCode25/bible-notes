@@ -101,7 +101,17 @@
 	- Hebrews 8:7
 	  For if that [[First]] [[Covenant]] had been [[Fault]]less, there would have been no occasion to [[Look]] for a [[Second]].
 - Hebrews 9
-  collapsed:: true
+	- Hebrews 9:11
+	  But when [[Christ]] [[Appear]]ed as a [[High Priest]] of the [[Good]] things that have [[Come]], then through the greater and more [[Perfect]] [[Tent]] (not [[Made]] with [[Hand]]s, that is, not of this [[Creation]])
+	- Hebrews 9:12
+	  [He]([[Christ]]) [[Enter]]ed once for all into the [[Holy]] [[Place]]s, not by means of the [[Blood]] of [[Goat]]s and [calves]([[Calf]]) but by means of his own blood, thus [securing]([[Security]]) an [[Etern]]al [redemption]([[Redeem]]).
+	- Hebrews 9:13
+	  For if the [[Blood]] of [[Goat]]s and [[Bull]]s, and the [sprinkling]([[Sprinkle]]) of [[Defile]]d persons with the [[Ash]]es of a heifer, [[Sanctif]]y for the [purification]([[Pure]]) of the [[Flesh]],
+	- Hebrews 9:14
+	  how much more will the [[Blood]] of [[Christ]], who through the [[Etern]]al [Spirit]([[Holy Spirit]]) [[Offer]]ed himself without [[Blemish]] to [[God]], [purify]([[Pure]]) our [[Conscience]] from [[Dead]] [[Work]]s to [[Serve]] the [living]([[Live]]) God.
+	- Hebrews 9:15
+	  id:: 676ea3b1-08dd-49bb-acb4-e620bec0c64e
+	  Therefore [He]([[Christ]]) is the [[Mediator]] of a [[New]] [[Covenant]], so that those who are [[Call]]ed may [[Receive]] the [[Promise]]d [[Etern]]al [[Inherit]]ance, since a [[Death]] has occurred that [[Redeem]]s them from the [[Transgress]]ions committed under the [[First]] covenant.
 	- Hebrews 9:27
 	  And just as it is [[Appoint]]ed for [[Man]] to [[Die]] once, and after that comes [[Judgment]], #Eschatology
 		- ((6683e97c-d019-4526-92b1-cd378a6d3cac)), ((6683e9da-eaa7-43ee-b92b-4862388c99a3))
