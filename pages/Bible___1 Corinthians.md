@@ -106,6 +106,7 @@
 	  For [I]([[Paul]]) am not aware of anything [[Against]] myself, but I am not thereby acquitted. It is the [[LORD]] who [[Judge]]s me.
 	- 1 Corinthians 4:5
 	  Therefore do not pronounce [[Judgment]] before the [[Time]], before the [[LORD]] [[Come]]s, who will bring to [[Light]] the things now [hidden]([[Hide]]) in [[Dark]]ness and will disclose the [[Purpose]]s of the [[Heart]]. Then each [[One]] will [[Receive]] his commendation from [[God]]. #Eschatology
+		- ((668c24d1-a25e-4474-b427-d75195c97c2a)), ((6683e97c-d019-4526-92b1-cd378a6d3cac))
 	- 1 Corinthians 4:6
 	  [I]([[Paul]]) have applied all these things to myself and [[Apollos]] for your benefit, [[Brother]]s, that you may [[Learn]] by us not to go [[Beyond]] what is [[Written]], that none of you may be puffed up in [[Favor]] of [[One]] [[Against]] another.
 	- 1 Corinthians 4:7

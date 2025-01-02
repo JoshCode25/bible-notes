@@ -1027,6 +1027,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	  in him will the Gentiles [[Hope]]."
 		- ((66bc9bde-f391-481d-b48d-026e1264ea08))
 	- Romans 15:13
+	  id:: 66bc9eca-ad5d-41a9-b5bf-8be8bb7edcee
 	  May the [[God]] of [[Hope]] [[Fill]] you with all [[Joy]] and [[Peace]] in [believing]([[Believe]]), so that by the [[Power]] of the [[Holy Spirit]] you may [[Abound]] in hope.
 	- Romans 15:14
 	  [I]([[Paul]]) myself am [[Satisfied]] about you, my [[Brother]]s, that you yourselves are [[Full]] of [[Goodness]], filled with all [[Knowledge]] and able to [[Instruct]] one another.
