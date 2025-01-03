@@ -88,6 +88,7 @@
 	  id:: 6676b9d3-89ce-4a99-9280-152e21861e26
 	  When [[Jesus]] heard this, He [[Marvel]]ed and said to those who followed him, "Truly, I tell you, with no one in [[Israel]] have I found such [[Faith]].
 	- Matthew 8:23
+	  id:: 676ea6da-8a2a-401a-946f-8dd8fd8a09b9
 	  And when [He]([[Jesus]]) got into the [[Boat]], his [[Disciple]]s [[Follow]]ed him.
 	- Matthew 8:24
 	  id:: 676ea716-034d-499e-aabb-770ee0ef9521

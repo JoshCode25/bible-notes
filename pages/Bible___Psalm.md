@@ -147,7 +147,17 @@
 	  to [[David]] and his [[Offspring]] [[Forever]].
 		- ((66bc9a6b-95bb-4589-a8c2-b675beec6ff1))
 - Psalm 19
-  collapsed:: true
+	- Psalm 19:1
+	  The [[Heaven]]s [[Declare]] the [[Glory]] of [[God]],
+	  and the [[Sky]] above [[Proclaim]]s his [handiwork]([[Work]]).
+		- ((66b4b0db-4243-4350-a0c7-5f4db3729258))
+	- Psalm 19:2
+	  [[Day]] to day [[Pour]]s out [[Speech]],
+	  and [[Night]] to night [[Reveal]]s [[Knowledge]].
+	- Psalm 19:3
+	  There is no [[Speech]], nor are there [[Word]]s,
+	  whose [[Voice]] is not [[Hear]]d.
+		- ((66db7ebf-7c45-420a-9b05-4bff611a7d02))
 	- Psalm 19:4
 	  id:: 66bb498c-399a-48b7-8951-4cdb601cd0c4
 	  [Their]([[Heaven]]) [[Voice]] goes out throughout all the [[Earth]],

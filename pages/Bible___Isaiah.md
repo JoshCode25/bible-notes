@@ -66,6 +66,7 @@
 	  a [[Precious]] [[Cornerstone]], of a sure foundation:
 	  ‘Whoever [[Believe]]s will not be in haste.’
 - Isaiah 29
+  collapsed:: true
 	- Isaiah 29:10
 	  id:: 66b7554f-6ffb-4d9b-966f-ca85cad5fa46
 	  For the [[LORD]] has [[Pour]]ed out upon you
@@ -127,6 +128,7 @@
 	  Who has measured the [Spirit]([[Holy Spirit]]) of the [[LORD]],
 	  or what [[Man]] shows [Him]([[God]]) his [[Counsel]]?
 - Isaiah 42
+  collapsed:: true
 	- Isaiah 42:6
 	  "[I]([[God]]) am the [[LORD]]; I have called you in [[Righteous]]ness;
 	  I will [[Take]] you by the [[Hand]] and [[Keep]] you;
@@ -205,6 +207,7 @@
 	- Isaiah 44:20
 	  He feeds on [[Ash]]es; a deluded [[Heart]] has [led]([[Lead]]) him [[Astray]], and he cannot [[Deliver]] himself or say, "Is there not a [[Lie]] in my [[Right]] [[Hand]]?"
 - Isaiah 45
+  collapsed:: true
 	- Isaiah 45:5
 	  I am the [[LORD]], and there is no other,
 	  besides me there is no [[God]];
@@ -482,7 +485,6 @@
 	  and their [vindication]([[Vindicate]]) from [Me]([[God]]), [[Declare]]s the LORD."
 - Isaiah 55
   id:: 6697fde4-926e-4d88-b12c-b458b5258444
-  collapsed:: true
 	- Isaiah 55:1
 	  "[[Come]], everyone who [[Thirst]]s,
 	  come to the [[Water]]s;
