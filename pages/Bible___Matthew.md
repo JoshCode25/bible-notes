@@ -70,6 +70,7 @@
 	  id:: 67599069-97f3-461c-9977-a621641f4631
 	  And then will [I]([[Jesus]]) [[Declare]] to them, ‘I never [knew]([[Know]]) you; [[Depart]] from me, you [[Work]]ers of [[Lawless]]ness.'
 - Matthew 8
+  collapsed:: true
 	- Matthew 8:5
 	  When [He]([[Jesus]]) had entered [[Capernaum]], a [[Centurion]] came forward to Him, appealing to Him,
 	- Matthew 8:6
@@ -102,7 +103,18 @@
 	- Matthew 8:27
 	  And the [men]([[Disciple]]) [[Marvel]]ed, saying, "What sort of [[Man]] is this, that even [[Wind]]s and [[Sea]] [[Obey]] [Him]([[Jesus]])?"
 - Matthew 13
-  collapsed:: true
+	- Matthew 13:18
+	  id:: 67792ea0-2361-4559-957c-85cfe93f9721
+	  "[[Hear]] then the [[Parable]] of the [[Sow]]er:
+	- Matthew 13:19
+	  When anyone [[Hear]]s the [[Word]] of the [[Kingdom]] and does not [[Understand]] it, the [[Evil]] [[One]] [[Come]]s and snatches away what has been [[Sow]]n in his [[Heart]]. This is what was sown along the [[Path]].
+	- Matthew 13:20
+	  As for what was [[Sow]]n on [[Rock]]y [[Ground]], this is the one who [[Hear]]s the [[Word]] and immediately [[Receive]]s it with [[Joy]],
+	- Matthew 13:21
+	  id:: 67792efb-d920-426f-aea7-c57ed9819c44
+	  yet he has no [[Root]] in himself, but [[Endur]]es for a while, and when [[Tribulation]] or [[Persecut]]ton arises on account of the [[Word]], immediately he [[Fall]]s away.
+	- Matthew 13:22
+	  As for what was [[Sow]]n among [[Thorn]]s, this is the one who [[Hear]]s the [[Word]], but the [[Care]]s of the [[World]] and the [deceitfulness]([[Deceive]]) of [[Rich]]es [[Choke]] the word, and it [[Prove]]s un[[Fruitful]].
 	- Matthew 13:23
 	  id:: 6662faa0-f9f1-4f98-834e-c73555b4c6a5
 	  As for what was sown on [[Good]] [[Soil]], this is the one who [[Hear]]s the [Word]([[God’s Word]]) and [[Understand]]s it. He indeed [[Bear]]s [[Fruit]] and [[Yield]]s, in one case a hundredfold, in another sixty, and in another thirty."
