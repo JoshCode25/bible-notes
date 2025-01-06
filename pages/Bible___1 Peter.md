@@ -235,9 +235,9 @@
 	- 1 Peter 5:1
 	  So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed:
 	- 1 Peter 5:2
-	  shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly;
+	  [[Shepherd]] the [[Flock]] of [[God]] that is among you, exercising oversight, not under compulsion, but [willingly]([[Will]]), as God would have you; not for [shameful]([[Shame]]) gain, but eagerly;
 	- 1 Peter 5:3
-	  not domineering over those in your charge, but being examples to the flock.
+	  not domineering over those in your charge, but being [[Example]]s to the [[Flock]].
 	- 1 Peter 5:4
 	  And when the chief Shepherd appears, you will receive the unfading crown of glory.
 	- 1 Peter 5:5
