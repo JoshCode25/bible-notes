@@ -15,5 +15,5 @@ translations:: [[Empty]] expanse, [[Country]], [[Region]]
 	- "coasts"; 27:27; Acts 18:23.
 - Syn.:
 	- (A) **Topos** (5117) is a place, indefinite; a portion of space viewed in reference to its occupancy, or as appropriated to itself.
-	- (B) **Chora** (5561) is region, country, an extensive; space, yet un-bounded.
+	- (B) **Chora** (5561) is region, country, an extensive; space, yet unbounded.
 	- (C) **Chorion** (5564) is a parcel of ground, circumscribed; a definite portion of space viewed as enclosed or complete in itself
