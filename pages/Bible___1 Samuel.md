@@ -10,6 +10,7 @@
 	  Then [[Samuel]] took the horn of [[Oil]] and [[Anoint]]ed him in the midst of his [[Brother]]s. And the [Spirit of the LORD]([[Holy Spirit]]) rushed upon [[David]] from that day forward. And Samuel rose up and went to Ramah.
 - 1 Samuel 17
   id:: 676d78fe-cb51-48a1-a61e-db31587045c7
+  collapsed:: true
 	- 1 Samuel 17:31
 	  When the [[Word]]s that [[David]] [spoke]([[Speak]]) were [[Hear]]d, they repeated them before [[Saul]], and he [[Sent]] for him.
 	- 1 Samuel 17:32
