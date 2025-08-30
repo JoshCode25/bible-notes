@@ -99,8 +99,26 @@
 	- Isaiah 30:15
 	  id:: 665daebd-1636-41ff-bcf2-e5800cb7221d
 	  For thus said the [[LORD]] [[God]], the [[Holy]] One of [[Israel]], "In [[Return]]ing and [[Rest]] you shall be [[Saved]]; in [[Quiet]]ness and in [[Trust]] shall be your [[Strength]]." But you were unwilling,
-	- Isaiah 56:16 
+	- Isaiah 30:16 
 	  and you said, "No! We will [[Flee]] upon [[Horse]]s"; therefore you shall flee away; and, "We will ride upon swift steeds"; therefore your [[Pursue]]rs shall be swift.
+	- Isaiah 30:17
+	  A thousand shall [[Flee]] at the [[Threat]] of one;
+	  at the threat of five you shall flee,
+	  till you are left
+	  like a flagstaff on the top of a [[Mountain]],
+	  like a signal on a hill.
+	- Isaiah 30:18
+	  Therefore the [[LORD]] [[Wait]]s to be gracious to you,
+	  and therefore he [[Exalt]]s himself to show [[Mercy]] to you.
+	  For the LORD is a [[God]] of [[Justice]]; [[Bless]]ed are all those who wait for him.
+	- Isaiah 30:19
+	  For a people shall [[Dwell]] in [[Zion]], in [[Jerusalem]]; you shall [[Weep]] no more. [He]([[LORD]]) will surely be gracious to you at the [[Sound]] of your [[Cry]]. As soon as [He]([[God]]) [[Hear]]s it, he [[Answer]]s you.
+	- Isaiah 30:20
+	  And though the [[LORD]] give you the [[Bread]] of adversity and the [[Water]] of [[Afflict]]ion, yet your [[Teacher]] will not [[Hide]] himself anymore, but your [[Eye]]s shall [[See]] your Teacher.
+	- Isaiah 30:21
+	  And your [[Ear]]s shall [[Hear]] a [[Word]] behind you, saying, "This is the way, [[Walk]] in it," when you [[Turn]] to the [[Right]] or when you turn to the [[Left]].
+	- Isaiah 30:22
+	  Then you will defile your carved [[Idol]]s overlaid with [[Silver]] and your [[Gold]]-plated [[Metal]] [[Image]]s. You will scatter them as [[Unclean]] things. You will say to them, "Be gone!"
 - Isaiah 38
   id:: 6663417b-5ca5-4c94-b3e7-b54d8a1713e2
   collapsed:: true
@@ -485,6 +503,7 @@
 	  and their [vindication]([[Vindicate]]) from [Me]([[God]]), [[Declare]]s the LORD."
 - Isaiah 55
   id:: 6697fde4-926e-4d88-b12c-b458b5258444
+  collapsed:: true
 	- Isaiah 55:1
 	  "[[Come]], everyone who [[Thirst]]s,
 	  come to the [[Water]]s;
