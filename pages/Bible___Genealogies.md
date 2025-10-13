@@ -27,8 +27,35 @@
 												- Shelah
 													- Eber
 														- Peleg (Earth divided)
+															- Reu
+																- Serug
+																	- Nahor
+																		- Terah
+																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
+																				- Isaac
+																			- Nahor + ((68ed387d-68f6-4a20-9b25-e46a111b60b2))
+																				- Bethuel
+																					- Rebekah
+																					- Laban
+																			- Haran
+																				- Lot
+																				- Milcah
+																				  id:: 68ed387d-68f6-4a20-9b25-e46a111b60b2
+																				- Iscah
 														- Joktan
 															- Almodad
+															- Sheleph
+															- Hazarmaveth
+															- Jerad
+															- Hadoram
+															- Uzal
+															- Diklah
+															- Obal
+															- Abinael
+															- Sheba
+															- Ophir
+															- Havilah
+															- Jobab
 											- Lud
 											- Aram
 												- Uz
@@ -87,3 +114,5 @@
 	  id:: 68ed3578-307f-4a12-836d-0f39f4bc47cb
 	- Zillah
 	  id:: 68ed3582-00f4-424b-9f07-cfe50623c8dc
+	- Sarai
+	  id:: 68ed3840-f537-49f0-adbc-bebdf28faf55
