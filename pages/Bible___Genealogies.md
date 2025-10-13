@@ -39,11 +39,15 @@
 																						- Simeon
 																						- Levi
 																						- Judah
+																						- Isaachar
+																						- Zebulun
+																						- Dinah
 																					- Jacob + ((68ed3ca2-8934-4ec8-a869-e8f41bab77b7))
 																						- Gad
 																						- Asher
-																						-
 																					- Jacob + ((68ed3b8c-4a1b-4df6-b0c7-8b6579cbe2f5))
+																						- Joseph
+																						- Benjamin
 																					- Jacob + ((68ed3c52-f78a-4d13-80e8-fdfaef81d424))
 																						- Dan
 																						- Naphtali
@@ -144,6 +148,9 @@
 												- Amorites
 												- Girgashites
 												- Hivites
+													- *Unknown*
+														- Hamar
+															- Shechem
 												- Arkites
 												- Sinites
 												- Arvadites
