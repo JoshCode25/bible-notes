@@ -34,8 +34,20 @@
 																		- Terah
 																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
 																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
-																					- Jacob
-																					- Esau
+																					- Jacob + ((68ed3b72-0a57-4d8d-a586-4bb9f95b80a2))
+																						- Reuben
+																						- Simeon
+																						- Levi
+																						- Judah
+																					- Jacob + ((68ed3ca2-8934-4ec8-a869-e8f41bab77b7))
+																						- Gad
+																						- Asher
+																						-
+																					- Jacob + ((68ed3b8c-4a1b-4df6-b0c7-8b6579cbe2f5))
+																					- Jacob + ((68ed3c52-f78a-4d13-80e8-fdfaef81d424))
+																						- Dan
+																						- Naphtali
+																					- Esau + ((68ed3bbc-1598-4b17-9e49-4b5b4264fabb))
 																			- Abram + ((68ed3a2d-8a9d-49f2-9327-38c2fbd8f117))
 																				- Ishmael + Egyptian Wife
 																					- Nebaioth
@@ -50,6 +62,8 @@
 																					- Jetur
 																					- Naphish
 																					- Kedemah
+																					- Mahalath
+																					  id:: 68ed3bbc-1598-4b17-9e49-4b5b4264fabb
 																			- Abram + ((68ed39a0-a1f9-472d-a9cc-447c2d5cf696))
 																				- Zimran
 																				- Jokshan
@@ -72,6 +86,10 @@
 																					- Rebekah
 																					  id:: 68ed3913-d8a2-43b4-9285-675744ad6ec6
 																					- Laban
+																						- Leah
+																						  id:: 68ed3b72-0a57-4d8d-a586-4bb9f95b80a2
+																						- Rachel
+																						  id:: 68ed3b8c-4a1b-4df6-b0c7-8b6579cbe2f5
 																			- Haran
 																				- Lot
 																				- Milcah
@@ -156,3 +174,7 @@
 	  id:: 68ed3840-f537-49f0-adbc-bebdf28faf55
 	- Keturah
 	  id:: 68ed39a0-a1f9-472d-a9cc-447c2d5cf696
+	- Bilhah (Rachel's Servant)
+	  id:: 68ed3c52-f78a-4d13-80e8-fdfaef81d424
+	- Zilpah (Leah's Servant)
+	  id:: 68ed3ca2-8934-4ec8-a869-e8f41bab77b7
