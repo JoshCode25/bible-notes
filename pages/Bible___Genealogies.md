@@ -1,6 +1,5 @@
 - Adam + Eve
 	- Cain
-	  collapsed:: true
 		- Enoch
 			- Irad
 				- Mehujael
@@ -137,7 +136,7 @@
 												- Pathrusim
 												- Casluhim (Philistines)
 												- Caphtorim
-												- *Unknown Lineage*
+												- *Unknown...*
 													- Hagar
 													  id:: 68ed3a2d-8a9d-49f2-9327-38c2fbd8f117
 											- Put
@@ -148,7 +147,7 @@
 												- Amorites
 												- Girgashites
 												- Hivites
-													- *Unknown*
+													- *Unknown...*
 														- Hamar
 															- Shechem
 												- Arkites
@@ -171,8 +170,7 @@
 											- Tubal
 											- Meshech
 											- Tiras
-											-
-- Unkown
+- Unknown
 	- Adah
 	  id:: 68ed3578-307f-4a12-836d-0f39f4bc47cb
 	- Zillah
