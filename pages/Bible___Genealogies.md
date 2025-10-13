@@ -1,5 +1,6 @@
 - Adam + Eve
 	- Cain
+	  collapsed:: true
 		- Enoch
 			- Irad
 				- Mehujael
@@ -32,10 +33,44 @@
 																	- Nahor
 																		- Terah
 																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
-																				- Isaac
+																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
+																					- Jacob
+																					- Esau
+																			- Abram + ((68ed3a2d-8a9d-49f2-9327-38c2fbd8f117))
+																				- Ishmael + Egyptian Wife
+																					- Nebaioth
+																					- Kedar
+																					- Adbeel
+																					- Mibsam
+																					- Mishma
+																					- Dumah
+																					- Massa
+																					- Hadad
+																					- Tema
+																					- Jetur
+																					- Naphish
+																					- Kedemah
+																			- Abram + ((68ed39a0-a1f9-472d-a9cc-447c2d5cf696))
+																				- Zimran
+																				- Jokshan
+																					- Sheba
+																					- Dedan
+																						- Asshurim
+																						- Letushim
+																						- Leummim
+																				- Medan
+																				- Midian
+																					- Ephah
+																					- Epher
+																					- Hanoch
+																					- Abida
+																					- Eldaah
+																				- Ishbak
+																				- Shuah
 																			- Nahor + ((68ed387d-68f6-4a20-9b25-e46a111b60b2))
 																				- Bethuel
 																					- Rebekah
+																					  id:: 68ed3913-d8a2-43b4-9285-675744ad6ec6
 																					- Laban
 																			- Haran
 																				- Lot
@@ -80,6 +115,9 @@
 												- Pathrusim
 												- Casluhim (Philistines)
 												- Caphtorim
+												- *Unknown Lineage*
+													- Hagar
+													  id:: 68ed3a2d-8a9d-49f2-9327-38c2fbd8f117
 											- Put
 											- Canaan
 												- Sidon
@@ -116,3 +154,5 @@
 	  id:: 68ed3582-00f4-424b-9f07-cfe50623c8dc
 	- Sarai
 	  id:: 68ed3840-f537-49f0-adbc-bebdf28faf55
+	- Keturah
+	  id:: 68ed39a0-a1f9-472d-a9cc-447c2d5cf696
