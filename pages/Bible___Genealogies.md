@@ -67,6 +67,7 @@
 																					- Kedemah
 																					- Mahalath
 																					  id:: 68ed3bbc-1598-4b17-9e49-4b5b4264fabb
+																					- Basemath
 																			- Abram + ((68ed39a0-a1f9-472d-a9cc-447c2d5cf696))
 																				- Zimran
 																				- Jokshan
@@ -150,6 +151,9 @@
 													- *Unknown...*
 														- Hamar
 															- Shechem
+														- Zibeon
+															- Anah
+																- Oholibamah
 												- Arkites
 												- Sinites
 												- Arvadites
