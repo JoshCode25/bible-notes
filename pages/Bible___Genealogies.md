@@ -51,6 +51,25 @@
 																						- Dan
 																						- Naphtali
 																					- Esau + ((68ed3bbc-1598-4b17-9e49-4b5b4264fabb))
+																					- Esau + ((68ee395d-2331-43aa-aa65-da96617dae73))
+																						- Eliphaz
+																							- Teman
+																							- Omar
+																							- Zepho
+																							- Gatam
+																							- Kenaz
+																						- Eliphaz + ((68ee3a7f-16ee-48e7-a71b-ccab013b312b))
+																							- Amalek
+																					- Esau + ((68ee3c81-86cf-4f9d-b3cc-67e0e9690561))
+																						- Jeush
+																						- Jalam
+																						- Korah
+																					- Esau + ((68edb63a-cd74-4526-b148-560998c9df78))
+																						- Reul
+																							- Nathan
+																							- Zerah
+																							- Shammah
+																							- Mizzah
 																			- Abram + ((68ed3a2d-8a9d-49f2-9327-38c2fbd8f117))
 																				- Ishmael + Egyptian Wife
 																					- Nebaioth
@@ -68,6 +87,7 @@
 																					- Mahalath
 																					  id:: 68ed3bbc-1598-4b17-9e49-4b5b4264fabb
 																					- Basemath
+																					  id:: 68edb63a-cd74-4526-b148-560998c9df78
 																			- Abram + ((68ed39a0-a1f9-472d-a9cc-447c2d5cf696))
 																				- Zimran
 																				- Jokshan
@@ -147,13 +167,10 @@
 												- Jebusites
 												- Amorites
 												- Girgashites
-												- Hivites
+												- Hivites - some descendants referenced as ((68ee3b36-d4fc-405e-83f2-f6f0719bd4dc))
 													- *Unknown...*
 														- Hamar
 															- Shechem
-														- Zibeon
-															- Anah
-																- Oholibamah
 												- Arkites
 												- Sinites
 												- Arvadites
@@ -187,3 +204,43 @@
 	  id:: 68ed3c52-f78a-4d13-80e8-fdfaef81d424
 	- Zilpah (Leah's Servant)
 	  id:: 68ed3ca2-8934-4ec8-a869-e8f41bab77b7
+	- Horites
+	  id:: 68ee3b36-d4fc-405e-83f2-f6f0719bd4dc
+		- Seir
+			- Lotan
+				- Hori
+				- Hemam
+			- Shobal
+				- Alvan
+				- Manahath
+				- Ebal
+				- Shepho
+				- Onam
+			- Zibeon (Hivite)
+				- Aiah
+				- Anah
+					- Dishon
+						- Hemdan
+						- Eshban
+						- Ithran
+						- Cheran
+					- Oholibamah
+					  id:: 68ee3c81-86cf-4f9d-b3cc-67e0e9690561
+			- Anah
+			- Dishon
+			- Ezer
+				- Bilhan
+				- Zaavan
+				- Akan
+			- Dishan
+				- Uz
+				- Aran
+			- Timna
+			  id:: 68ee3a7f-16ee-48e7-a71b-ccab013b312b
+	- Hitites
+		- Elon
+			- Adah
+			  id:: 68ee395d-2331-43aa-aa65-da96617dae73
+	- Mezahab
+		- Matred
+			- Mehetabel
