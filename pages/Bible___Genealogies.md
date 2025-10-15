@@ -35,21 +35,82 @@
 																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
 																					- Jacob + ((68ed3b72-0a57-4d8d-a586-4bb9f95b80a2))
 																						- Reuben
+																							- Hanoch
+																							- Pallu
+																							- Hezron
+																							- Carmi
 																						- Simeon
+																							- Jemuel
+																							- Jarmin
+																							- Ohad
+																							- Jachin
+																							- Zohar
+																						- Simeon + Canaanite
+																							- Shual
 																						- Levi
-																						- Judah
+																							- Gershon
+																							- Kohath
+																							- Merari
+																						- Judah + ((68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7))
+																							- Er + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
+																							- Onan + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
+																							- Shelah
+																						- Judah + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
+																							- Perez
+																								- Hezron
+																								- Hamul
+																							- Zerah
 																						- Isaachar
+																							- Tola
+																							- Puvah
+																							- Yob
+																							- Shimron
 																						- Zebulun
+																							- Sered
+																							- Elon
+																							- Jahleel
 																						- Dinah
 																					- Jacob + ((68ed3ca2-8934-4ec8-a869-e8f41bab77b7))
 																						- Gad
+																							- Ziphion
+																							- Haggi
+																							- Shuni
+																							- Ezbon
+																							- Eri
+																							- Arodi
+																							- Areli
 																						- Asher
+																							- Imnah
+																							- Ishvah
+																							- Ishvi
+																							- Beriah
+																								- Heber
+																								- Malchiel
+																							- Serah
 																					- Jacob + ((68ed3b8c-4a1b-4df6-b0c7-8b6579cbe2f5))
-																						- Joseph
+																						- Joseph + ((68ef8faf-cff4-426b-bf5b-2c873c02ce15))
+																							- Manasseh
+																								- Machir
+																							- Ephraim
 																						- Benjamin
+																							- Bela
+																							- Becher
+																							- Ashbel
+																							- Gera
+																							- Naaman
+																							- Ehi
+																							- Rish
+																							- Muppim
+																							- Huppim
+																							- Ard
 																					- Jacob + ((68ed3c52-f78a-4d13-80e8-fdfaef81d424))
 																						- Dan
+																							- Hushim
 																						- Naphtali
+																							- Jahzeel
+																							- Guni
+																							- Jezer
+																							- Shillem
 																					- Esau + ((68ed3bbc-1598-4b17-9e49-4b5b4264fabb))
 																					- Esau + ((68ee395d-2331-43aa-aa65-da96617dae73))
 																						- Eliphaz
@@ -160,6 +221,9 @@
 												- *Unknown...*
 													- Hagar
 													  id:: 68ed3a2d-8a9d-49f2-9327-38c2fbd8f117
+													- Potiphera, Priest of On
+														- Asenath
+														  id:: 68ef8faf-cff4-426b-bf5b-2c873c02ce15
 											- Put
 											- Canaan
 												- Sidon
@@ -176,6 +240,10 @@
 												- Arvadites
 												- Zemarties
 												- Hamathites
+												- *Unknown...*
+													- Shua
+														- Shua's Daughter
+														  id:: 68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7
 										- Japheth
 											- Gomer
 												- Ashkenaz
@@ -241,6 +309,9 @@
 		- Elon
 			- Adah
 			  id:: 68ee395d-2331-43aa-aa65-da96617dae73
+		- Ephron
 	- Mezahab
 		- Matred
 			- Mehetabel
+	- Tamar
+	  id:: 68ef8d9d-f00d-4621-bce0-97d7695821c5
