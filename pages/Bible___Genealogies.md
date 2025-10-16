@@ -342,11 +342,11 @@
 				- Akan
 			- Dishan
 				- Uz
+					- *Unknown...*
+						- Job
 				- Aran
 			- Timna
 			  id:: 68ee3a7f-16ee-48e7-a71b-ccab013b312b
-			- *Unknown...*
-				- Job
 	- Hitites
 		- Elon
 			- Adah
