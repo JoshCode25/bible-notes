@@ -60,8 +60,15 @@
 																							- Kohath
 																							- Merari
 																							- *Unknown*
-																								- Moses' Dad
-																								- Moses + ((68f12da9-f2f8-4129-9afe-1d6e7a99ef5a))
+																								- Levite couple
+																									- Moses + ((68f12da9-f2f8-4129-9afe-1d6e7a99ef5a))
+																										- Gershom
+																										- Eliezer
+																									- Aaron
+																										- Nadab
+																										- Abihu
+																										- Eleazar
+																										- Ithamar
 																						- Judah + ((68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7))
 																							- Er + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
 																							- Onan + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
@@ -71,6 +78,11 @@
 																								- Hezron
 																								- Hamul
 																							- Zerah
+																						- Judah
+																							- *Unknown...*
+																								- Hur
+																									- Uri
+																										- Bezalel
 																						- Isaachar
 																							- Tola
 																							- Puvah
@@ -117,6 +129,9 @@
 																					- Jacob + ((68ed3c52-f78a-4d13-80e8-fdfaef81d424))
 																						- Dan
 																							- Hushim
+																							- *Unknown...*
+																								- Ahisamach
+																									- Oholiab
 																						- Naphtali
 																							- Jahzeel
 																							- Guni
