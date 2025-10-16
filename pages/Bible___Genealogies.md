@@ -20,6 +20,7 @@
 					- Caleb (12 spies)
 	- Able
 	- Seth
+	  collapsed:: true
 		- Enosh
 			- Kenan
 				- Mahalalel
@@ -40,6 +41,7 @@
 																	- Nahor
 																		- Terah
 																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
+																			  collapsed:: true
 																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
 																					- Jacob + ((68ed3b72-0a57-4d8d-a586-4bb9f95b80a2))
 																						- Reuben
@@ -115,6 +117,9 @@
 																							- Manasseh
 																								- Machir
 																							- Ephraim
+																								- *Unknown...*
+																									- Nun
+																										- Joshua/Hoshea
 																						- Benjamin
 																							- Bela
 																							- Becher
@@ -141,6 +146,9 @@
 																					- Esau + ((68ee395d-2331-43aa-aa65-da96617dae73))
 																						- Eliphaz
 																							- Teman
+																								- *Unknown...*
+																									- Temanite
+																										- Eliphaz
 																							- Omar
 																							- Zepho
 																							- Gatam
@@ -191,8 +199,13 @@
 																					- Hanoch
 																					- Abida
 																					- Eldaah
+																					- *Unknown...*
+																						- Balaam
 																				- Ishbak
 																				- Shuah
+																					- *Unknown...*
+																						- Shuhites
+																							- Bildad
 																			- Nahor + ((68ed387d-68f6-4a20-9b25-e46a111b60b2))
 																				- Bethuel
 																					- Rebekah
@@ -332,6 +345,8 @@
 				- Aran
 			- Timna
 			  id:: 68ee3a7f-16ee-48e7-a71b-ccab013b312b
+			- *Unknown...*
+				- Job
 	- Hitites
 		- Elon
 			- Adah
