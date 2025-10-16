@@ -10,6 +10,14 @@
 						- Lamech + ((68ed3582-00f4-424b-9f07-cfe50623c8dc))
 							- Tubal-Cain
 							- Naamah
+		- *Unknown...*
+			- Kenites
+				- Jethro / Hobab / ((68f12ad5-8980-4ce8-b12d-818d5c9d4c4d))
+					- Zipporah
+					  id:: 68f12da9-f2f8-4129-9afe-1d6e7a99ef5a
+			- Kenizzites
+				- Jephunneh
+					- Caleb (12 spies)
 	- Able
 	- Seth
 		- Enosh
@@ -51,6 +59,9 @@
 																							- Gershon
 																							- Kohath
 																							- Merari
+																							- *Unknown*
+																								- Moses' Dad
+																								- Moses + ((68f12da9-f2f8-4129-9afe-1d6e7a99ef5a))
 																						- Judah + ((68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7))
 																							- Er + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
 																							- Onan + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
@@ -127,6 +138,7 @@
 																						- Korah
 																					- Esau + ((68edb63a-cd74-4526-b148-560998c9df78))
 																						- Reul
+																						  id:: 68f12ad5-8980-4ce8-b12d-818d5c9d4c4d
 																							- Nathan
 																							- Zerah
 																							- Shammah
