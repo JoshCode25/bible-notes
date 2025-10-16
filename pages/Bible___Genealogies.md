@@ -20,7 +20,6 @@
 					- Caleb (12 spies)
 	- Able
 	- Seth
-	  collapsed:: true
 		- Enosh
 			- Kenan
 				- Mahalalel
@@ -167,6 +166,7 @@
 																							- Shammah
 																							- Mizzah
 																			- Abram + ((68ed3a2d-8a9d-49f2-9327-38c2fbd8f117))
+																			  collapsed:: true
 																				- Ishmael + Egyptian Wife
 																					- Nebaioth
 																					- Kedar
@@ -185,6 +185,7 @@
 																					- Basemath
 																					  id:: 68edb63a-cd74-4526-b148-560998c9df78
 																			- Abram + ((68ed39a0-a1f9-472d-a9cc-447c2d5cf696))
+																			  collapsed:: true
 																				- Zimran
 																				- Jokshan
 																					- Sheba
@@ -221,6 +222,7 @@
 																				  id:: 68ed387d-68f6-4a20-9b25-e46a111b60b2
 																				- Iscah
 														- Joktan
+														  collapsed:: true
 															- Almodad
 															- Sheleph
 															- Hazarmaveth
@@ -242,6 +244,7 @@
 												- Mash
 										- Ham
 											- Cush
+											  collapsed:: true
 												- Seba
 												- Havilah
 												- Sabtah
@@ -251,6 +254,7 @@
 												- Sabteca
 												- Nimrod
 											- Egypt
+											  collapsed:: true
 												- Ludim
 												- Anamim
 												- Lehabim
@@ -266,6 +270,7 @@
 														  id:: 68ef8faf-cff4-426b-bf5b-2c873c02ce15
 											- Put
 											- Canaan
+											  collapsed:: true
 												- Sidon
 												- Heth
 												- Jebusites
@@ -285,6 +290,7 @@
 														- Shua's Daughter
 														  id:: 68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7
 										- Japheth
+										  collapsed:: true
 											- Gomer
 												- Ashkenaz
 												- Riphath
@@ -299,61 +305,65 @@
 											- Tubal
 											- Meshech
 											- Tiras
-- Unknown
-	- Adah
-	  id:: 68ed3578-307f-4a12-836d-0f39f4bc47cb
-	- Zillah
-	  id:: 68ed3582-00f4-424b-9f07-cfe50623c8dc
-	- Sarai
-	  id:: 68ed3840-f537-49f0-adbc-bebdf28faf55
-	- Keturah
-	  id:: 68ed39a0-a1f9-472d-a9cc-447c2d5cf696
-	- Bilhah (Rachel's Servant)
-	  id:: 68ed3c52-f78a-4d13-80e8-fdfaef81d424
-	- Zilpah (Leah's Servant)
-	  id:: 68ed3ca2-8934-4ec8-a869-e8f41bab77b7
-	- Horites
-	  id:: 68ee3b36-d4fc-405e-83f2-f6f0719bd4dc
-		- Seir
-			- Lotan
-				- Hori
-				- Hemam
-			- Shobal
-				- Alvan
-				- Manahath
-				- Ebal
-				- Shepho
-				- Onam
-			- Zibeon (Hivite)
-				- Aiah
+- *Unknown...*
+  collapsed:: true
+	- Single Name
+		- Adah
+		  id:: 68ed3578-307f-4a12-836d-0f39f4bc47cb
+		- Zillah
+		  id:: 68ed3582-00f4-424b-9f07-cfe50623c8dc
+		- Sarai
+		  id:: 68ed3840-f537-49f0-adbc-bebdf28faf55
+		- Keturah
+		  id:: 68ed39a0-a1f9-472d-a9cc-447c2d5cf696
+		- Bilhah (Rachel's Servant)
+		  id:: 68ed3c52-f78a-4d13-80e8-fdfaef81d424
+		- Zilpah (Leah's Servant)
+		  id:: 68ed3ca2-8934-4ec8-a869-e8f41bab77b7
+		- Mezahab
+			- Matred
+				- Mehetabel
+		- Tamar
+		  id:: 68ef8d9d-f00d-4621-bce0-97d7695821c5
+	- Clan/People
+		- Horites
+		  id:: 68ee3b36-d4fc-405e-83f2-f6f0719bd4dc
+		  collapsed:: true
+			- Seir
+				- Lotan
+					- Hori
+					- Hemam
+				- Shobal
+					- Alvan
+					- Manahath
+					- Ebal
+					- Shepho
+					- Onam
+				- Zibeon (Hivite)
+					- Aiah
+					- Anah
+						- Dishon
+							- Hemdan
+							- Eshban
+							- Ithran
+							- Cheran
+						- Oholibamah
+						  id:: 68ee3c81-86cf-4f9d-b3cc-67e0e9690561
 				- Anah
-					- Dishon
-						- Hemdan
-						- Eshban
-						- Ithran
-						- Cheran
-					- Oholibamah
-					  id:: 68ee3c81-86cf-4f9d-b3cc-67e0e9690561
-			- Anah
-			- Dishon
-			- Ezer
-				- Bilhan
-				- Zaavan
-				- Akan
-			- Dishan
-				- Uz
-					- *Unknown...*
-						- Job
-				- Aran
-			- Timna
-			  id:: 68ee3a7f-16ee-48e7-a71b-ccab013b312b
-	- Hitites
-		- Elon
-			- Adah
-			  id:: 68ee395d-2331-43aa-aa65-da96617dae73
-		- Ephron
-	- Mezahab
-		- Matred
-			- Mehetabel
-	- Tamar
-	  id:: 68ef8d9d-f00d-4621-bce0-97d7695821c5
+				- Dishon
+				- Ezer
+					- Bilhan
+					- Zaavan
+					- Akan
+				- Dishan
+					- Uz
+						- *Unknown...*
+							- Job
+					- Aran
+				- Timna
+				  id:: 68ee3a7f-16ee-48e7-a71b-ccab013b312b
+		- Hitites
+			- Elon
+				- Adah
+				  id:: 68ee395d-2331-43aa-aa65-da96617dae73
+			- Ephron
