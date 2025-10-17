@@ -18,6 +18,8 @@
 			- Kenizzites
 				- Jephunneh
 					- Caleb (12 spies)
+					- Kenaz
+						- Othniel
 	- Able
 	- Seth
 		- Enosh
@@ -69,6 +71,7 @@
 																										- Nadab
 																										- Abihu
 																										- Eleazar
+																											- Phinehas
 																										- Ithamar
 																						- Judah + ((68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7))
 																							- Er + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
@@ -202,6 +205,8 @@
 																					- Eldaah
 																					- *Unknown...*
 																						- Balaam
+																						- Zur
+																							- Cozbi
 																				- Ishbak
 																				- Shuah
 																					- *Unknown...*
