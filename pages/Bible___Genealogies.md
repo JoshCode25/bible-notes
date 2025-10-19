@@ -42,7 +42,6 @@
 																	- Nahor
 																		- Terah
 																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
-																			  collapsed:: true
 																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
 																					- Jacob + ((68ed3b72-0a57-4d8d-a586-4bb9f95b80a2))
 																						- Reuben
@@ -73,6 +72,7 @@
 																										- Eleazar
 																											- Phinehas
 																										- Ithamar
+																									- Miriam
 																						- Judah + ((68ef8cb8-701b-4cb6-b5cc-dd832b19a2e7))
 																							- Er + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
 																							- Onan + ((68ef8d9d-f00d-4621-bce0-97d7695821c5))
