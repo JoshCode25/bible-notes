@@ -41,6 +41,7 @@
 																- Serug
 																	- Nahor
 																		- Terah
+																		  collapsed:: true
 																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
 																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
 																					- Jacob + ((68ed3b72-0a57-4d8d-a586-4bb9f95b80a2))
@@ -133,6 +134,13 @@
 																							- Muppim
 																							- Huppim
 																							- Ard
+																							- *Unknown…*
+																								- Aphiah
+																									- Becorath
+																										- Zeror
+																											- Abiel
+																												- Kish
+																													- Saul
 																					- Jacob + ((68ed3c52-f78a-4d13-80e8-fdfaef81d424))
 																						- Dan
 																							- Hushim
@@ -311,7 +319,6 @@
 											- Meshech
 											- Tiras
 - *Unknown...*
-  collapsed:: true
 	- Single Name
 		- Adah
 		  id:: 68ed3578-307f-4a12-836d-0f39f4bc47cb
@@ -333,7 +340,6 @@
 	- Clan/People
 		- Horites
 		  id:: 68ee3b36-d4fc-405e-83f2-f6f0719bd4dc
-		  collapsed:: true
 			- Seir
 				- Lotan
 					- Hori
@@ -372,3 +378,8 @@
 				- Adah
 				  id:: 68ee395d-2331-43aa-aa65-da96617dae73
 			- Ephron
+		- Amalekites - associated with ((68ee3b36-d4fc-405e-83f2-f6f0719bd4dc))
+			- Agag
+				- *Unknown…*
+					- Hammedatha
+						- Haman
