@@ -78,6 +78,7 @@ Theme:: [[Sin]], [[Justif]]ication, [[Law]], and [[Grace]]
 	- Romans 1:32
 	  Though [they]([[Mankind]]) [[Know]] [[God]]'s [[Righteous]] [[Decree]] that those who [[Practice]] such things [[Deserve]] to [[Die]], they not only do them but give approval to those who practice them.
 - Romans 2
+  collapsed:: true
 	- Romans 2:1
 	  Therefore you have no [[Excuse]], O [man]([[Mankind]]), every one of you who [[Judge]]s. For in passing [[Judgment]] on another you [[Condemn]] yourself, because you, the judge, [[Practice]] the very same things.
 	- Romans 2:2
