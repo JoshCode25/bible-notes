@@ -41,8 +41,8 @@
 																- Serug
 																	- Nahor
 																		- Terah
-																		  collapsed:: true
 																			- Abram + ((68ed3840-f537-49f0-adbc-bebdf28faf55))
+																			  collapsed:: true
 																				- Isaac + ((68ed3913-d8a2-43b4-9285-675744ad6ec6))
 																					- Jacob + ((68ed3b72-0a57-4d8d-a586-4bb9f95b80a2))
 																						- Reuben
@@ -235,7 +235,6 @@
 																				  id:: 68ed387d-68f6-4a20-9b25-e46a111b60b2
 																				- Iscah
 														- Joktan
-														  collapsed:: true
 															- Almodad
 															- Sheleph
 															- Hazarmaveth
